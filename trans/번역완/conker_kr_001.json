@@ -1,0 +1,2147 @@
+{
+ "_": "ko 에 번역을 넣으세요. bytes=자막의 바이트 한도(한글 받침o 3B/받침x 2B, 그 외 1B), width=말풍선의 줄 폭 한도(한글 1자=13, 공백=4, \\n 으로 나뉜 각 줄이 이하일 것). id 는 건드리지 마세요.",
+ "part": 1,
+ "messages": [
+  {
+   "id": 0,
+   "width": 141,
+   "subs": [
+    {
+     "id": 0,
+     "bytes": 20,
+     "en": "Training - Scarecrow",
+     "ko": "트레이닝 - 허수아비"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "width": 124,
+   "subs": [
+    {
+     "id": 1,
+     "bytes": 18,
+     "en": "Training - Jumping",
+     "ko": "트레이닝 - 점프"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "width": 140,
+   "subs": [
+    {
+     "id": 2,
+     "bytes": 21,
+     "en": "Training - Frying Pan",
+     "ko": "트레이닝 - 프라이팬"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "width": 137,
+   "subs": [
+    {
+     "id": 3,
+     "bytes": 21,
+     "en": "Training - The Baddie",
+     "ko": "트레이닝 - 악당"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "width": 175,
+   "subs": [
+    {
+     "id": 4,
+     "bytes": 25,
+     "en": "Training - Waterfall Cash",
+     "ko": "트레이닝 - 폭포 동전"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "width": 173,
+   "subs": [
+    {
+     "id": 5,
+     "bytes": 26,
+     "en": "The Queen's lost her Home!",
+     "ko": "여왕이 집을 잃었다!"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "width": 223,
+   "subs": [
+    {
+     "id": 6,
+     "bytes": 34,
+     "en": "The Queen's lost her Home (again)!",
+     "ko": "여왕님이 또 집을 잃었다!"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "width": 124,
+   "subs": [
+    {
+     "id": 7,
+     "bytes": 18,
+     "en": "Shoot The Beetles?",
+     "ko": "딱정벌레 사냥"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "width": 101,
+   "subs": [
+    {
+     "id": 8,
+     "bytes": 14,
+     "en": "Open Poo Cabin",
+     "ko": "똥막 열기"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "width": 162,
+   "subs": [
+    {
+     "id": 9,
+     "bytes": 23,
+     "en": "Poo Mountain Big Beetle",
+     "ko": "똥산 딱정벌레"
+    },
+    {
+     "id": 10,
+     "bytes": 18,
+     "en": "Stone Faced Island",
+     "ko": "돌얼굴 섬"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "width": 129,
+   "subs": [
+    {
+     "id": 11,
+     "bytes": 18,
+     "en": "Roll And Rat Start",
+     "ko": "구르기와 쥐 시작"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "width": 93,
+   "subs": [
+    {
+     "id": 12,
+     "bytes": 13,
+     "en": "Roll And Rat?",
+     "ko": "구르기와 쥐?"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "width": 124,
+   "subs": [
+    {
+     "id": 13,
+     "bytes": 17,
+     "en": "Windmill Exploded",
+     "ko": "풍차 폭발"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "width": 145,
+   "subs": [
+    {
+     "id": 14,
+     "bytes": 22,
+     "en": "Bee Cavern Deep Strike",
+     "ko": "벌굴 심층습격"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "width": 192,
+   "subs": [
+    {
+     "id": 15,
+     "bytes": 29,
+     "en": "Bee Cavern Deep Strike Return",
+     "ko": "벌굴 습격 귀환"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "width": 86,
+   "subs": [
+    {
+     "id": 16,
+     "bytes": 11,
+     "en": "Feed Marvin",
+     "ko": "마빈 먹이"
+    },
+    {
+     "id": 17,
+     "bytes": 13,
+     "en": "Meet King Bee",
+     "ko": "벌왕 만남"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "width": 106,
+   "subs": [
+    {
+     "id": 18,
+     "bytes": 14,
+     "en": "Sunflower Babe",
+     "ko": "해바라기양"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "width": 187,
+   "subs": [
+    {
+     "id": 19,
+     "bytes": 25,
+     "en": "Sunflower Babe Bounceable",
+     "ko": "튕기는 해바라기 아가씨"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "width": 88,
+   "subs": [
+    {
+     "id": 20,
+     "bytes": 13,
+     "en": "Leap Of Faith",
+     "ko": "믿음 도약"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "width": 178,
+   "subs": [
+    {
+     "id": 21,
+     "bytes": 26,
+     "en": "Frankie Wants to Poke You!",
+     "ko": "프랭키가 찌르고파!"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "width": 92,
+   "subs": [
+    {
+     "id": 22,
+     "bytes": 13,
+     "en": "Burn The Bats",
+     "ko": "박쥐 태우기"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "width": 99,
+   "subs": [
+    {
+     "id": 23,
+     "bytes": 18,
+     "en": "Free Frankie ? ! !",
+     "ko": "프랭키 구출!!"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "width": 105,
+   "subs": [
+    {
+     "id": 24,
+     "bytes": 14,
+     "en": "Giant Haystack",
+     "ko": "큰 건초더미"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "width": 119,
+   "subs": [
+    {
+     "id": 25,
+     "bytes": 17,
+     "en": "Barn Flipper Cash",
+     "ko": "헛간 동전"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "width": 140,
+   "subs": [
+    {
+     "id": 26,
+     "bytes": 19,
+     "en": "Terminator Haystack",
+     "ko": "터미네이터 건초"
+    },
+    {
+     "id": 27,
+     "bytes": 17,
+     "en": "Barn Arena Escape",
+     "ko": "헛간 탈출"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "width": 142,
+   "subs": [
+    {
+     "id": 28,
+     "bytes": 21,
+     "en": "Meet the Toff Catfish",
+     "ko": "귀족 메기 만나기"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "width": 90,
+   "subs": [
+    {
+     "id": 29,
+     "bytes": 13,
+     "en": "Open The Safe",
+     "ko": "금고 열기"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "width": 156,
+   "subs": [
+    {
+     "id": 30,
+     "bytes": 21,
+     "en": "Crazy Dogfish Escapes",
+     "ko": "미친 도그피시 탈출"
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "width": 155,
+   "subs": [
+    {
+     "id": 31,
+     "bytes": 22,
+     "en": "Second Safe Lock Intro",
+     "ko": "두 번째 자물쇠"
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "width": 145,
+   "subs": [
+    {
+     "id": 32,
+     "bytes": 20,
+     "en": "Open The Blast Doors",
+     "ko": "방지문 열기"
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "width": 90,
+   "subs": [
+    {
+     "id": 33,
+     "bytes": 13,
+     "en": "Miners helmet",
+     "ko": "광부 헬멧"
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "width": 108,
+   "subs": [
+    {
+     "id": 34,
+     "bytes": 16,
+     "en": "Inside Safe Cash",
+     "ko": "금고 속 동전"
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "width": 194,
+   "subs": [
+    {
+     "id": 35,
+     "bytes": 26,
+     "en": "Through The Clang's Domain",
+     "ko": "클랭의 영역 통과"
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "width": 156,
+   "subs": [
+    {
+     "id": 36,
+     "bytes": 19,
+     "en": "Cog Needs His Women",
+     "ko": "코그 여자 필요"
+    },
+    {
+     "id": 37,
+     "bytes": 19,
+     "en": "Pull The Dogfish In",
+     "ko": "도그피시 끌기"
+    },
+    {
+     "id": 38,
+     "bytes": 22,
+     "en": "The Vampire Bats Tower",
+     "ko": "흡혈박쥐 탑"
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "width": 130,
+   "subs": [
+    {
+     "id": 39,
+     "bytes": 19,
+     "en": "Rock Rollin' Cavern",
+     "ko": "바위 구르는 동굴"
+    },
+    {
+     "id": 40,
+     "bytes": 16,
+     "en": "Sacrifice a Baby",
+     "ko": "아기를 제물로"
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "width": 120,
+   "subs": [
+    {
+     "id": 41,
+     "bytes": 16,
+     "en": "Bronto Snot Head",
+     "ko": "브론토 콧물"
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "width": 74,
+   "subs": [
+    {
+     "id": 42,
+     "bytes": 10,
+     "en": "Worship Me",
+     "ko": "숭배하라"
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "width": 130,
+   "subs": [
+    {
+     "id": 43,
+     "bytes": 18,
+     "en": "BLOW UP THE CAVERN",
+     "ko": "동굴 폭파"
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "width": 97,
+   "subs": [
+    {
+     "id": 44,
+     "bytes": 13,
+     "en": "HATCH THE EGG",
+     "ko": "알 부화하기"
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "width": 163,
+   "subs": [
+    {
+     "id": 45,
+     "bytes": 23,
+     "en": "GET BABY DINO TO CAVERN",
+     "ko": "아기 공룡을 동굴로"
+    },
+    {
+     "id": 46,
+     "bytes": 13,
+     "en": "FIND UGGA HAT",
+     "ko": "우가모자찾기"
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "width": 129,
+   "subs": [
+    {
+     "id": 47,
+     "bytes": 18,
+     "en": "THROW BOMB IN NEST",
+     "ko": "둥지 폭탄"
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "width": 71,
+   "subs": [
+    {
+     "id": 48,
+     "bytes": 10,
+     "en": "Rock Solid",
+     "ko": "록솔리드"
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "width": 140,
+   "subs": [
+    {
+     "id": 49,
+     "bytes": 20,
+     "en": "Rock Solid Roll Rock",
+     "ko": "록솔리드 굴리기"
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "width": 117,
+   "subs": [
+    {
+     "id": 50,
+     "bytes": 15,
+     "en": "Rock Solid Cash",
+     "ko": "록솔리드캐시"
+    },
+    {
+     "id": 51,
+     "bytes": 16,
+     "en": "MEET WEASEL BOSS",
+     "ko": "족제비왕만남"
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "width": 106,
+   "subs": [
+    {
+     "id": 52,
+     "bytes": 11,
+     "en": "Dining Dino",
+     "ko": "공룡식사"
+    },
+    {
+     "id": 53,
+     "bytes": 14,
+     "en": "Bugga the Knut",
+     "ko": "버가 더 넛"
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "width": 132,
+   "subs": [
+    {
+     "id": 54,
+     "bytes": 18,
+     "en": "Meet The Ugga Babe",
+     "ko": "우가양 만남"
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "width": 138,
+   "subs": [
+    {
+     "id": 55,
+     "bytes": 15,
+     "en": "Enter Poo Cabin",
+     "ko": "똥막 입장"
+    },
+    {
+     "id": 56,
+     "bytes": 15,
+     "en": "Leave Poo Cabin",
+     "ko": "똥막 퇴장"
+    },
+    {
+     "id": 57,
+     "bytes": 19,
+     "en": "Poo Sweetcorn Teeth",
+     "ko": "옥수수 이빨 똥"
+    },
+    {
+     "id": 58,
+     "bytes": 16,
+     "en": "Poovarotti Sings",
+     "ko": "푸바로티의 노래"
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "width": 118,
+   "subs": [
+    {
+     "id": 59,
+     "bytes": 16,
+     "en": "Poovarotti Flush",
+     "ko": "푸바로티 배출"
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "width": 152,
+   "subs": [
+    {
+     "id": 60,
+     "bytes": 15,
+     "en": "WEASEL POO SCAM",
+     "ko": "족제비 사기극"
+    },
+    {
+     "id": 61,
+     "bytes": 20,
+     "en": "Ugga Lava Race Start",
+     "ko": "용암경주 시작"
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "width": 110,
+   "subs": [
+    {
+     "id": 62,
+     "bytes": 14,
+     "en": "Ugga Lava Race",
+     "ko": "용암경주"
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "width": 88,
+   "subs": [
+    {
+     "id": 63,
+     "bytes": 13,
+     "en": "Bull Shitters",
+     "ko": "허풍쟁이들"
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "width": 138,
+   "subs": [
+    {
+     "id": 64,
+     "bytes": 15,
+     "en": "Fire Imp Frenzy",
+     "ko": "불임프 광란"
+    },
+    {
+     "id": 65,
+     "bytes": 20,
+     "en": "Boiler Big Nuts Boss",
+     "ko": "보일러 빅너츠 보스"
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "width": 124,
+   "subs": [
+    {
+     "id": 66,
+     "bytes": 16,
+     "en": "Bowling Bollocks",
+     "ko": "볼링 소동"
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "width": 177,
+   "subs": [
+    {
+     "id": 67,
+     "bytes": 23,
+     "en": "Beach Assault Bloodbath",
+     "ko": "해변 공격 대학살"
+    },
+    {
+     "id": 68,
+     "bytes": 15,
+     "en": "Beach Sail Away",
+     "ko": "해변 출항"
+    },
+    {
+     "id": 69,
+     "bytes": 11,
+     "en": "Lift Tunnel",
+     "ko": "리프트터널"
+    },
+    {
+     "id": 70,
+     "bytes": 12,
+     "en": "Flame Tunnel",
+     "ko": "화염 터널"
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "width": 116,
+   "subs": [
+    {
+     "id": 71,
+     "bytes": 16,
+     "en": "Machine Gun Nest",
+     "ko": "기관총 진지"
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "width": 82,
+   "subs": [
+    {
+     "id": 72,
+     "bytes": 12,
+     "en": "Annihilation",
+     "ko": "섬멸전"
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "width": 157,
+   "subs": [
+    {
+     "id": 73,
+     "bytes": 23,
+     "en": "Execute Private Rodent?",
+     "ko": "로던트 이병 처형?"
+    },
+    {
+     "id": 74,
+     "bytes": 20,
+     "en": "Saved Private Rodent",
+     "ko": "로던트 이병 구출"
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "width": 105,
+   "subs": [
+    {
+     "id": 75,
+     "bytes": 14,
+     "en": "Parachute Lock",
+     "ko": "낙하산잠금"
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "width": 114,
+   "subs": [
+    {
+     "id": 76,
+     "bytes": 16,
+     "en": "Canyon End Tediz",
+     "ko": "협곡끝 테디즈"
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "width": 156,
+   "subs": [
+    {
+     "id": 77,
+     "bytes": 21,
+     "en": "Tank Blow Tunnel Door",
+     "ko": "터널문 폭파"
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "width": 100,
+   "subs": [
+    {
+     "id": 78,
+     "bytes": 14,
+     "en": "A Tank Too Far",
+     "ko": "너무 먼 탱크"
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "width": 112,
+   "subs": [
+    {
+     "id": 79,
+     "bytes": 16,
+     "en": "Tank Acid Tunnel",
+     "ko": "탱크산성터널"
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "width": 75,
+   "subs": [
+    {
+     "id": 80,
+     "bytes": 12,
+     "en": "Electric Eel",
+     "ko": "전기장어"
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "width": 133,
+   "subs": [
+    {
+     "id": 81,
+     "bytes": 18,
+     "en": "Blast the wreckage",
+     "ko": "잔해 폭파하기"
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "width": 83,
+   "subs": [
+    {
+     "id": 82,
+     "bytes": 12,
+     "en": "Up Periscope",
+     "ko": "잠망경"
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "width": 64,
+   "subs": [
+    {
+     "id": 83,
+     "bytes": 8,
+     "en": "War Boss",
+     "ko": "전투왕"
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "width": 145,
+   "subs": [
+    {
+     "id": 84,
+     "bytes": 18,
+     "en": "War Boss Countdown",
+     "ko": "보스 카운트다운"
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "width": 106,
+   "subs": [
+    {
+     "id": 85,
+     "bytes": 14,
+     "en": "Medical Mayhem",
+     "ko": "의무실 소동"
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "width": 85,
+   "subs": [
+    {
+     "id": 86,
+     "bytes": 12,
+     "en": "Horror Intro",
+     "ko": "공포 소개"
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "width": 135,
+   "subs": [
+    {
+     "id": 87,
+     "bytes": 18,
+     "en": "Zombie Grave Shoot",
+     "ko": "좀비 무덤 사격"
+    }
+   ]
+  },
+  {
+   "id": 70,
+   "width": 92,
+   "subs": [
+    {
+     "id": 88,
+     "bytes": 12,
+     "en": "Count Batula",
+     "ko": "배츄라백작"
+    }
+   ]
+  },
+  {
+   "id": 71,
+   "width": 137,
+   "subs": [
+    {
+     "id": 89,
+     "bytes": 11,
+     "en": "Zombie Fest",
+     "ko": "좀비 축제"
+    },
+    {
+     "id": 90,
+     "bytes": 19,
+     "en": "Haunted Barrel Roll",
+     "ko": "유령의 통 굴리기"
+    },
+    {
+     "id": 91,
+     "bytes": 13,
+     "en": "Bank Entrance",
+     "ko": "은행 입구"
+    }
+   ]
+  },
+  {
+   "id": 72,
+   "width": 94,
+   "subs": [
+    {
+     "id": 92,
+     "bytes": 15,
+     "en": "The Vertex (TM)",
+     "ko": "더 버텍스"
+    },
+    {
+     "id": 93,
+     "bytes": 10,
+     "en": "Bank Vault",
+     "ko": "금고실"
+    }
+   ]
+  },
+  {
+   "id": 73,
+   "width": 120,
+   "subs": [
+    {
+     "id": 94,
+     "bytes": 15,
+     "en": "Blade Boardroom",
+     "ko": "블레이드실"
+    },
+    {
+     "id": 95,
+     "bytes": 9,
+     "en": "End Arena",
+     "ko": "종결전"
+    }
+   ]
+  },
+  {
+   "id": 74,
+   "width": 155,
+   "subs": [
+    {
+     "id": 96,
+     "bytes": 25,
+     "en": "Fight The Alien (no suit)",
+     "ko": "외계인전 슈트없이"
+    }
+   ]
+  },
+  {
+   "id": 75,
+   "width": 98,
+   "subs": [
+    {
+     "id": 97,
+     "bytes": 15,
+     "en": "Fight The Alien",
+     "ko": "외계인과 전투"
+    },
+    {
+     "id": 98,
+     "bytes": 8,
+     "en": "MP Heist",
+     "ko": "강도전"
+    }
+   ]
+  },
+  {
+   "id": 76,
+   "width": 101,
+   "subs": [
+    {
+     "id": 99,
+     "bytes": 14,
+     "en": "MP Tank Battle",
+     "ko": "멀티 탱크전"
+    }
+   ]
+  },
+  {
+   "id": 77,
+   "width": 61,
+   "subs": [
+    {
+     "id": 100,
+     "bytes": 8,
+     "en": "MP Beach",
+     "ko": "해변전"
+    }
+   ]
+  },
+  {
+   "id": 78,
+   "width": 49,
+   "subs": [
+    {
+     "id": 101,
+     "bytes": 6,
+     "en": "MP War",
+     "ko": "전쟁"
+    }
+   ]
+  },
+  {
+   "id": 79,
+   "width": 92,
+   "subs": [
+    {
+     "id": 102,
+     "bytes": 12,
+     "en": "MP Beach War",
+     "ko": "해변전쟁"
+    }
+   ]
+  },
+  {
+   "id": 80,
+   "width": 80,
+   "subs": [
+    {
+     "id": 103,
+     "bytes": 10,
+     "en": "MP Volcano",
+     "ko": "화산"
+    }
+   ]
+  },
+  {
+   "id": 81,
+   "width": 74,
+   "subs": [
+    {
+     "id": 104,
+     "bytes": 10,
+     "en": "MP Tunnels",
+     "ko": "터널"
+    }
+   ]
+  },
+  {
+   "id": 82,
+   "width": 69,
+   "subs": [
+    {
+     "id": 105,
+     "bytes": 9,
+     "en": "MP Raptor",
+     "ko": "랩터"
+    }
+   ]
+  },
+  {
+   "id": 83,
+   "width": 86,
+   "subs": [
+    {
+     "id": 106,
+     "bytes": 12,
+     "en": "Introduction",
+     "ko": "인트로"
+    }
+   ]
+  },
+  {
+   "id": 84,
+   "width": 121,
+   "subs": [
+    {
+     "id": 107,
+     "bytes": 17,
+     "en": "The Table Problem",
+     "ko": "테이블 문제"
+    }
+   ]
+  },
+  {
+   "id": 85,
+   "width": 94,
+   "subs": [
+    {
+     "id": 108,
+     "bytes": 14,
+     "en": "The Experiment",
+     "ko": "실험"
+    }
+   ]
+  },
+  {
+   "id": 86,
+   "width": 94,
+   "subs": [
+    {
+     "id": 109,
+     "bytes": 14,
+     "en": "A Red Squirrel",
+     "ko": "빨간 다람쥐"
+    }
+   ]
+  },
+  {
+   "id": 87,
+   "width": 128,
+   "subs": [
+    {
+     "id": 110,
+     "bytes": 19,
+     "en": "Is That Bridge Safe",
+     "ko": "저 다리 안전해?"
+    },
+    {
+     "id": 111,
+     "bytes": 16,
+     "en": "Rocky Gets Berri",
+     "ko": "로키, 베리 납치"
+    }
+   ]
+  },
+  {
+   "id": 88,
+   "width": 228,
+   "subs": [
+    {
+     "id": 112,
+     "bytes": 32,
+     "en": "End of Game Cutscene and Credits",
+     "ko": "엔딩 컷신과 크레딧"
+    }
+   ]
+  },
+  {
+   "id": 89,
+   "width": 79,
+   "subs": [
+    {
+     "id": 113,
+     "bytes": 10,
+     "en": "LogoScreen",
+     "ko": "로고 화면"
+    }
+   ]
+  },
+  {
+   "id": 90,
+   "width": 131,
+   "subs": [
+    {
+     "id": 114,
+     "bytes": 11,
+     "en": "First Death",
+     "ko": "첫 죽음"
+    },
+    {
+     "id": 115,
+     "bytes": 18,
+     "en": "Ha Ha Ha Your Dead",
+     "ko": "넌 죽었다"
+    }
+   ]
+  },
+  {
+   "id": 91,
+   "width": 275,
+   "subs": [
+    {
+     "id": 116,
+     "bytes": 35,
+     "en": "TTTn]gYdxtd]ePgYdxtd]]^^e^TMPggIw< ",
+     "ko": ""
+    },
+    {
+     "id": 117,
+     "bytes": 26,
+     "en": "dda]]YSddddaMPYS^MII]fg^8?",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 92,
+   "width": 154,
+   "subs": [
+    {
+     "id": 118,
+     "bytes": 36,
+     "en": "ah ! right, don't see\n any poo here.",
+     "ko": "그래, 여긴\n똥이 안보임."
+    },
+    {
+     "id": 119,
+     "bytes": 33,
+     "en": "oh, hey ! excuse \n     me, hello.",
+     "ko": "저기요! 실례합니다,\n안녕하세요."
+    },
+    {
+     "id": 120,
+     "bytes": 11,
+     "en": "yeah, you !",
+     "ko": "그래, 너!"
+    },
+    {
+     "id": 121,
+     "bytes": 26,
+     "en": "      ugh !\nfriendly type.",
+     "ko": "  윽!\n친절하군."
+    },
+    {
+     "id": 122,
+     "bytes": 28,
+     "en": "i'm looking for \n  some poo.",
+     "ko": "나는 똥을\n  찾고 있어."
+    },
+    {
+     "id": 123,
+     "bytes": 43,
+     "en": " i know it sounds\npretty strange but . . . ",
+     "ko": " 좀 이상하게 들리는\n건 알지만 . . ."
+    }
+   ]
+  },
+  {
+   "id": 93,
+   "width": 71,
+   "subs": [
+    {
+     "id": 124,
+     "bytes": 11,
+     "en": "red ! red !",
+     "ko": "빨강!"
+    },
+    {
+     "id": 125,
+     "bytes": 22,
+     "en": "i don't like\n    red !",
+     "ko": "난 빨강이\n   싫어!"
+    },
+    {
+     "id": 126,
+     "bytes": 14,
+     "en": "i hate\n  red !",
+     "ko": "빨강\n싫어!"
+    },
+    {
+     "id": 127,
+     "bytes": 9,
+     "en": "go away !",
+     "ko": "저리 가!"
+    }
+   ]
+  },
+  {
+   "id": 94,
+   "width": 162,
+   "subs": [
+    {
+     "id": 128,
+     "bytes": 37,
+     "en": "whoa ! i take it\nhe doesn't like red.",
+     "ko": "워! 빨강을\n싫어하나 보군."
+    },
+    {
+     "id": 129,
+     "bytes": 49,
+     "en": "    what ? i don't see \nanything red around . . .",
+     "ko": "    뭐? 주변에 빨간\n건 안 보이는데 . . ."
+    },
+    {
+     "id": 130,
+     "bytes": 4,
+     "en": "oh !",
+     "ko": "오!"
+    },
+    {
+     "id": 131,
+     "bytes": 20,
+     "en": "here we go \n again !",
+     "ko": "또 시작이군\n !"
+    }
+   ]
+  },
+  {
+   "id": 95,
+   "width": 123,
+   "subs": [
+    {
+     "id": 132,
+     "bytes": 34,
+     "en": " now logic \nwould denote \n   that,",
+     "ko": " 논리적으로\n따져보면\n   그건,"
+    },
+    {
+     "id": 133,
+     "bytes": 30,
+     "en": "something that \n drinks that !",
+     "ko": "저걸 마시는\n뭔가가!"
+    },
+    {
+     "id": 134,
+     "bytes": 51,
+     "en": "     is going to\nget the screaming\n        squits !",
+     "ko": "     끔찍한 설사를\n한다는\n        얘기지!"
+    }
+   ]
+  },
+  {
+   "id": 96,
+   "width": 115,
+   "subs": [
+    {
+     "id": 135,
+     "bytes": 50,
+     "en": " hmmm, ah ! that\nlooks distinctly \n like a target,",
+     "ko": " 흠, 저건\n영락없는\n과녁이군,"
+    },
+    {
+     "id": 136,
+     "bytes": 28,
+     "en": "and there we  \n have a bull.",
+     "ko": "저기엔\n 황소가 있고."
+    },
+    {
+     "id": 137,
+     "bytes": 25,
+     "en": "yes ! i think \n i get it.",
+     "ko": "그래! 이제\n 알겠어."
+    }
+   ]
+  },
+  {
+   "id": 97,
+   "width": 132,
+   "subs": [
+    {
+     "id": 138,
+     "bytes": 29,
+     "en": "oh ! that time\nagain, is it ?",
+     "ko": "오! 또 그때가\n왔나 보군?"
+    },
+    {
+     "id": 139,
+     "bytes": 60,
+     "en": "          oh ! i see \nbugger lugs is out\n        here again.",
+     "ko": "          오! 또 저\n녀석이 나와\n        있군."
+    },
+    {
+     "id": 140,
+     "bytes": 9,
+     "en": "oh well !",
+     "ko": "오, 참!"
+    }
+   ]
+  },
+  {
+   "id": 98,
+   "width": 142,
+   "subs": [
+    {
+     "id": 141,
+     "bytes": 35,
+     "en": "  ah ! there's a\nnice little patch.",
+     "ko": "  아! 여기\n좋은 풀밭이 있군."
+    },
+    {
+     "id": 142,
+     "bytes": 46,
+     "en": "     i think i'll have \na little bit of grass.",
+     "ko": "     풀 좀 뜯어\n먹어볼까."
+    },
+    {
+     "id": 143,
+     "bytes": 4,
+     "en": "moo.",
+     "ko": "무우"
+    },
+    {
+     "id": 144,
+     "bytes": 12,
+     "en": "ahh ! a cow.",
+     "ko": "아! 소잖아."
+    },
+    {
+     "id": 145,
+     "bytes": 32,
+     "en": "now that could \n      be useful.",
+     "ko": "저건 쓸모가\n     있겠는걸."
+    },
+    {
+     "id": 146,
+     "bytes": 54,
+     "en": "right, looks like \n it needs a little \n       bit more",
+     "ko": "좋아, 좀 더\n 손을 봐야\n       할 것 같군"
+    },
+    {
+     "id": 147,
+     "bytes": 18,
+     "en": "hands-on \ncontrol.",
+     "ko": "직접\n조작이."
+    },
+    {
+     "id": 148,
+     "bytes": 27,
+     "en": "he's a bit of\na wild one ! ",
+     "ko": "이 녀석 좀\n사납군!"
+    }
+   ]
+  },
+  {
+   "id": 99,
+   "width": 136,
+   "subs": [
+    {
+     "id": 149,
+     "bytes": 38,
+     "en": "  need to get her \nover there somehow.",
+     "ko": "  어떻게든 저기로\n데려가야겠어."
+    }
+   ]
+  },
+  {
+   "id": 100,
+   "width": 131,
+   "subs": [
+    {
+     "id": 150,
+     "bytes": 19,
+     "en": "oooh ! moo ! oooh !",
+     "ko": "우우! 음메! 우우!"
+    },
+    {
+     "id": 151,
+     "bytes": 20,
+     "en": "oooh ! oooh ! oooh !",
+     "ko": "우우! 우우! 우우!"
+    }
+   ]
+  },
+  {
+   "id": 101,
+   "width": 146,
+   "subs": [
+    {
+     "id": 152,
+     "bytes": 47,
+     "en": "  oooh ! it's like the\nscreaming shits, it is !",
+     "ko": "  우으! 완전\n지독한 설사잖아!"
+    },
+    {
+     "id": 153,
+     "bytes": 17,
+     "en": "i'm out of here !",
+     "ko": "여기서 뜬다!"
+    }
+   ]
+  },
+  {
+   "id": 102,
+   "width": 127,
+   "subs": [
+    {
+     "id": 154,
+     "bytes": 40,
+     "en": "  oh i say ! this is\nfar from dignified.",
+     "ko": "  이런! 체면이\n안 서는군."
+    },
+    {
+     "id": 155,
+     "bytes": 51,
+     "en": "    oh ! i hope \nmavis and olive \n  don't see this,",
+     "ko": "  오! 메이비스랑\n올리브가 안 봤음\n  좋겠군,"
+    },
+    {
+     "id": 156,
+     "bytes": 39,
+     "en": "or i'll never\nhear the end\n      of it.",
+     "ko": "안 그럼\n잔소리\n      듣게 되니."
+    },
+    {
+     "id": 157,
+     "bytes": 34,
+     "en": "ooh ! ooh ! ooh !\n   that's a bit.",
+     "ko": "우! 우! 우!\n   이건 좀 심하군."
+    },
+    {
+     "id": 158,
+     "bytes": 33,
+     "en": "ooh ! eh ! it's\n  a bit of a. . .",
+     "ko": "우! 어! 이건\n  좀 그런...."
+    },
+    {
+     "id": 159,
+     "bytes": 18,
+     "en": "ooh ! that's aah !",
+     "ko": "우! 이건 아아!"
+    },
+    {
+     "id": 160,
+     "bytes": 40,
+     "en": "ooh ! i'll just stay\n  here for a while,",
+     "ko": "우! 잠깐 여기\n  있어야겠군,"
+    },
+    {
+     "id": 161,
+     "bytes": 31,
+     "en": "  just in case.\nyou never know.",
+     "ko": "  혹시 모르니\n또 모르지."
+    }
+   ]
+  },
+  {
+   "id": 103,
+   "width": 148,
+   "subs": [
+    {
+     "id": 162,
+     "bytes": 41,
+     "en": "    oh ! stop your \nnonsense, young man !",
+     "ko": "    오! 젊은이,\n헛소리 좀 그만해!"
+    },
+    {
+     "id": 163,
+     "bytes": 12,
+     "en": "goodness me.",
+     "ko": "이런세상에"
+    },
+    {
+     "id": 164,
+     "bytes": 35,
+     "en": "  i've quite lost \nmy appetite now.",
+     "ko": "  이제 입맛이\n없어졌군."
+    },
+    {
+     "id": 165,
+     "bytes": 17,
+     "en": "i'm gonna go. . .",
+     "ko": "이만 가볼게"
+    },
+    {
+     "id": 166,
+     "bytes": 56,
+     "en": "i'm gonna go for a \n   little meander\n        over 'ere.",
+     "ko": "이쪽으로 잠깐\n   산책이나\n        다녀올게."
+    },
+    {
+     "id": 167,
+     "bytes": 39,
+     "en": " hmmm, actually, \ni feel a bit thirsty.",
+     "ko": " 흠, 사실은\n좀 목이 마르군."
+    },
+    {
+     "id": 168,
+     "bytes": 58,
+     "en": "a nice little beverage \nshould wash this \ntasty grass down",
+     "ko": "시원한 음료면\n이 풀도\n잘 넘어가"
+    },
+    {
+     "id": 169,
+     "bytes": 12,
+     "en": "lovely like.",
+     "ko": "그거 좋지."
+    }
+   ]
+  },
+  {
+   "id": 104,
+   "width": 78,
+   "subs": [
+    {
+     "id": 170,
+     "bytes": 23,
+     "en": "this looks \nquite nice.",
+     "ko": "이거 꽤\n괜찮군."
+    },
+    {
+     "id": 171,
+     "bytes": 33,
+     "en": "looks to be\n cranberry\n flavored.",
+     "ko": "크랜베리\n 맛인\n 것 같군."
+    },
+    {
+     "id": 172,
+     "bytes": 8,
+     "en": "lovely !",
+     "ko": "좋았어"
+    }
+   ]
+  },
+  {
+   "id": 105,
+   "width": 90,
+   "subs": [
+    {
+     "id": 173,
+     "bytes": 25,
+     "en": "hmmm, tastes\n  a bit odd.",
+     "ko": "흠, 맛이\n좀 이상해."
+    }
+   ]
+  },
+  {
+   "id": 106,
+   "width": 107,
+   "subs": [
+    {
+     "id": 174,
+     "bytes": 29,
+     "en": "oh well, i'll\nhave some more.",
+     "ko": "뭐, 어때,\n좀 더 마셔야지."
+    }
+   ]
+  },
+  {
+   "id": 107,
+   "width": 93,
+   "subs": [
+    {
+     "id": 175,
+     "bytes": 27,
+     "en": "  why am i\nsuch a fat . . .",
+     "ko": "난 왜 이리\n뚱뚱한 . . ."
+    },
+    {
+     "id": 176,
+     "bytes": 10,
+     "en": "bast . . .",
+     "ko": "빌어.."
+    }
+   ]
+  },
+  {
+   "id": 108,
+   "width": 92,
+   "subs": [
+    {
+     "id": 177,
+     "bytes": 40,
+     "en": "hmmm ! seems\n to be filled\nup with poo !",
+     "ko": "흠! 이건\n 온통 똥\n찬 것 같군!"
+    },
+    {
+     "id": 178,
+     "bytes": 27,
+     "en": "  aah ! that\nshould do it .",
+     "ko": "  아! 되겠군."
+    }
+   ]
+  },
+  {
+   "id": 109,
+   "width": 131,
+   "subs": [
+    {
+     "id": 179,
+     "bytes": 18,
+     "en": "oooh ! moo ! oooh.",
+     "ko": "우우! 음메! 우우."
+    },
+    {
+     "id": 180,
+     "bytes": 20,
+     "en": "oooh ! oooh ! oooh !",
+     "ko": "우우! 우우! 우우!"
+    }
+   ]
+  },
+  {
+   "id": 110,
+   "width": 146,
+   "subs": [
+    {
+     "id": 181,
+     "bytes": 47,
+     "en": "  oooh ! it's like the\nscreaming shits, it is !",
+     "ko": "  우으! 완전\n지독한 설사잖아!"
+    },
+    {
+     "id": 182,
+     "bytes": 17,
+     "en": "i'm out of here !",
+     "ko": "여기서 뜬다!"
+    }
+   ]
+  },
+  {
+   "id": 111,
+   "width": 129,
+   "subs": [
+    {
+     "id": 183,
+     "bytes": 42,
+     "en": "  oh, i say ! this is\nfar from dignified !",
+     "ko": "  이런! 이건\n영 체면이 안 서는군!"
+    },
+    {
+     "id": 184,
+     "bytes": 51,
+     "en": "    oh ! i hope \nmavis and olive \n  don't see this,",
+     "ko": "  오! 메이비스랑\n올리브가 안 봤음\n  좋겠군,"
+    },
+    {
+     "id": 185,
+     "bytes": 39,
+     "en": "or i'll never\nhear the end\n      of it.",
+     "ko": "안 그럼\n잔소리\n      듣게 되니."
+    },
+    {
+     "id": 186,
+     "bytes": 34,
+     "en": "ooh ! ooh ! ooh !\n   that's a bit.",
+     "ko": "우! 우! 우!\n   이건 좀 심하군."
+    },
+    {
+     "id": 187,
+     "bytes": 34,
+     "en": "ooh ! eh ! it's\n  a bit of a . . .",
+     "ko": "우! 어! 이건\n  좀 그런 . . ."
+    },
+    {
+     "id": 188,
+     "bytes": 18,
+     "en": "ooh ! that's aah !",
+     "ko": "우! 이건 아아!"
+    },
+    {
+     "id": 189,
+     "bytes": 40,
+     "en": "ooh ! i'll just stay\n  here for a while,",
+     "ko": "우! 잠깐 여기\n  있어야겠군,"
+    },
+    {
+     "id": 190,
+     "bytes": 30,
+     "en": " just in case.\nyou never know.",
+     "ko": "  혹시 모르니\n또 모르지."
+    }
+   ]
+  },
+  {
+   "id": 112,
+   "width": 118,
+   "subs": [
+    {
+     "id": 191,
+     "bytes": 50,
+     "en": "     looks like \nshe's just about \n   ready to go.",
+     "ko": "    이제 거의\n출발할 준비가\n   된 것 같군."
+    }
+   ]
+  },
+  {
+   "id": 113,
+   "width": 71,
+   "subs": [
+    {
+     "id": 192,
+     "bytes": 22,
+     "en": " hey, you,\nover there.",
+     "ko": "어이, 거기\n너."
+    }
+   ]
+  },
+  {
+   "id": 114,
+   "width": 127,
+   "subs": [
+    {
+     "id": 193,
+     "bytes": 21,
+     "en": "this is pretty neat !",
+     "ko": "이거 꽤 멋진데!"
+    }
+   ]
+  },
+  {
+   "id": 115,
+   "width": 135,
+   "subs": [
+    {
+     "id": 194,
+     "bytes": 67,
+     "en": "     apparently, \nthere's something\nreal neat inside \n   this barn.",
+     "ko": "     듣자 하니\n이 헛간 안에\n뭔가 진짜\n   멋진 게 있대."
+    },
+    {
+     "id": 195,
+     "bytes": 29,
+     "en": "i can't quite \nsee it myself,",
+     "ko": "나는 딱히\n안 보이지만,"
+    },
+    {
+     "id": 196,
+     "bytes": 47,
+     "en": "unless, of course,\nsome guys jumping \n   around",
+     "ko": "물론, 어떤 녀석이\n뛰어다니는 게\n 아니라면"
+    },
+    {
+     "id": 197,
+     "bytes": 36,
+     "en": "stinking of horse \n poo's real neat.",
+     "ko": "말똥 냄새가\n 멋있다면 몰라도."
+    },
+    {
+     "id": 198,
+     "bytes": 30,
+     "en": "which, of course, \n  it isn't.",
+     "ko": "물론, 그럴\n  리는 없지."
+    }
+   ]
+  },
+  {
+   "id": 116,
+   "width": 105,
+   "subs": [
+    {
+     "id": 199,
+     "bytes": 12,
+     "en": "hey, franky,",
+     "ko": "야, 프랭키,"
+    },
+    {
+     "id": 200,
+     "bytes": 45,
+     "en": "i think there's\na little fella \n  over there,",
+     "ko": "저기 조그만\n녀석이\n  있는듯,"
+    },
+    {
+     "id": 201,
+     "bytes": 40,
+     "en": "just coming in \n through the \n     door.",
+     "ko": "방금 문으로\n 들어온\n     것 같아."
+    },
+    {
+     "id": 202,
+     "bytes": 46,
+     "en": "i think it's your \nturn. is it his \n    turn ?",
+     "ko": "네 차례\n같은데. 아님\n    저 녀석?"
+    }
+   ]
+  },
+  {
+   "id": 117,
+   "width": 104,
+   "subs": [
+    {
+     "id": 203,
+     "bytes": 29,
+     "en": " yeh, i think \nit's his turn.",
+     "ko": " 그래, 저 녀석\n차례군."
+    },
+    {
+     "id": 204,
+     "bytes": 30,
+     "en": "hey, franky, go \nkick his ass,",
+     "ko": "야, 프랭키,\n가서 혼내줘,"
+    },
+    {
+     "id": 205,
+     "bytes": 25,
+     "en": " go on, go \nkick his ass.",
+     "ko": " 어서, 가서\n혼내주라고."
+    }
+   ]
+  },
+  {
+   "id": 118,
+   "width": 102,
+   "subs": [
+    {
+     "id": 206,
+     "bytes": 16,
+     "en": "i ain't kicking.",
+     "ko": "난 안 할래."
+    },
+    {
+     "id": 207,
+     "bytes": 43,
+     "en": "it's always my \n turn to kick \n  their ass.",
+     "ko": "맨날 내\n차례로 혼내주는\n  것 같잖아."
+    }
+   ]
+  },
+  {
+   "id": 119,
+   "width": 145,
+   "subs": [
+    {
+     "id": 208,
+     "bytes": 72,
+     "en": "franky, just go over \n there and kick his \nass, for ¦¤µ ¤² ¤´¤³¤²¡ sake.",
+     "ko": "프랭키, 그냥 가서\n 혼내주라고,\n¦¤µ ¤² ¤´¤³¤²¡ 제발 좀."
+    }
+   ]
+  },
+  {
+   "id": 120,
+   "width": 37,
+   "subs": []
+  },
+  {
+   "id": 121,
+   "width": 148,
+   "subs": [
+    {
+     "id": 210,
+     "bytes": 38,
+     "en": "yeh, go over there \n and kick his ass.",
+     "ko": "그래, 저쪽 가서\n혼내주라고."
+    },
+    {
+     "id": 211,
+     "bytes": 61,
+     "en": "someone's gotta kick \nhis ass. i'm a brush.\ni don't kick ass.",
+     "ko": "누가 혼내줘야지.\n난 빗자루라\n안 혼내."
+    }
+   ]
+  },
+  {
+   "id": 122,
+   "width": 138,
+   "subs": [
+    {
+     "id": 212,
+     "bytes": 55,
+     "en": "i'm a paint pot. \n  anyway, i'm a\n¦¤²¤´¤µ¤³ ¡paint pot.",
+     "ko": "난 페인트통.\n  어쨌든 난\n¦¤²¤´¤µ¤³ ¡페인트통."
+    }
+   ]
+  },
+  {
+   "id": 123,
+   "width": 138,
+   "subs": [
+    {
+     "id": 214,
+     "bytes": 21,
+     "en": " go and kick his ass.",
+     "ko": " 가서 혼내주라고."
+    }
+   ]
+  },
+  {
+   "id": 124,
+   "width": 122,
+   "subs": [
+    {
+     "id": 215,
+     "bytes": 25,
+     "en": "  ok, i'll \nkick his ass.",
+     "ko": " 알았어, 내가\n혼낼게."
+    },
+    {
+     "id": 216,
+     "bytes": 54,
+     "en": "  i'm not going \nover there, he can \n  come over here.",
+     "ko": "  난 안 갈래,\n저 녀석이 이리로\n  오면 되잖아."
+    }
+   ]
+  },
+  {
+   "id": 125,
+   "width": 116,
+   "subs": [
+    {
+     "id": 217,
+     "bytes": 18,
+     "en": "ok, here he comes.",
+     "ko": "좋아, 온다."
+    },
+    {
+     "id": 218,
+     "bytes": 30,
+     "en": "   keep still, \n   keep still.",
+     "ko": "   가만있어,\n   가만있어."
+    }
+   ]
+  },
+  {
+   "id": 126,
+   "width": 101,
+   "subs": [
+    {
+     "id": 219,
+     "bytes": 40,
+     "en": "i've seen some\nkicking ass in\n  my time,",
+     "ko": "혼내주는\n걸 많이\n  봤지만,"
+    },
+    {
+     "id": 220,
+     "bytes": 77,
+     "en": "and that is the\n¦¢µ¢²¢´¢³¢²¢µ¡ crapest, \ncrapiest ¦¤µ¤´¤²¤³¤µ\n      ¡kick ass",
+     "ko": "저건 정말\n¦¢µ¢²¢´¢³¢²¢µ¡ 최악의,\n제일 구린 ¦¤µ¤´¤²¤³¤µ\n      ¡발차기"
+    }
+   ]
+  },
+  {
+   "id": 127,
+   "width": 101,
+   "subs": [
+    {
+     "id": 222,
+     "bytes": 15,
+     "en": "i've ever seen.",
+     "ko": "본 것 중에."
+    }
+   ]
+  },
+  {
+   "id": 128,
+   "width": 107,
+   "subs": [
+    {
+     "id": 223,
+     "bytes": 28,
+     "en": "yeh, that was \n pretty crap.",
+     "ko": "그래, 저건\n완전 별로."
+    },
+    {
+     "id": 224,
+     "bytes": 38,
+     "en": "as kicking \nass goes, it \nwas abysmal,",
+     "ko": "혼내주는\n걸로 치면\n최악이었지,"
+    },
+    {
+     "id": 225,
+     "bytes": 50,
+     "en": "and you is a \n¦¤²¤µ¤³¤´¡ bastard, \nstupid bastard.",
+     "ko": "그리고 넌\n¦¤²¤µ¤³¤´¡ 개자식,\n멍청한 개자식."
+    }
+   ]
+  },
+  {
+   "id": 129,
+   "width": 107,
+   "subs": [
+    {
+     "id": 227,
+     "bytes": 11,
+     "en": "  isn't he.",
+     "ko": "  그렇지?"
+    }
+   ]
+  },
+  {
+   "id": 130,
+   "width": 124,
+   "subs": [
+    {
+     "id": 228,
+     "bytes": 42,
+     "en": " so what ya \ngonna do now,\nkill yourself ?",
+     "ko": " 그래서 이제\n뭐 할 건데,\n자살할 거야?"
+    },
+    {
+     "id": 229,
+     "bytes": 32,
+     "en": " that's what i \nwould recommend.",
+     "ko": "그게 내가\n추천하는 방법이지."
+    }
+   ]
+  }
+ ]
+}

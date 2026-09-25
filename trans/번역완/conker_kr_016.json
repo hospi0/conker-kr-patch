@@ -1,0 +1,1872 @@
+{
+ "_": "메뉴·힌트·고지문·크레딧 (비압축 영역 안 rzip 블록)",
+ "part": 16,
+ "messages": [
+  {
+   "id": 961,
+   "width": 109,
+   "subs": [
+    {
+     "id": 3253,
+     "bytes": 20,
+     "en": "The Catapult . . .\nº",
+     "ko": "캐터펄트. . .\nº"
+    },
+    {
+     "id": 3254,
+     "bytes": 29,
+     "en": "Let's see now,\nUse ± to aim\nº",
+     "ko": "어디 보자,\n± 로 조준\nº"
+    },
+    {
+     "id": 3255,
+     "bytes": 17,
+     "en": "and ® to fire.\n\nº",
+     "ko": "® 로 발사.\n\nº"
+    },
+    {
+     "id": 3256,
+     "bytes": 25,
+     "en": "That seems\nsimple enough.",
+     "ko": "간단하군."
+    }
+   ]
+  },
+  {
+   "id": 962,
+   "width": 103,
+   "subs": [
+    {
+     "id": 3257,
+     "bytes": 37,
+     "en": "Hit ®\nYou ´²µ³ fool!\nNow press ¨. . .",
+     "ko": "® 명중\n이 ´²µ³ 바보!\n이제 ¨. . ."
+    },
+    {
+     "id": 3258,
+     "bytes": 17,
+     "en": "It lets you piss!",
+     "ko": "오줌 눌 수 있다!"
+    }
+   ]
+  },
+  {
+   "id": 963,
+   "width": 192,
+   "subs": [
+    {
+     "id": 3259,
+     "bytes": 79,
+     "en": "\nOh, I can't\nseem to get\nany further . . .\nI'm sure there\nwas something . . .\nº",
+     "ko": "\n오, 더는\n못 가겠는데. . .\n분명 뭔가\n있었는데. . ."
+    },
+    {
+     "id": 3260,
+     "bytes": 59,
+     "en": "Ah yes, now\nI remember !\nHold ® down and I\n\nshould crouch\nº",
+     "ko": "아 맞다, 이제\n생각났다!\n® 를 누르면\n\n웅크린다.\n"
+    },
+    {
+     "id": 3261,
+     "bytes": 65,
+     "en": "Now then,\nwhat was it?\nOh yeah . . .\nPress ¨ to jump\nextra high\nº",
+     "ko": "그래서,\n뭐였더라?\n아 맞다. . .\n¨ 누르면\n높이 뛴다\n"
+    },
+    {
+     "id": 3262,
+     "bytes": 128,
+     "en": "Then ¨ again to do that\nfunny helicoptery tail thing.\nNow that makes me hover.\nHmm . . .  I should easily\nget across that gap.\nº",
+     "ko": "¨ 를 또 누르면\n꼬리로 헬리콥터처럼\n뜬다.\n그러면 공중에 뜬다.\n"
+    },
+    {
+     "id": 3263,
+     "bytes": 44,
+     "en": "Um, are you sure\nyou've got that?\n¨ Yes © No",
+     "ko": "진짜 알아들었나?\n¨ 예 © 아니오"
+    }
+   ]
+  },
+  {
+   "id": 964,
+   "width": 205,
+   "subs": [
+    {
+     "id": 3264,
+     "bytes": 123,
+     "en": "Hang on . . . \nThere is something\nmissing here. Didn't I have a . . .\nAh . . .\nTry pressing ©\nand see what\nthat does. . .\nº",
+     "ko": "잠깐. . .\n뭔가 빠졌는데.\n안 그런가?\n"
+    },
+    {
+     "id": 3265,
+     "bytes": 44,
+     "en": "Um, are you sure\nyou've got that?\n¨ Yes © No",
+     "ko": "진짜 알아들었나?\n¨ 예 © 아니오"
+    }
+   ]
+  },
+  {
+   "id": 965,
+   "width": 173,
+   "subs": [
+    {
+     "id": 3266,
+     "bytes": 130,
+     "en": "\nAnd if I'm a lot\nmore confident, then\nI should be able to\nswim underwater now.\nHmmmm . . .\n How would I do that?\nLets see . . .\nº",
+     "ko": "\n자신 있으면\n더 잘할 수 있을\n텐데.\n"
+    },
+    {
+     "id": 3267,
+     "bytes": 38,
+     "en": "Press © and that\nshould submerge me.\nº",
+     "ko": "© 누르면\n물속으로 들어간다.\nº"
+    },
+    {
+     "id": 3268,
+     "bytes": 57,
+     "en": "Then, once I'm underwater,\nhold down © to\n make me swim\nº",
+     "ko": "물속에 들어가면\n© 를 계속 눌러\n헤엄친다.\n"
+    },
+    {
+     "id": 3269,
+     "bytes": 53,
+     "en": "Point ±\nin the direction you\nwant to go.\nThat's it!\nº",
+     "ko": "± 로\n가고 싶은 쪽을\n가리켜라.\n끝!\n"
+    },
+    {
+     "id": 3270,
+     "bytes": 44,
+     "en": "Um, are you sure\nyou've got that?\n¨ Yes © No",
+     "ko": "진짜 알아들었나?\n¨ 예 © 아니오"
+    }
+   ]
+  },
+  {
+   "id": 966,
+   "width": 23,
+   "subs": [
+    {
+     "id": 3271,
+     "bytes": 3,
+     "en": "OFF",
+     "ko": "끔"
+    },
+    {
+     "id": 3272,
+     "bytes": 2,
+     "en": "ON",
+     "ko": "켜"
+    }
+   ]
+  },
+  {
+   "id": 967,
+   "width": 36,
+   "subs": [
+    {
+     "id": 3273,
+     "bytes": 4,
+     "en": "GOAL",
+     "ko": "골"
+    }
+   ]
+  },
+  {
+   "id": 968,
+   "width": 72,
+   "subs": [
+    {
+     "id": 3274,
+     "bytes": 10,
+     "en": "COLLECTION",
+     "ko": "수집"
+    }
+   ]
+  },
+  {
+   "id": 969,
+   "width": 44,
+   "subs": [
+    {
+     "id": 3275,
+     "bytes": 6,
+     "en": "BATTLE",
+     "ko": "전투"
+    }
+   ]
+  },
+  {
+   "id": 970,
+   "width": 105,
+   "subs": [
+    {
+     "id": 3276,
+     "bytes": 15,
+     "en": "WEASELS V TEDIZ",
+     "ko": "족제비대테디즈"
+    },
+    {
+     "id": 3277,
+     "bytes": 5,
+     "en": "TEAMS",
+     "ko": "팀"
+    },
+    {
+     "id": 3278,
+     "bytes": 5,
+     "en": "LIVES",
+     "ko": "수명"
+    },
+    {
+     "id": 3279,
+     "bytes": 4,
+     "en": "TIME",
+     "ko": "때"
+    }
+   ]
+  },
+  {
+   "id": 971,
+   "width": 33,
+   "subs": [
+    {
+     "id": 3280,
+     "bytes": 4,
+     "en": "CASH",
+     "ko": "돈"
+    }
+   ]
+  },
+  {
+   "id": 972,
+   "width": 32,
+   "subs": [
+    {
+     "id": 3281,
+     "bytes": 4,
+     "en": "BOTS",
+     "ko": "봇"
+    }
+   ]
+  },
+  {
+   "id": 973,
+   "width": 32,
+   "subs": [
+    {
+     "id": 3282,
+     "bytes": 5,
+     "en": "KILLS",
+     "ko": "처치"
+    },
+    {
+     "id": 3283,
+     "bytes": 4,
+     "en": "LAPS",
+     "ko": "바퀴"
+    }
+   ]
+  },
+  {
+   "id": 974,
+   "width": 47,
+   "subs": [
+    {
+     "id": 3284,
+     "bytes": 7,
+     "en": "PICTURE",
+     "ko": "화면"
+    }
+   ]
+  },
+  {
+   "id": 975,
+   "width": 43,
+   "subs": [
+    {
+     "id": 3285,
+     "bytes": 5,
+     "en": "SOUND",
+     "ko": "소리"
+    },
+    {
+     "id": 3286,
+     "bytes": 6,
+     "en": "STEREO",
+     "ko": "입체"
+    }
+   ]
+  },
+  {
+   "id": 976,
+   "width": 36,
+   "subs": [
+    {
+     "id": 3287,
+     "bytes": 4,
+     "en": "MONO",
+     "ko": "모노"
+    }
+   ]
+  },
+  {
+   "id": 977,
+   "width": 64,
+   "subs": [
+    {
+     "id": 3288,
+     "bytes": 8,
+     "en": "SURROUND",
+     "ko": "서라운"
+    }
+   ]
+  },
+  {
+   "id": 978,
+   "width": 79,
+   "subs": [
+    {
+     "id": 3289,
+     "bytes": 10,
+     "en": "HEADPHONES",
+     "ko": "헤드폰"
+    }
+   ]
+  },
+  {
+   "id": 979,
+   "width": 69,
+   "subs": [
+    {
+     "id": 3290,
+     "bytes": 8,
+     "en": "LANGUAGE",
+     "ko": "언어"
+    }
+   ]
+  },
+  {
+   "id": 980,
+   "width": 51,
+   "subs": [
+    {
+     "id": 3291,
+     "bytes": 7,
+     "en": "ENGLISH",
+     "ko": "영어"
+    },
+    {
+     "id": 3292,
+     "bytes": 6,
+     "en": "FRENCH",
+     "ko": "불어"
+    }
+   ]
+  },
+  {
+   "id": 981,
+   "width": 51,
+   "subs": [
+    {
+     "id": 3293,
+     "bytes": 6,
+     "en": "GERMAN",
+     "ko": "독어"
+    }
+   ]
+  },
+  {
+   "id": 982,
+   "width": 62,
+   "subs": [
+    {
+     "id": 3294,
+     "bytes": 7,
+     "en": "SPANISH",
+     "ko": "스페인"
+    },
+    {
+     "id": 3295,
+     "bytes": 8,
+     "en": "JAPANESE",
+     "ko": "일본어"
+    }
+   ]
+  },
+  {
+   "id": 983,
+   "width": 83,
+   "subs": [
+    {
+     "id": 3296,
+     "bytes": 7,
+     "en": "AI-VIEW",
+     "ko": "봇시야"
+    },
+    {
+     "id": 3297,
+     "bytes": 11,
+     "en": "BOMB BATTLE",
+     "ko": "폭탄전투"
+    },
+    {
+     "id": 3298,
+     "bytes": 8,
+     "en": "CIVILIAN",
+     "ko": "민간"
+    }
+   ]
+  },
+  {
+   "id": 984,
+   "width": 212,
+   "subs": [
+    {
+     "id": 3299,
+     "bytes": 13,
+     "en": "TURRET PLAYER",
+     "ko": "포탑조종"
+    },
+    {
+     "id": 3300,
+     "bytes": 31,
+     "en": "1 PLAYER MULTIPLAYER RESOLUTION",
+     "ko": "1인 멀티 해상도"
+    },
+    {
+     "id": 3301,
+     "bytes": 6,
+     "en": "NORMAL",
+     "ko": "보통"
+    }
+   ]
+  },
+  {
+   "id": 985,
+   "width": 11,
+   "subs": [
+    {
+     "id": 3302,
+     "bytes": 2,
+     "en": "HI",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 986,
+   "width": 50,
+   "subs": [
+    {
+     "id": 3303,
+     "bytes": 8,
+     "en": "AI LEVEL",
+     "ko": "봇수준"
+    }
+   ]
+  },
+  {
+   "id": 987,
+   "width": 41,
+   "subs": [
+    {
+     "id": 3304,
+     "bytes": 6,
+     "en": "INBRED",
+     "ko": "바보"
+    }
+   ]
+  },
+  {
+   "id": 988,
+   "width": 32,
+   "subs": [
+    {
+     "id": 3305,
+     "bytes": 4,
+     "en": "CRAP",
+     "ko": "하수"
+    }
+   ]
+  },
+  {
+   "id": 989,
+   "width": 50,
+   "subs": [
+    {
+     "id": 3306,
+     "bytes": 6,
+     "en": "NORMAL",
+     "ko": "보통"
+    }
+   ]
+  },
+  {
+   "id": 990,
+   "width": 57,
+   "subs": [
+    {
+     "id": 3307,
+     "bytes": 7,
+     "en": "BASTARD",
+     "ko": "개자식"
+    },
+    {
+     "id": 3308,
+     "bytes": 8,
+     "en": "EINSTEIN",
+     "ko": "천재"
+    }
+   ]
+  },
+  {
+   "id": 991,
+   "width": 67,
+   "subs": [
+    {
+     "id": 3309,
+     "bytes": 5,
+     "en": "RADAR",
+     "ko": "탐지"
+    },
+    {
+     "id": 3310,
+     "bytes": 5,
+     "en": "SCORE",
+     "ko": "점수"
+    },
+    {
+     "id": 3311,
+     "bytes": 9,
+     "en": "DIRECTION",
+     "ko": "방향"
+    },
+    {
+     "id": 3312,
+     "bytes": 8,
+     "en": "FORWARDS",
+     "ko": "앞으로"
+    }
+   ]
+  },
+  {
+   "id": 992,
+   "width": 76,
+   "subs": [
+    {
+     "id": 3313,
+     "bytes": 9,
+     "en": "BACKWARDS",
+     "ko": "뒤로"
+    },
+    {
+     "id": 3314,
+     "bytes": 8,
+     "en": "INFINITE",
+     "ko": "무제한"
+    }
+   ]
+  },
+  {
+   "id": 993,
+   "width": 101,
+   "subs": [
+    {
+     "id": 3315,
+     "bytes": 14,
+     "en": "SPEECH BUBBLES",
+     "ko": "말풍선"
+    }
+   ]
+  },
+  {
+   "id": 994,
+   "width": 46,
+   "subs": [
+    {
+     "id": 3316,
+     "bytes": 6,
+     "en": "CHEATS",
+     "ko": "치트"
+    }
+   ]
+  },
+  {
+   "id": 995,
+   "width": 34,
+   "subs": [
+    {
+     "id": 3317,
+     "bytes": 4,
+     "en": "PAGE",
+     "ko": "쪽"
+    }
+   ]
+  },
+  {
+   "id": 996,
+   "width": 65,
+   "subs": [
+    {
+     "id": 3318,
+     "bytes": 8,
+     "en": "BACKDROP",
+     "ko": "배경"
+    }
+   ]
+  },
+  {
+   "id": 997,
+   "width": 104,
+   "subs": [
+    {
+     "id": 3319,
+     "bytes": 13,
+     "en": "NO CONTROLLER",
+     "ko": "조종기없음"
+    },
+    {
+     "id": 3320,
+     "bytes": 14,
+     "en": "NO CONTROLLERS",
+     "ko": "조종기없음"
+    }
+   ]
+  },
+  {
+   "id": 998,
+   "width": 79,
+   "subs": [
+    {
+     "id": 3321,
+     "bytes": 11,
+     "en": "Multiplayer",
+     "ko": "멀티게임"
+    },
+    {
+     "id": 3322,
+     "bytes": 7,
+     "en": "Options",
+     "ko": "설정"
+    },
+    {
+     "id": 3323,
+     "bytes": 5,
+     "en": "Tasks",
+     "ko": "과제"
+    },
+    {
+     "id": 3324,
+     "bytes": 6,
+     "en": "Game 3",
+     "ko": "게임3"
+    }
+   ]
+  },
+  {
+   "id": 999,
+   "width": 46,
+   "subs": [
+    {
+     "id": 3325,
+     "bytes": 6,
+     "en": "Game 2",
+     "ko": "게임2"
+    }
+   ]
+  },
+  {
+   "id": 1000,
+   "width": 45,
+   "subs": [
+    {
+     "id": 3326,
+     "bytes": 6,
+     "en": "Game 1",
+     "ko": "게임1"
+    }
+   ]
+  },
+  {
+   "id": 1001,
+   "width": 77,
+   "subs": [
+    {
+     "id": 3327,
+     "bytes": 11,
+     "en": "Cheat entry",
+     "ko": "치트입력"
+    },
+    {
+     "id": 3328,
+     "bytes": 9,
+     "en": "CASH GAME",
+     "ko": "돈 게임"
+    },
+    {
+     "id": 3329,
+     "bytes": 7,
+     "en": "RAPTOR1",
+     "ko": "랩터1"
+    },
+    {
+     "id": 3330,
+     "bytes": 6,
+     "en": "SPOOKY",
+     "ko": "유령"
+    }
+   ]
+  },
+  {
+   "id": 1002,
+   "width": 91,
+   "subs": [
+    {
+     "id": 3331,
+     "bytes": 7,
+     "en": "ASSAULT",
+     "ko": "강습"
+    },
+    {
+     "id": 3332,
+     "bytes": 12,
+     "en": "CAPTURE FLAG",
+     "ko": "깃발뺏기"
+    }
+   ]
+  },
+  {
+   "id": 1003,
+   "width": 79,
+   "subs": [
+    {
+     "id": 3333,
+     "bytes": 9,
+     "en": "TOTAL WAR",
+     "ko": "총력전"
+    },
+    {
+     "id": 3334,
+     "bytes": 7,
+     "en": "RACING1",
+     "ko": "경주1"
+    },
+    {
+     "id": 3335,
+     "bytes": 10,
+     "en": "GAS ATTACK",
+     "ko": "가스공격"
+    }
+   ]
+  },
+  {
+   "id": 1004,
+   "width": 52,
+   "subs": [
+    {
+     "id": 3336,
+     "bytes": 7,
+     "en": "RACING2",
+     "ko": "경주2"
+    },
+    {
+     "id": 3337,
+     "bytes": 3,
+     "en": "WAR",
+     "ko": "전"
+    },
+    {
+     "id": 3338,
+     "bytes": 7,
+     "en": "TUNNELS",
+     "ko": "땅굴"
+    },
+    {
+     "id": 3339,
+     "bytes": 5,
+     "en": "BEACH",
+     "ko": "해변"
+    },
+    {
+     "id": 3340,
+     "bytes": 5,
+     "en": "HEIST",
+     "ko": "털이"
+    },
+    {
+     "id": 3341,
+     "bytes": 6,
+     "en": "RAPTOR",
+     "ko": "랩터"
+    }
+   ]
+  },
+  {
+   "id": 1005,
+   "width": 48,
+   "subs": [
+    {
+     "id": 3342,
+     "bytes": 6,
+     "en": "SPOOKY",
+     "ko": "유령"
+    }
+   ]
+  },
+  {
+   "id": 1006,
+   "width": 65,
+   "subs": [
+    {
+     "id": 3343,
+     "bytes": 8,
+     "en": "NEW GAME",
+     "ko": "새 게임"
+    }
+   ]
+  },
+  {
+   "id": 1007,
+   "width": 73,
+   "subs": [
+    {
+     "id": 3344,
+     "bytes": 5,
+     "en": "Level",
+     "ko": "단계"
+    },
+    {
+     "id": 3345,
+     "bytes": 10,
+     "en": "StartPoint",
+     "ko": "시작점"
+    }
+   ]
+  },
+  {
+   "id": 1008,
+   "width": 33,
+   "subs": [
+    {
+     "id": 3346,
+     "bytes": 4,
+     "en": "Cash",
+     "ko": "돈"
+    }
+   ]
+  },
+  {
+   "id": 1009,
+   "width": 56,
+   "subs": [
+    {
+     "id": 3347,
+     "bytes": 7,
+     "en": "NoTasks",
+     "ko": "무과제"
+    },
+    {
+     "id": 3348,
+     "bytes": 4,
+     "en": "Time",
+     "ko": "때"
+    }
+   ]
+  },
+  {
+   "id": 1010,
+   "width": 126,
+   "subs": [
+    {
+     "id": 3349,
+     "bytes": 11,
+     "en": "DELETE GAME",
+     "ko": "게임삭제"
+    },
+    {
+     "id": 3350,
+     "bytes": 19,
+     "en": "CONFIRM A YES, B NO",
+     "ko": "확인 예, 아니오"
+    },
+    {
+     "id": 3351,
+     "bytes": 11,
+     "en": "GAME SELECT",
+     "ko": "게임선택"
+    },
+    {
+     "id": 3352,
+     "bytes": 11,
+     "en": "DEATH MATCH",
+     "ko": "데스매치"
+    },
+    {
+     "id": 3353,
+     "bytes": 14,
+     "en": "TEAM SELECTION",
+     "ko": "팀선택"
+    }
+   ]
+  },
+  {
+   "id": 1011,
+   "width": 30,
+   "subs": [
+    {
+     "id": 3354,
+     "bytes": 4,
+     "en": "REDS",
+     "ko": "적"
+    }
+   ]
+  },
+  {
+   "id": 1012,
+   "width": 46,
+   "subs": [
+    {
+     "id": 3355,
+     "bytes": 5,
+     "en": "BLUES",
+     "ko": "청"
+    },
+    {
+     "id": 3356,
+     "bytes": 6,
+     "en": "GREENS",
+     "ko": "초록"
+    }
+   ]
+  },
+  {
+   "id": 1013,
+   "width": 63,
+   "subs": [
+    {
+     "id": 3357,
+     "bytes": 7,
+     "en": "YELLOWS",
+     "ko": "노랑"
+    },
+    {
+     "id": 3358,
+     "bytes": 9,
+     "en": "SQUIRRELS",
+     "ko": "다람쥐"
+    },
+    {
+     "id": 3359,
+     "bytes": 5,
+     "en": "TEDIZ",
+     "ko": "테디"
+    },
+    {
+     "id": 3360,
+     "bytes": 7,
+     "en": "WEASELS",
+     "ko": "족제비"
+    },
+    {
+     "id": 3361,
+     "bytes": 4,
+     "en": "UGAS",
+     "ko": "우가"
+    }
+   ]
+  },
+  {
+   "id": 1014,
+   "width": 55,
+   "subs": [
+    {
+     "id": 3362,
+     "bytes": 7,
+     "en": "RAPTORS",
+     "ko": "랩터"
+    }
+   ]
+  },
+  {
+   "id": 1015,
+   "width": 108,
+   "subs": [
+    {
+     "id": 3363,
+     "bytes": 15,
+     "en": "GAME STATISTICS",
+     "ko": "게임기록"
+    },
+    {
+     "id": 3364,
+     "bytes": 7,
+     "en": "AI WINS",
+     "ko": "봇 승"
+    },
+    {
+     "id": 3365,
+     "bytes": 6,
+     "en": "WINNER",
+     "ko": "승자"
+    }
+   ]
+  },
+  {
+   "id": 1016,
+   "width": 8,
+   "subs": [
+    {
+     "id": 3366,
+     "bytes": 1,
+     "en": "P",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 1017,
+   "width": 53,
+   "subs": [
+    {
+     "id": 3367,
+     "bytes": 9,
+     "en": "     CASH",
+     "ko": "     돈"
+    },
+    {
+     "id": 3368,
+     "bytes": 2,
+     "en": "AI",
+     "ko": "봇"
+    }
+   ]
+  },
+  {
+   "id": 1018,
+   "width": 29,
+   "subs": [
+    {
+     "id": 3369,
+     "bytes": 3,
+     "en": "MIN",
+     "ko": "분"
+    },
+    {
+     "id": 3370,
+     "bytes": 4,
+     "en": "MINS",
+     "ko": "분"
+    }
+   ]
+  },
+  {
+   "id": 1019,
+   "width": 157,
+   "subs": [
+    {
+     "id": 3371,
+     "bytes": 9,
+     "en": "UNLIMITED",
+     "ko": "무제한"
+    },
+    {
+     "id": 3372,
+     "bytes": 23,
+     "en": "COPYRIGHT RARE LTD 2001",
+     "ko": "레어 사 저작권 2001"
+    },
+    {
+     "id": 3373,
+     "bytes": 11,
+     "en": "Back to bar",
+     "ko": "술집으로"
+    },
+    {
+     "id": 3374,
+     "bytes": 5,
+     "en": "Heist",
+     "ko": "털이"
+    },
+    {
+     "id": 3375,
+     "bytes": 4,
+     "en": "Tank",
+     "ko": "탱"
+    }
+   ]
+  },
+  {
+   "id": 1020,
+   "width": 47,
+   "subs": [
+    {
+     "id": 3376,
+     "bytes": 6,
+     "en": "Raptor",
+     "ko": "랩터"
+    }
+   ]
+  },
+  {
+   "id": 1021,
+   "width": 85,
+   "subs": [
+    {
+     "id": 3377,
+     "bytes": 11,
+     "en": "Death Match",
+     "ko": "데스매치"
+    },
+    {
+     "id": 3378,
+     "bytes": 9,
+     "en": "Beachhead",
+     "ko": "상륙"
+    },
+    {
+     "id": 3379,
+     "bytes": 3,
+     "en": "War",
+     "ko": "전"
+    },
+    {
+     "id": 3380,
+     "bytes": 4,
+     "en": "Race",
+     "ko": "주자"
+    }
+   ]
+  },
+  {
+   "id": 1022,
+   "width": 75,
+   "subs": [
+    {
+     "id": 3381,
+     "bytes": 7,
+     "en": "BALANCE",
+     "ko": "균형"
+    },
+    {
+     "id": 3382,
+     "bytes": 10,
+     "en": "PLAY AGAIN",
+     "ko": "다시하기"
+    }
+   ]
+  },
+  {
+   "id": 1023,
+   "width": 27,
+   "subs": [
+    {
+     "id": 3383,
+     "bytes": 4,
+     "en": "QUIT",
+     "ko": "끝"
+    }
+   ]
+  },
+  {
+   "id": 1024,
+   "width": 67,
+   "subs": [
+    {
+     "id": 3384,
+     "bytes": 9,
+     "en": "CONFIGURE",
+     "ko": "설정"
+    },
+    {
+     "id": 3385,
+     "bytes": 5,
+     "en": "TM & ",
+     "ko": "상표"
+    },
+    {
+     "id": 3386,
+     "bytes": 10,
+     "en": " 2001 Rare",
+     "ko": " 2001 레어"
+    }
+   ]
+  },
+  {
+   "id": 1025,
+   "width": 84,
+   "subs": [
+    {
+     "id": 3387,
+     "bytes": 12,
+     "en": "Published by",
+     "ko": "발행"
+    }
+   ]
+  },
+  {
+   "id": 1026,
+   "width": 258,
+   "subs": [
+    {
+     "id": 3388,
+     "bytes": 36,
+     "en": "Rareware logo is a trademark of Rare",
+     "ko": "레어웨어 로고는 레어의 상표"
+    }
+   ]
+  },
+  {
+   "id": 1027,
+   "width": 195,
+   "subs": [
+    {
+     "id": 3389,
+     "bytes": 28,
+     "en": "Presented in Dolby Surround.",
+     "ko": "돌비 서라운드로 제공."
+    }
+   ]
+  },
+  {
+   "id": 1028,
+   "width": 239,
+   "subs": [
+    {
+     "id": 3390,
+     "bytes": 33,
+     "en": "Dolby and the double-D symbol are",
+     "ko": "돌비와 더블디 기호는"
+    },
+    {
+     "id": 3391,
+     "bytes": 33,
+     "en": "trademarks of Dolby Laboratories.",
+     "ko": "돌비 연구소의 상표입니다."
+    },
+    {
+     "id": 3392,
+     "bytes": 34,
+     "en": "Uses Miles Sound System. Copyright",
+     "ko": "마일즈 사운드 시스템. 저작권"
+    }
+   ]
+  },
+  {
+   "id": 1029,
+   "width": 309,
+   "subs": [
+    {
+     "id": 3393,
+     "bytes": 30,
+     "en": "1991-1999 RAD Game Tools, Inc.",
+     "ko": "1991-1999 랩 게임 툴스."
+    },
+    {
+     "id": 3394,
+     "bytes": 39,
+     "en": "MPEG Layer-3 playback supplied with the",
+     "ko": "엠펙 레이어3 재생 제공"
+    },
+    {
+     "id": 3395,
+     "bytes": 44,
+     "en": "Miles Sound System from RAD Game Tools, Inc.",
+     "ko": "마일즈 사운드 시스템 제공."
+    }
+   ]
+  },
+  {
+   "id": 1030,
+   "width": 215,
+   "subs": [
+    {
+     "id": 3396,
+     "bytes": 30,
+     "en": "MPEG Layer-3 audio compression",
+     "ko": "엠펙 레이어3 음성 압축"
+    }
+   ]
+  },
+  {
+   "id": 1031,
+   "width": 256,
+   "subs": [
+    {
+     "id": 3397,
+     "bytes": 37,
+     "en": "technology licensed by Fraunhofer IIS",
+     "ko": "기술은 프라운호퍼"
+    },
+    {
+     "id": 3398,
+     "bytes": 24,
+     "en": "and THOMPSON multimedia.",
+     "ko": "및 톰슨 멀티미디어."
+    }
+   ]
+  },
+  {
+   "id": 1032,
+   "width": 216,
+   "subs": [
+    {
+     "id": 3399,
+     "bytes": 25,
+     "en": "For mature audiences only",
+     "ko": "성인 전용입니다"
+    },
+    {
+     "id": 3400,
+     "bytes": 19,
+     "en": "Insert rumble pak ]",
+     "ko": "진동팩을 꽂으세요"
+    },
+    {
+     "id": 3401,
+     "bytes": 27,
+     "en": "VCBSEWCEBBDDSXMWRBSSAIEVAPC",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 1033,
+   "width": 220,
+   "subs": [
+    {
+     "id": 3402,
+     "bytes": 30,
+     "en": "Project Leader and Game Design",
+     "ko": "기획 총괄"
+    }
+   ]
+  },
+  {
+   "id": 1034,
+   "width": 85,
+   "subs": [
+    {
+     "id": 3403,
+     "bytes": 12,
+     "en": "Chris Seavor",
+     "ko": "시버"
+    }
+   ]
+  },
+  {
+   "id": 1035,
+   "width": 194,
+   "subs": [
+    {
+     "id": 3404,
+     "bytes": 26,
+     "en": "Gameplay Software Engineer",
+     "ko": "게임 개발"
+    }
+   ]
+  },
+  {
+   "id": 1036,
+   "width": 107,
+   "subs": [
+    {
+     "id": 3405,
+     "bytes": 15,
+     "en": "Mark Betteridge",
+     "ko": "베터리지"
+    }
+   ]
+  },
+  {
+   "id": 1037,
+   "width": 230,
+   "subs": [
+    {
+     "id": 3406,
+     "bytes": 31,
+     "en": "Music Composed and Performed by",
+     "ko": "음악 작곡"
+    },
+    {
+     "id": 3407,
+     "bytes": 14,
+     "en": "Robin Beanland",
+     "ko": "빈랜드"
+    }
+   ]
+  },
+  {
+   "id": 1038,
+   "width": 228,
+   "subs": [
+    {
+     "id": 3408,
+     "bytes": 32,
+     "en": "Lead Artist and Character Design",
+     "ko": "아트 총괄"
+    }
+   ]
+  },
+  {
+   "id": 1039,
+   "width": 78,
+   "subs": [
+    {
+     "id": 3409,
+     "bytes": 10,
+     "en": "Don Murphy",
+     "ko": "머피"
+    }
+   ]
+  },
+  {
+   "id": 1040,
+   "width": 199,
+   "subs": [
+    {
+     "id": 3410,
+     "bytes": 28,
+     "en": "Technical Software Engineers",
+     "ko": "기술 개발"
+    }
+   ]
+  },
+  {
+   "id": 1041,
+   "width": 91,
+   "subs": [
+    {
+     "id": 3411,
+     "bytes": 12,
+     "en": "Chris Marlow",
+     "ko": "말로"
+    }
+   ]
+  },
+  {
+   "id": 1042,
+   "width": 74,
+   "subs": [
+    {
+     "id": 3412,
+     "bytes": 9,
+     "en": "Tony Wong",
+     "ko": "웡"
+    }
+   ]
+  },
+  {
+   "id": 1043,
+   "width": 165,
+   "subs": [
+    {
+     "id": 3413,
+     "bytes": 23,
+     "en": "Audio Software Engineer",
+     "ko": "음향 개발"
+    },
+    {
+     "id": 3414,
+     "bytes": 15,
+     "en": "Mike Currington",
+     "ko": "커링턴"
+    }
+   ]
+  },
+  {
+   "id": 1044,
+   "width": 241,
+   "subs": [
+    {
+     "id": 3415,
+     "bytes": 33,
+     "en": "Task and Camera Software Engineer",
+     "ko": "카메라 개발"
+    },
+    {
+     "id": 3416,
+     "bytes": 10,
+     "en": "Shawn Pile",
+     "ko": "파일"
+    }
+   ]
+  },
+  {
+   "id": 1045,
+   "width": 223,
+   "subs": [
+    {
+     "id": 3417,
+     "bytes": 32,
+     "en": "Visual Effects Software Engineer",
+     "ko": "효과 개발"
+    }
+   ]
+  },
+  {
+   "id": 1046,
+   "width": 97,
+   "subs": [
+    {
+     "id": 3418,
+     "bytes": 13,
+     "en": "Andrew Davies",
+     "ko": "데이비스"
+    }
+   ]
+  },
+  {
+   "id": 1047,
+   "width": 246,
+   "subs": [
+    {
+     "id": 3419,
+     "bytes": 34,
+     "en": "Multiplayer and Front End Software",
+     "ko": "메뉴 개발"
+    }
+   ]
+  },
+  {
+   "id": 1048,
+   "width": 107,
+   "subs": [
+    {
+     "id": 3420,
+     "bytes": 15,
+     "en": "Robert Harrison",
+     "ko": "해리슨"
+    }
+   ]
+  },
+  {
+   "id": 1049,
+   "width": 218,
+   "subs": [
+    {
+     "id": 3421,
+     "bytes": 29,
+     "en": "Background and Layout Artists",
+     "ko": "배경 미술"
+    },
+    {
+     "id": 3422,
+     "bytes": 9,
+     "en": "Dave Rose",
+     "ko": "로즈"
+    },
+    {
+     "id": 3423,
+     "bytes": 12,
+     "en": "Chris Seavor",
+     "ko": "시버"
+    }
+   ]
+  },
+  {
+   "id": 1050,
+   "width": 110,
+   "subs": [
+    {
+     "id": 3424,
+     "bytes": 14,
+     "en": "Edward Sludden",
+     "ko": "슬러든"
+    }
+   ]
+  },
+  {
+   "id": 1051,
+   "width": 72,
+   "subs": [
+    {
+     "id": 3425,
+     "bytes": 11,
+     "en": "Carl Tilley",
+     "ko": "틸리"
+    }
+   ]
+  },
+  {
+   "id": 1052,
+   "width": 239,
+   "subs": [
+    {
+     "id": 3426,
+     "bytes": 34,
+     "en": "3-D Animators and Cutscene Artists",
+     "ko": "애니메이션"
+    }
+   ]
+  },
+  {
+   "id": 1053,
+   "width": 89,
+   "subs": [
+    {
+     "id": 3427,
+     "bytes": 12,
+     "en": "Declan Doyle",
+     "ko": "도일"
+    }
+   ]
+  },
+  {
+   "id": 1054,
+   "width": 108,
+   "subs": [
+    {
+     "id": 3428,
+     "bytes": 13,
+     "en": "Aisling Duddy",
+     "ko": "더디"
+    },
+    {
+     "id": 3429,
+     "bytes": 15,
+     "en": "Louise Ridgeway",
+     "ko": "리지웨이"
+    }
+   ]
+  },
+  {
+   "id": 1055,
+   "width": 193,
+   "subs": [
+    {
+     "id": 3430,
+     "bytes": 26,
+     "en": "Sound Design and Recording",
+     "ko": "음향 녹음"
+    }
+   ]
+  },
+  {
+   "id": 1056,
+   "width": 103,
+   "subs": [
+    {
+     "id": 3431,
+     "bytes": 14,
+     "en": "Robin Beanland",
+     "ko": "빈랜드"
+    }
+   ]
+  },
+  {
+   "id": 1057,
+   "width": 162,
+   "subs": [
+    {
+     "id": 3432,
+     "bytes": 22,
+     "en": "Additional Game Design",
+     "ko": "추가 기획"
+    }
+   ]
+  },
+  {
+   "id": 1058,
+   "width": 107,
+   "subs": [
+    {
+     "id": 3433,
+     "bytes": 15,
+     "en": "Mark Betteridge",
+     "ko": "베터리지"
+    },
+    {
+     "id": 3434,
+     "bytes": 12,
+     "en": "Gregg Mayles",
+     "ko": "메일즈"
+    }
+   ]
+  },
+  {
+   "id": 1059,
+   "width": 78,
+   "subs": [
+    {
+     "id": 3435,
+     "bytes": 10,
+     "en": "Don Murphy",
+     "ko": "머피"
+    }
+   ]
+  },
+  {
+   "id": 1060,
+   "width": 79,
+   "subs": [
+    {
+     "id": 3436,
+     "bytes": 9,
+     "en": "Dave Rose",
+     "ko": "로즈"
+    },
+    {
+     "id": 3437,
+     "bytes": 11,
+     "en": "Tim Stamper",
+     "ko": "스탬퍼"
+    }
+   ]
+  },
+  {
+   "id": 1061,
+   "width": 198,
+   "subs": [
+    {
+     "id": 3438,
+     "bytes": 27,
+     "en": "Additional Tasking Software",
+     "ko": "추가 개발"
+    },
+    {
+     "id": 3439,
+     "bytes": 15,
+     "en": "Mike Currington",
+     "ko": "커링턴"
+    },
+    {
+     "id": 3440,
+     "bytes": 12,
+     "en": "Chris Marlow",
+     "ko": "말로"
+    }
+   ]
+  },
+  {
+   "id": 1062,
+   "width": 74,
+   "subs": [
+    {
+     "id": 3441,
+     "bytes": 9,
+     "en": "Tony Wong",
+     "ko": "웡"
+    }
+   ]
+  },
+  {
+   "id": 1063,
+   "width": 193,
+   "subs": [
+    {
+     "id": 3442,
+     "bytes": 19,
+     "en": "Chucky Poo's Lament",
+     "ko": "처키 푸의 비가"
+    },
+    {
+     "id": 3443,
+     "bytes": 26,
+     "en": "Composed by Robin Beanland",
+     "ko": "작곡 빈랜드"
+    }
+   ]
+  },
+  {
+   "id": 1064,
+   "width": 166,
+   "subs": [
+    {
+     "id": 3444,
+     "bytes": 24,
+     "en": "Lyrics by Robin Beanland",
+     "ko": "작사 빈랜드"
+    }
+   ]
+  },
+  {
+   "id": 1065,
+   "width": 183,
+   "subs": [
+    {
+     "id": 3445,
+     "bytes": 25,
+     "en": "Performed by Chris Marlow",
+     "ko": "노래 말로"
+    }
+   ]
+  },
+  {
+   "id": 1066,
+   "width": 214,
+   "subs": [
+    {
+     "id": 3446,
+     "bytes": 21,
+     "en": "Funeral of Queen Mary",
+     "ko": "메리 여왕 장례식"
+    },
+    {
+     "id": 3447,
+     "bytes": 25,
+     "en": "Composed by Henry Purcell",
+     "ko": "작곡 퍼셀"
+    },
+    {
+     "id": 3448,
+     "bytes": 29,
+     "en": "Arrangement by Robin Beanland",
+     "ko": "편곡 빈랜드"
+    }
+   ]
+  },
+  {
+   "id": 1067,
+   "width": 103,
+   "subs": [
+    {
+     "id": 3449,
+     "bytes": 15,
+     "en": "La Marseillaise",
+     "ko": "라 마르세예즈"
+    },
+    {
+     "id": 3450,
+     "bytes": 2,
+     "en": "by",
+     "ko": "작"
+    }
+   ]
+  },
+  {
+   "id": 1068,
+   "width": 204,
+   "subs": [
+    {
+     "id": 3451,
+     "bytes": 29,
+     "en": "Claude-Joseph Rouget de Lisle",
+     "ko": "루제 드 릴"
+    }
+   ]
+  },
+  {
+   "id": 1069,
+   "width": 170,
+   "subs": [
+    {
+     "id": 3452,
+     "bytes": 17,
+     "en": "Special thanks to",
+     "ko": "감사합니다"
+    },
+    {
+     "id": 3453,
+     "bytes": 3,
+     "en": "pam",
+     "ko": "팸"
+    },
+    {
+     "id": 3454,
+     "bytes": 23,
+     "en": "for their accommodation",
+     "ko": "숙소 감사"
+    }
+   ]
+  }
+ ]
+}

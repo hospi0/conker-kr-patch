@@ -1,0 +1,161 @@
+{
+  "_comment": "Conker's Bad Fur Day (USA) 구조 상수. 'verified'는 도구로 재현 검증된 값, 'approx'는 경계가 추정인 값.",
+  "schema_version": 1,
+
+  "rom": {
+    "title": "Conker's Bad Fur Day (USA)",
+    "size": 67108864,
+    "crc32": "CE8CC172",
+    "md5": "00E2920665F2329B95797A7EAABC2390",
+    "sha1": "4CBADD3C4E0729DEC46AF64AD018050EADA4F47A",
+    "header": {
+      "magic": "80371240",
+      "endian": "big",
+      "internal_name": "CONKER BFD",
+      "cart_id": "NF",
+      "region": "E",
+      "version": 0,
+      "entry_pc": "0x80001000",
+      "crc1_offset": "0x10",
+      "crc2_offset": "0x14"
+    },
+    "cic": {
+      "chip": 6105,
+      "ipl3_crc32": "98BC2C86",
+      "note": "패치 후 CRC1/CRC2 재계산은 6105 전용 알고리즘 필요"
+    }
+  },
+
+  "address_map": {
+    "_note": "부트 세그먼트는 RAM = ROM + 0x80000000 (ROM 0x2000 == RAM 0x80002000 로 검증)",
+    "boot_ram_delta": "0x80000000",
+    "boot_code": { "rom_start": "0x1000", "rom_end": "0x29000", "status": "verified" },
+    "ucode_and_data": { "rom_start": "0x29000", "rom_end": "0x40000", "status": "approx" },
+    "asset_bank": { "rom_start": "0x40000", "rom_end": "0x1331000", "status": "verified" },
+    "mp3_bank": { "rom_start": "0x1331000", "rom_end": "0x29AF000", "status": "approx",
+                  "format": "MPEG-2 Layer III, mono, 24 kbps, 22050 Hz" },
+    "adpcm_bank": { "rom_start": "0x29AF000", "rom_end": "0x3F8C000", "status": "approx",
+                    "format": "VADPCM 9-byte frames" },
+    "tail_uncompressed_asset": { "rom_start": "0x3F82000", "rom_end": "0x3F8B000", "status": "approx" },
+    "padding": { "rom_start": "0x3F8C000", "rom_end": "0x4000000", "fill": "0xFF", "status": "verified" }
+  },
+
+  "rzip": {
+    "_note": "Rare 'rzip' = [BE32 원본크기][raw deflate]. 매직 없음. 블록은 바이트 정렬(정렬 제약 없음)이며 상당수가 앞 블록 바로 뒤에 붙지만 전부는 아니다(표본에서 연속쌍 45/97). 블록 위치는 애셋 테이블이 정하므로 크기를 줄이는 것은 되고 늘리는 것은 안 된다.",
+    "header_size": 4,
+    "deflate_wbits": -15,
+    "scan_range": { "start": "0x40000", "end": "0x1331000" },
+    "expected_blocks": 10427,
+    "expected_compressed_bytes": 15169702,
+    "expected_raw_bytes": 28555072,
+    "status": "verified"
+  },
+
+  "asset_container": {
+    "_note": "[BE32 offset][BE32 size] 쌍. offset은 테이블 시작 기준. off[k]+size[k]==off[k+1]. 마지막 size에 bit31.",
+    "root_rom": "0xBB1BA0",
+    "root_entries": 187,
+    "root_table_bytes": "0x5D8",
+    "recursive": true,
+    "status": "verified"
+  },
+
+  "font": {
+    "_note": "글리프 체인. 엔트리 = [w][h][?][flag][BE32 엔트리총크기] + RLE 픽셀.",
+    "rom_start": "0x40F10",
+    "rom_end": "0x42443",
+    "glyph_count": 95,
+    "bytes": 5427,
+    "entry_header_size": 8,
+    "pixel_codec": "RLE: byte = (intensity4 << 4) | (runlength - 1)",
+    "runtime_ram": "0x802C97F0",
+    "island_rom_start": "0x40000",
+    "island_runtime_ram": "0x802C88E0",
+    "slack_bytes": 13,
+    "next_structure_rom": "0x42450",
+    "next_structure_note": "0x80xxxxxx 재배치/포인터 테이블이 0x42C4C 부근까지 연속.",
+    "status": "verified"
+  },
+
+  "font_loader": {
+    "_note": "부팅 때 한 번만 동작. 폰트 ROM 범위는 코드 상수가 아니라 데이터 서술자다.",
+    "descriptor_runtime_ram": "0x80082F80",
+    "descriptor_stride": 8,
+    "descriptor_format": "[BE32 rom_start][BE32 rom_end]",
+    "descriptor_id_used": 0,
+    "descriptor_value": { "rom_start": "0x40F10", "rom_end": "0x42450", "len": 5440 },
+    "descriptor_storage": {
+      "rzip_block_rom": "0x188328",
+      "offset_in_raw": "0x460",
+      "note": "매핑 테이블과 같은 블록이다"
+    },
+    "temp_buffer_alloc": "0x2800",
+    "temp_buffer_note": "부팅 루프가 alloc(0x2800) 한 버퍼로 ROM 에서 읽어들인다. 폰트 데이터 상한.",
+    "loop_termination": "length-driven",
+    "loop_condition": "(ptr + 0xF) < buf + (end - start)  — 글리프 개수 상수가 없다",
+    "process_glyph_rdram": "0x802CDA38",
+    "caller_loop_rdram": "0x802CD964",
+    "meta_array_ptrs": "0x80085994",
+    "meta_array_format": "[w+1][h+1][b2][flag] × N",
+    "pixel_buffer_ptrs": "0x80085990",
+    "pixel_slot_bytes": 224,
+    "pixel_stride": "(w + 1 + 7) & ~7",
+    "load_font_rdram": "0x802CD920",
+    "load_font_va": "0x15015920",
+    "load_font_caller_rdram": "0x802CC8F0",
+    "tlb_delta_rdram_minus_va": "0x6B2B8000",
+    "current_buffers": { "pixel": "0x800C68B0", "meta": "0x800CBBD0",
+                         "note": "정적 배치. pix 크기 = 95*224 = 0x5320 이고 그 끝에 meta 가 바로 붙는다." },
+    "status": "verified"
+  },
+
+  "main_data_block": {
+    "_note": "메인 바이너리 데이터 세그먼트. 한글화 편집 지점이 전부 이 한 블록에 모여 있다.",
+    "rzip_block_rom": "0x188328",
+    "compressed_size": 83119,
+    "raw_size": 189088,
+    "load_ram_base": "0x80082B20",
+    "verified": "raw 189088 B 전체가 RAM 상주본과 100% 일치",
+    "edit_points": {
+      "0x0460": { "ram": "0x80082F80", "what": "폰트 서술자 [BE32 rom_start][BE32 rom_end]" },
+      "0x2E10": { "ram": "0x80085930", "what": "charmap 95 B + 0x00 종단" },
+      "0x2E70": { "ram": "0x80085990", "what": "픽셀 버퍼 포인터 (현재 0x800C68B0)" },
+      "0x2E74": { "ram": "0x80085994", "what": "메타 배열 포인터 (현재 0x800CBBD0)" }
+    },
+    "recompress_headroom": "zlib-9 재압축 시 원본보다 404 B 작다 (83115 -> 82711)",
+    "status": "verified"
+  },
+
+  "charmap": {
+    "_note": "table[glyph_index] = 문자코드. 방향에 주의 — 반대로 가정하면 전수 검색이 0건이 된다.",
+    "rzip_block_rom": "0x188328",
+    "offset_in_raw": "0x2E10",
+    "length": 95,
+    "terminator": "0x00",
+    "runtime_ram": "0x80085930",
+    "status": "verified"
+  },
+
+  "text": {
+    "encoding": "ISO-8859-1",
+    "case": "monocase — 렌더러가 전부 대문자로 출력 (실기 스크린샷 확인)",
+    "control_codes": {
+      "0x0A": "newline",
+      "0xBA": "terminator",
+      "0xBD": "subtitle separator",
+      "0xBF": "block start"
+    },
+    "dialogue_blocks_rom": { "start": "0x188328", "end": "0x132E528", "status": "approx" },
+    "system_string_block_rom": "0x188328",
+    "status": "verified"
+  },
+
+  "savestate": {
+    "_note": "RetroArch Mupen64Plus-Next. #RZIPv 컨테이너 → RASTATE/MEM/M64+SAVE.",
+    "rzip_header_size": 20,
+    "rdram_offset_in_state": "0x1CC",
+    "rdram_size": "0x800000",
+    "word_swap": true,
+    "status": "verified"
+  }
+}

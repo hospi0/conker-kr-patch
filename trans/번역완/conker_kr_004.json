@@ -1,0 +1,1977 @@
+{
+ "_": "ko 에 번역을 넣으세요. bytes=자막의 바이트 한도(한글 받침o 3B/받침x 2B, 그 외 1B), width=말풍선의 줄 폭 한도(한글 1자=13, 공백=4, \\n 으로 나뉜 각 줄이 이하일 것). id 는 건드리지 마세요.",
+ "part": 4,
+ "messages": [
+  {
+   "id": 294,
+   "width": 169,
+   "subs": [
+    {
+     "id": 728,
+     "bytes": 49,
+     "en": " why is it everybody's \nso offensive round here ?",
+     "ko": "여긴 왜 다들\n이렇게 무례한 거야?"
+    }
+   ]
+  },
+  {
+   "id": 295,
+   "width": 111,
+   "subs": [
+    {
+     "id": 729,
+     "bytes": 59,
+     "en": "either bring me \nback me missing \ncogs, or ¦¤²¤µ¤³¤´¡ off !",
+     "ko": "잃어버린 톱니를\n돌려주든가,\n¦¤²¤µ¤³¤´¡ 꺼지든가!"
+    }
+   ]
+  },
+  {
+   "id": 296,
+   "width": 33,
+   "subs": []
+  },
+  {
+   "id": 297,
+   "width": 98,
+   "subs": [
+    {
+     "id": 731,
+     "bytes": 26,
+     "en": " you don't \nhave to shout.",
+     "ko": "소리칠 필요\n없잖아."
+    }
+   ]
+  },
+  {
+   "id": 298,
+   "width": 134,
+   "subs": [
+    {
+     "id": 732,
+     "bytes": 10,
+     "en": "i'm deaf !",
+     "ko": "안 들려!"
+    },
+    {
+     "id": 733,
+     "bytes": 28,
+     "en": "speak up or\n¦£³£µ£´£²¡ off !",
+     "ko": "크게 말해\n¦£³£µ£´£²¡ 꺼져!"
+    }
+   ]
+  },
+  {
+   "id": 299,
+   "width": 134,
+   "subs": [
+    {
+     "id": 735,
+     "bytes": 15,
+     "en": "hang on a sec !",
+     "ko": "잠깐만!"
+    },
+    {
+     "id": 736,
+     "bytes": 12,
+     "en": "well, hello.",
+     "ko": "어, 안녕."
+    },
+    {
+     "id": 737,
+     "bytes": 29,
+     "en": "aren't you the\n handsome one.",
+     "ko": "너 꽤나\n잘생겼구나."
+    },
+    {
+     "id": 738,
+     "bytes": 60,
+     "en": " tell me, would you \n be prepared to do \nme a small favor ? ",
+     "ko": "그런데 말이야,\n작은 부탁 하나\n들어줄래?"
+    },
+    {
+     "id": 739,
+     "bytes": 33,
+     "en": "for a little help, \n   of course.",
+     "ko": "조금만 도와주면,\n  물론이지."
+    }
+   ]
+  },
+  {
+   "id": 300,
+   "width": 130,
+   "subs": [
+    {
+     "id": 740,
+     "bytes": 33,
+     "en": "hi, and yes, i would,\n     maybe.",
+     "ko": "안녕, 응, 할게,\n    아마도."
+    }
+   ]
+  },
+  {
+   "id": 301,
+   "width": 146,
+   "subs": [
+    {
+     "id": 741,
+     "bytes": 8,
+     "en": "you see,",
+     "ko": "그게,"
+    },
+    {
+     "id": 742,
+     "bytes": 37,
+     "en": "my other self has\nlost a few of his, ",
+     "ko": "내 자아가 친구를\n몇 잃었어,"
+    },
+    {
+     "id": 743,
+     "bytes": 22,
+     "en": "shall we say, friends,",
+     "ko": "친구라고 해두지,"
+    },
+    {
+     "id": 744,
+     "bytes": 31,
+     "en": "and if i don't\n get them back, ",
+     "ko": "만약 못 찾으면,\n"
+    },
+    {
+     "id": 745,
+     "bytes": 28,
+     "en": "my life will be\n  a misery. ",
+     "ko": "내 인생은\n비참해질거야."
+    },
+    {
+     "id": 746,
+     "bytes": 14,
+     "en": "it already is.",
+     "ko": "이미 그래."
+    }
+   ]
+  },
+  {
+   "id": 302,
+   "width": 36,
+   "subs": [
+    {
+     "id": 747,
+     "bytes": 5,
+     "en": "and ?",
+     "ko": "왜?"
+    }
+   ]
+  },
+  {
+   "id": 303,
+   "width": 155,
+   "subs": [
+    {
+     "id": 748,
+     "bytes": 42,
+     "en": "just get them back.\nthere's a good fellow.",
+     "ko": "그냥 되찾아 와.\n착하지, 그렇지."
+    },
+    {
+     "id": 749,
+     "bytes": 22,
+     "en": "oh ! ta ta !\n  ta ta !",
+     "ko": "오! 안녕!\n안녕!"
+    }
+   ]
+  },
+  {
+   "id": 304,
+   "width": 90,
+   "subs": [
+    {
+     "id": 750,
+     "bytes": 10,
+     "en": "you twat !",
+     "ko": "이 바보야!"
+    },
+    {
+     "id": 751,
+     "bytes": 27,
+     "en": "don't ever do\n that again. ",
+     "ko": "다시는\n그러지 마."
+    },
+    {
+     "id": 752,
+     "bytes": 20,
+     "en": "now ¦¢²¢µ¢³¢´¡ off !",
+     "ko": "이제 ¦¢²¢µ¢³¢´¡꺼져!"
+    }
+   ]
+  },
+  {
+   "id": 305,
+   "width": 124,
+   "subs": [
+    {
+     "id": 753,
+     "bytes": 19,
+     "en": "ey up, bloody hell.",
+     "ko": "이런, 세상에."
+    },
+    {
+     "id": 754,
+     "bytes": 16,
+     "en": "put it on quick.",
+     "ko": "빨리 써봐."
+    },
+    {
+     "id": 755,
+     "bytes": 33,
+     "en": "put it on, i like \n it like that.",
+     "ko": "써봐, 그렇게\n입은 게 좋아."
+    },
+    {
+     "id": 756,
+     "bytes": 11,
+     "en": "oooooohhh !",
+     "ko": "오오오오!"
+    },
+    {
+     "id": 757,
+     "bytes": 11,
+     "en": "aaaaaahhh !",
+     "ko": "아아아아!"
+    },
+    {
+     "id": 758,
+     "bytes": 21,
+     "en": "fan ¦¢µ²³´µ¡ tastic !",
+     "ko": "환 ¦¢µ²³´µ¡ 상적!"
+    }
+   ]
+  },
+  {
+   "id": 306,
+   "width": 52,
+   "subs": []
+  },
+  {
+   "id": 307,
+   "width": 110,
+   "subs": [
+    {
+     "id": 760,
+     "bytes": 12,
+     "en": "oh, hang on,",
+     "ko": "아, 잠깐,"
+    },
+    {
+     "id": 761,
+     "bytes": 45,
+     "en": " i think i got \nit on the wrong \n  way round.",
+     "ko": "이거 아무래도\n거꾸로 쓴 것\n같은데."
+    }
+   ]
+  },
+  {
+   "id": 308,
+   "width": 147,
+   "subs": [
+    {
+     "id": 762,
+     "bytes": 40,
+     "en": "like bugger you have !\n  what ya doing ?",
+     "ko": "당연히 그랬지!\n뭐 하는 거야?"
+    },
+    {
+     "id": 763,
+     "bytes": 10,
+     "en": "what . . .",
+     "ko": "뭐라고..."
+    },
+    {
+     "id": 764,
+     "bytes": 12,
+     "en": "oh ¦¤´²µ³¡ !",
+     "ko": "오 ¦¤´²µ³¡!"
+    }
+   ]
+  },
+  {
+   "id": 309,
+   "width": 94,
+   "subs": [
+    {
+     "id": 766,
+     "bytes": 10,
+     "en": "   where ?",
+     "ko": "어디야?"
+    },
+    {
+     "id": 767,
+     "bytes": 12,
+     "en": "i can't see.",
+     "ko": "안 보여."
+    }
+   ]
+  },
+  {
+   "id": 310,
+   "width": 64,
+   "subs": [
+    {
+     "id": 768,
+     "bytes": 27,
+     "en": "     oh !\nfor ¦¢µ´³²¡ sake.",
+     "ko": "     오!\n¦¢µ´³²¡ 제발."
+    }
+   ]
+  },
+  {
+   "id": 311,
+   "width": 142,
+   "subs": [
+    {
+     "id": 769,
+     "bytes": 42,
+     "en": "i do declare, ladies, \nwe are free at last",
+     "ko": "여러분, 우리\n드디어 자유예요"
+    },
+    {
+     "id": 770,
+     "bytes": 40,
+     "en": "to exact our revenge\n  on this evil cog.",
+     "ko": "이 사악한 톱니에게\n복수한다."
+    },
+    {
+     "id": 771,
+     "bytes": 10,
+     "en": "grab him !",
+     "ko": "잡아라!"
+    }
+   ]
+  },
+  {
+   "id": 312,
+   "width": 136,
+   "subs": [
+    {
+     "id": 772,
+     "bytes": 7,
+     "en": "oh no !",
+     "ko": "안 돼!"
+    },
+    {
+     "id": 773,
+     "bytes": 17,
+     "en": "not mr. big cog !",
+     "ko": "빅톱니\n안돼!"
+    },
+    {
+     "id": 774,
+     "bytes": 19,
+     "en": "that's me buggered.",
+     "ko": "나 이제\n망했다."
+    }
+   ]
+  },
+  {
+   "id": 313,
+   "width": 94,
+   "subs": []
+  },
+  {
+   "id": 314,
+   "width": 99,
+   "subs": [
+    {
+     "id": 776,
+     "bytes": 16,
+     "en": "i'm out of here.",
+     "ko": "여기서\n나갈래."
+    }
+   ]
+  },
+  {
+   "id": 315,
+   "width": 135,
+   "subs": [
+    {
+     "id": 777,
+     "bytes": 42,
+     "en": " i say, i don't know \nwhat his problem is.",
+     "ko": "쟤가 왜 저러는지\n모르겠어."
+    },
+    {
+     "id": 778,
+     "bytes": 31,
+     "en": "i find it rather \n   delicious.",
+     "ko": "꽤 맛있는데 이거."
+    },
+    {
+     "id": 779,
+     "bytes": 26,
+     "en": " thank you, \nmr. squirrel.",
+     "ko": "고마워요,\n다람쥐 씨."
+    }
+   ]
+  },
+  {
+   "id": 316,
+   "width": 110,
+   "subs": [
+    {
+     "id": 780,
+     "bytes": 17,
+     "en": "oh ! my pleasure.",
+     "ko": "오! 천만에요."
+    }
+   ]
+  },
+  {
+   "id": 317,
+   "width": 146,
+   "subs": [
+    {
+     "id": 781,
+     "bytes": 35,
+     "en": " yes, and i think \nyou'll find your",
+     "ko": "그리고 아마\n네가 찾을 거야"
+    },
+    {
+     "id": 782,
+     "bytes": 27,
+     "en": "little problem \n   outside ",
+     "ko": "네 문제는\n바깥에"
+    },
+    {
+     "id": 783,
+     "bytes": 37,
+     "en": "has been thoroughly \n  taken care of.",
+     "ko": "아주 확실하게\n처리됐지."
+    }
+   ]
+  },
+  {
+   "id": 318,
+   "width": 63,
+   "subs": [
+    {
+     "id": 784,
+     "bytes": 10,
+     "en": "oh, cool !",
+     "ko": "오, 좋아!"
+    }
+   ]
+  },
+  {
+   "id": 319,
+   "width": 106,
+   "subs": [
+    {
+     "id": 785,
+     "bytes": 27,
+     "en": "now, good day \nto you, sir.",
+     "ko": "좋은 하루\n보내세요."
+    }
+   ]
+  },
+  {
+   "id": 320,
+   "width": 90,
+   "subs": [
+    {
+     "id": 786,
+     "bytes": 23,
+     "en": "toffee-nosed \n   snob !",
+     "ko": "잘난 척\n하는 놈!"
+    }
+   ]
+  },
+  {
+   "id": 321,
+   "width": 103,
+   "subs": [
+    {
+     "id": 787,
+     "bytes": 29,
+     "en": "why, thank you,\nmr. squirrel.",
+     "ko": "고마워요,\n다람쥐 씨."
+    }
+   ]
+  },
+  {
+   "id": 322,
+   "width": 106,
+   "subs": [
+    {
+     "id": 788,
+     "bytes": 16,
+     "en": "come on, ladies,",
+     "ko": "가요, 여러분,"
+    }
+   ]
+  },
+  {
+   "id": 323,
+   "width": 121,
+   "subs": [
+    {
+     "id": 789,
+     "bytes": 33,
+     "en": "it's the caribbean \n      for us.",
+     "ko": "우리는 카리브해로\n간다."
+    }
+   ]
+  },
+  {
+   "id": 324,
+   "width": 82,
+   "subs": [
+    {
+     "id": 790,
+     "bytes": 27,
+     "en": "hey, i'm here !\n hurry up !",
+     "ko": "야, 여기야!\n빨리 와!"
+    },
+    {
+     "id": 791,
+     "bytes": 23,
+     "en": "pick me up, \nshithead !",
+     "ko": "들어올려,\n멍청아!"
+    }
+   ]
+  },
+  {
+   "id": 325,
+   "width": 117,
+   "subs": [
+    {
+     "id": 792,
+     "bytes": 6,
+     "en": "cool !",
+     "ko": "좋아!"
+    },
+    {
+     "id": 793,
+     "bytes": 33,
+     "en": "laughing all the\nway to the bank.",
+     "ko": "웃으면서\n돈 벌러 간다."
+    }
+   ]
+  },
+  {
+   "id": 326,
+   "width": 79,
+   "subs": [
+    {
+     "id": 794,
+     "bytes": 10,
+     "en": "   where ?",
+     "ko": "어디야?"
+    },
+    {
+     "id": 795,
+     "bytes": 12,
+     "en": "i can't see.",
+     "ko": "안 보여."
+    }
+   ]
+  },
+  {
+   "id": 327,
+   "width": 64,
+   "subs": [
+    {
+     "id": 796,
+     "bytes": 26,
+     "en": "     oh!\nfor ¦¢µ´³²¡ sake.",
+     "ko": "    오!\n¦¢µ´³²¡ 제발."
+    }
+   ]
+  },
+  {
+   "id": 328,
+   "width": 84,
+   "subs": [
+    {
+     "id": 797,
+     "bytes": 13,
+     "en": "yeah, go on !",
+     "ko": "그래, 해봐!"
+    },
+    {
+     "id": 798,
+     "bytes": 22,
+     "en": "get t'other \n  one on.",
+     "ko": "다른 것도\n써봐."
+    }
+   ]
+  },
+  {
+   "id": 329,
+   "width": 70,
+   "subs": [
+    {
+     "id": 799,
+     "bytes": 33,
+     "en": "  oh no, i\nthink i had\ntoo much !",
+     "ko": "이런, 너무\n많이 마셨나\n봐!"
+    }
+   ]
+  },
+  {
+   "id": 330,
+   "width": 97,
+   "subs": [
+    {
+     "id": 800,
+     "bytes": 27,
+     "en": "i say, i say,\nlittle fella.",
+     "ko": "이보게, 이보게,\n꼬맹이."
+    },
+    {
+     "id": 801,
+     "bytes": 54,
+     "en": "you better get\nthis fat-ass \n bitch off a \n   my back,",
+     "ko": "이 뚱뚱한\n여자 좀\n내 등에서\n치워줘,"
+    },
+    {
+     "id": 802,
+     "bytes": 7,
+     "en": "pronto.",
+     "ko": "빨리."
+    }
+   ]
+  },
+  {
+   "id": 331,
+   "width": 115,
+   "subs": [
+    {
+     "id": 803,
+     "bytes": 75,
+     "en": "     geee !\nso many people \nround here want \n  me to solve \ntheir problems.",
+     "ko": "이런!\n여기 사람들\n다들 나한테\n문제를 풀어\n달라 하네."
+    },
+    {
+     "id": 804,
+     "bytes": 36,
+     "en": "what are you\ngonna do for\n me then ?",
+     "ko": "그럼 넌\n나한테 뭘\n해줄 건데?"
+    }
+   ]
+  },
+  {
+   "id": 332,
+   "width": 130,
+   "subs": [
+    {
+     "id": 805,
+     "bytes": 33,
+     "en": "i'll tell ya what\n  i'm gonna do,",
+     "ko": "내가 어떻게 할지\n말해주지,"
+    },
+    {
+     "id": 806,
+     "bytes": 45,
+     "en": "     i say,\ni'll tell ya what\n  i'm gonna do.",
+     "ko": "이봐, 내가\n어떻게 할지\n말해주지."
+    },
+    {
+     "id": 807,
+     "bytes": 51,
+     "en": "you get rid of that\n  freaking mouse \n     critter,",
+     "ko": "저 짜증나는\n생쥐 자식\n치워버려,"
+    },
+    {
+     "id": 808,
+     "bytes": 28,
+     "en": "and maybe i'll\nhelp you out.",
+     "ko": "그럼 아마\n도와줄게."
+    },
+    {
+     "id": 809,
+     "bytes": 11,
+     "en": "just maybe.",
+     "ko": "아마도."
+    }
+   ]
+  },
+  {
+   "id": 333,
+   "width": 105,
+   "subs": [
+    {
+     "id": 810,
+     "bytes": 28,
+     "en": "   oh, just \none more thing,",
+     "ko": "아, 한 가지\n더 있는데,"
+    },
+    {
+     "id": 811,
+     "bytes": 30,
+     "en": "i say, just one \n  more thing.",
+     "ko": "이봐, 한 가지\n더 있어."
+    },
+    {
+     "id": 812,
+     "bytes": 40,
+     "en": "you might run \ninto my friend,\n    burt.",
+     "ko": "내 친구\n버트를 만날\n거야."
+    },
+    {
+     "id": 813,
+     "bytes": 28,
+     "en": "just mention \nmy name, jack,",
+     "ko": "내 이름,\n잭을 대."
+    },
+    {
+     "id": 814,
+     "bytes": 38,
+     "en": "and everything \nwill be just\n   dandy.",
+     "ko": "그럼 만사가\n술술 풀릴\n거라고."
+    }
+   ]
+  },
+  {
+   "id": 334,
+   "width": 65,
+   "subs": [
+    {
+     "id": 815,
+     "bytes": 24,
+     "en": "  hi,\nyou must \nbe burt.",
+     "ko": "안녕,\n네가\n버트구나."
+    }
+   ]
+  },
+  {
+   "id": 335,
+   "width": 54,
+   "subs": [
+    {
+     "id": 816,
+     "bytes": 9,
+     "en": "i'm burt.",
+     "ko": "버트야."
+    }
+   ]
+  },
+  {
+   "id": 336,
+   "width": 88,
+   "subs": [
+    {
+     "id": 817,
+     "bytes": 13,
+     "en": "jack sent me.",
+     "ko": "잭이 보냈어"
+    }
+   ]
+  },
+  {
+   "id": 337,
+   "width": 175,
+   "subs": [
+    {
+     "id": 818,
+     "bytes": 35,
+     "en": "  i'll open the \ngate for you here,",
+     "ko": "여기\n문을 열어줄게,"
+    },
+    {
+     "id": 819,
+     "bytes": 68,
+     "en": "and you can get on with\nwhat is it ever that you're\n   trying to do.",
+     "ko": "그리고 하려던\n일이나 마저 하라고.\n뭐가 됐든 말이야."
+    }
+   ]
+  },
+  {
+   "id": 338,
+   "width": 130,
+   "subs": [
+    {
+     "id": 820,
+     "bytes": 19,
+     "en": "that's all you do ?",
+     "ko": "고작 그게 다야?"
+    }
+   ]
+  },
+  {
+   "id": 339,
+   "width": 46,
+   "subs": [
+    {
+     "id": 821,
+     "bytes": 7,
+     "en": "great !",
+     "ko": "좋아!"
+    }
+   ]
+  },
+  {
+   "id": 340,
+   "width": 130,
+   "subs": [
+    {
+     "id": 822,
+     "bytes": 54,
+     "en": "         aahh ! \ni couldn't a lasted\n a moment longer.",
+     "ko": "아아! 나\n더는 한순간도\n못 버티겠더라."
+    },
+    {
+     "id": 823,
+     "bytes": 34,
+     "en": "thank you very\nmuch, mr. squirrel.",
+     "ko": "정말\n고마워요, 다람쥐 씨."
+    },
+    {
+     "id": 824,
+     "bytes": 60,
+     "en": "      now,\nthere's something\nreal neat inside \n   that barn.",
+     "ko": "자, 저 헛간 안에\n아주 괜찮은 게\n하나 있다고."
+    },
+    {
+     "id": 825,
+     "bytes": 40,
+     "en": "you just gotta \nget in there, \n   sonny.",
+     "ko": "그냥 들어가 보라고,\n꼬맹아."
+    }
+   ]
+  },
+  {
+   "id": 341,
+   "width": 115,
+   "subs": [
+    {
+     "id": 826,
+     "bytes": 15,
+     "en": "that was nice !",
+     "ko": "아주 좋았어!"
+    },
+    {
+     "id": 827,
+     "bytes": 29,
+     "en": "    i'd like\nanother, though,",
+     "ko": "하나 더\n갖고 싶은데,"
+    },
+    {
+     "id": 828,
+     "bytes": 13,
+     "en": "if that's ok.",
+     "ko": "괜찮다면."
+    }
+   ]
+  },
+  {
+   "id": 342,
+   "width": 120,
+   "subs": [
+    {
+     "id": 829,
+     "bytes": 12,
+     "en": "marvellous !",
+     "ko": "훌륭해!"
+    },
+    {
+     "id": 830,
+     "bytes": 35,
+     "en": " one more should \njust about do it.",
+     "ko": "하나만 더\n하면 될 것 같아."
+    }
+   ]
+  },
+  {
+   "id": 343,
+   "width": 106,
+   "subs": [
+    {
+     "id": 831,
+     "bytes": 11,
+     "en": "hey, buddy,",
+     "ko": "야, 친구,"
+    },
+    {
+     "id": 832,
+     "bytes": 27,
+     "en": "could ya spare\n me a dime ?",
+     "ko": "한 푼만\n적선해줄래?"
+    },
+    {
+     "id": 833,
+     "bytes": 12,
+     "en": "hey, buddy !",
+     "ko": "야, 친구!"
+    },
+    {
+     "id": 834,
+     "bytes": 18,
+     "en": "don't ignore . . .",
+     "ko": "무시하지 마..."
+    },
+    {
+     "id": 835,
+     "bytes": 23,
+     "en": "they always \nignore me.",
+     "ko": "다들 늘\n날 무시해."
+    },
+    {
+     "id": 836,
+     "bytes": 5,
+     "en": "hey !",
+     "ko": "이봐!"
+    }
+   ]
+  },
+  {
+   "id": 344,
+   "width": 108,
+   "subs": [
+    {
+     "id": 837,
+     "bytes": 30,
+     "en": "eh, oh, what do \n   you want ?",
+     "ko": "어, 아, 뭘\n원하는 건데?"
+    },
+    {
+     "id": 838,
+     "bytes": 9,
+     "en": "you know,",
+     "ko": "있잖아,"
+    },
+    {
+     "id": 839,
+     "bytes": 19,
+     "en": "in my own \n country",
+     "ko": "우리\n나라에선"
+    },
+    {
+     "id": 840,
+     "bytes": 13,
+     "en": "i am a king !",
+     "ko": "난 왕이야!"
+    },
+    {
+     "id": 841,
+     "bytes": 12,
+     "en": "oh, really !",
+     "ko": "오, 정말!"
+    },
+    {
+     "id": 842,
+     "bytes": 5,
+     "en": "yeh !",
+     "ko": "그래!"
+    },
+    {
+     "id": 843,
+     "bytes": 25,
+     "en": " that bitch\nthrew me out.",
+     "ko": "그 여자가\n날 쫓아냈어."
+    },
+    {
+     "id": 844,
+     "bytes": 47,
+     "en": "apparently, the \n   hive keeps \ngetting stolen.",
+     "ko": "듣기론,\n벌집을 자꾸\n도둑맞는대."
+    },
+    {
+     "id": 845,
+     "bytes": 13,
+     "en": "I don't care.",
+     "ko": "관심 없어."
+    },
+    {
+     "id": 846,
+     "bytes": 47,
+     "en": "couldn't fit in\nthe ¢µ ¢³ ¢² ¢´¡ \nthing anyway.",
+     "ko": "저 ¢µ ¢³ ¢² ¢´¡\n안에는 어차피\n못 들어가."
+    }
+   ]
+  },
+  {
+   "id": 345,
+   "width": 108,
+   "subs": [
+    {
+     "id": 848,
+     "bytes": 23,
+     "en": "seen how fat\n   she is.",
+     "ko": "저 여자\n뚱뚱해."
+    },
+    {
+     "id": 849,
+     "bytes": 7,
+     "en": "bitch !",
+     "ko": "썅년!"
+    },
+    {
+     "id": 850,
+     "bytes": 43,
+     "en": "now i'm reduced\n to the status\n   of a bum.",
+     "ko": "이제 난 거지\n신세로 전락했군."
+    }
+   ]
+  },
+  {
+   "id": 346,
+   "width": 51,
+   "subs": [
+    {
+     "id": 851,
+     "bytes": 7,
+     "en": "hey !  ",
+     "ko": "이봐! "
+    },
+    {
+     "id": 852,
+     "bytes": 8,
+     "en": "uh huh. ",
+     "ko": "그래."
+    }
+   ]
+  },
+  {
+   "id": 347,
+   "width": 120,
+   "subs": [
+    {
+     "id": 853,
+     "bytes": 35,
+     "en": "well, yeh, anyway,\n i gotta go now.",
+     "ko": "그래, 아무튼,\n이제 가봐야겠다."
+    }
+   ]
+  },
+  {
+   "id": 348,
+   "width": 124,
+   "subs": [
+    {
+     "id": 854,
+     "bytes": 30,
+     "en": "you're like the\n rest of them.",
+     "ko": "너도\n다른 애들과 똑같네."
+    },
+    {
+     "id": 855,
+     "bytes": 53,
+     "en": "i ain't gonna tell \n you about the\nbig-breasted babe.",
+     "ko": "가슴 큰 여자\n얘긴 안\n해줄 거야."
+    }
+   ]
+  },
+  {
+   "id": 349,
+   "width": 96,
+   "subs": [
+    {
+     "id": 856,
+     "bytes": 14,
+     "en": "the big what ?",
+     "ko": "가슴 크다니?"
+    }
+   ]
+  },
+  {
+   "id": 350,
+   "width": 133,
+   "subs": [
+    {
+     "id": 857,
+     "bytes": 47,
+     "en": "i thought that \nmight have got \nyour attention.",
+     "ko": "그 말이\n네 관심을\n끌 줄 알았어."
+    },
+    {
+     "id": 858,
+     "bytes": 14,
+     "en": "she's lovely !",
+     "ko": "예쁘잖아!"
+    },
+    {
+     "id": 859,
+     "bytes": 37,
+     "en": "that's why the wife \n  kicked me out.",
+     "ko": "그래서\n아내가 날 쫓아냈어."
+    },
+    {
+     "id": 860,
+     "bytes": 35,
+     "en": "all i wanna do is \n  pollinate her.",
+     "ko": "그녀랑 짝짓기\n하고 싶어."
+    },
+    {
+     "id": 861,
+     "bytes": 50,
+     "en": "she's got stigmas \nlike you wouldn't \n    believe.",
+     "ko": "그 암술이\n믿기지 않을 만큼\n크다니까."
+    }
+   ]
+  },
+  {
+   "id": 351,
+   "width": 132,
+   "subs": [
+    {
+     "id": 862,
+     "bytes": 18,
+     "en": "what do\nyou mean ?",
+     "ko": "무슨\n소리야?"
+    },
+    {
+     "id": 863,
+     "bytes": 37,
+     "en": " i thought you\nsaid she had big . . .",
+     "ko": "네가\n가슴 크다고\n했잖아..."
+    }
+   ]
+  },
+  {
+   "id": 352,
+   "width": 83,
+   "subs": [
+    {
+     "id": 864,
+     "bytes": 6,
+     "en": "Yeah !",
+     "ko": "그래!"
+    },
+    {
+     "id": 865,
+     "bytes": 26,
+     "en": "over there\nbehind us . . .",
+     "ko": "저기 우리\n뒤쪽에..."
+    }
+   ]
+  },
+  {
+   "id": 353,
+   "width": 122,
+   "subs": [
+    {
+     "id": 866,
+     "bytes": 19,
+     "en": "hang on a\n  second,",
+     "ko": "잠깐\n기다려,"
+    },
+    {
+     "id": 867,
+     "bytes": 9,
+     "en": "breasts ?",
+     "ko": "가슴?"
+    },
+    {
+     "id": 868,
+     "bytes": 22,
+     "en": "  she's a \nsunflower !",
+     "ko": "쟤는\n해바라기야!"
+    },
+    {
+     "id": 869,
+     "bytes": 6,
+     "en": "yeah !",
+     "ko": "그래!"
+    },
+    {
+     "id": 870,
+     "bytes": 37,
+     "en": "what did you\n  expect her\n    to be ?",
+     "ko": "그럼 대체 뭘\n기대한 거야?"
+    },
+    {
+     "id": 871,
+     "bytes": 37,
+     "en": "she's a sunflower\n with big breasts !",
+     "ko": "가슴 큰\n해바라기라니까!"
+    },
+    {
+     "id": 872,
+     "bytes": 11,
+     "en": "i'm a bee !",
+     "ko": "난 벌이야"
+    },
+    {
+     "id": 873,
+     "bytes": 15,
+     "en": "stupid bastard.",
+     "ko": "멍청한 놈."
+    }
+   ]
+  },
+  {
+   "id": 354,
+   "width": 141,
+   "subs": [
+    {
+     "id": 874,
+     "bytes": 42,
+     "en": "ok, there's no\n need to get\noffensive now.",
+     "ko": "야, 그렇게\n예민하게\n굴 필요 없잖아."
+    },
+    {
+     "id": 875,
+     "bytes": 6,
+     "en": "sorry.",
+     "ko": "미안."
+    },
+    {
+     "id": 876,
+     "bytes": 30,
+     "en": "you gotta help\nme out, buddy !",
+     "ko": "나 좀 도와줘야\n해, 친구!"
+    },
+    {
+     "id": 877,
+     "bytes": 38,
+     "en": "    i don't know\nwhat i'm gonna do !  ",
+     "ko": "어떡해야\n할지 모르겠어!"
+    },
+    {
+     "id": 878,
+     "bytes": 5,
+     "en": "well,",
+     "ko": "음,"
+    },
+    {
+     "id": 879,
+     "bytes": 25,
+     "en": "what's in it\n   for me ? ",
+     "ko": "나한테\n뭐가 좋은데?"
+    },
+    {
+     "id": 880,
+     "bytes": 6,
+     "en": "cash !",
+     "ko": "돈!"
+    }
+   ]
+  },
+  {
+   "id": 355,
+   "width": 130,
+   "subs": [
+    {
+     "id": 881,
+     "bytes": 16,
+     "en": "that'll do . . .",
+     "ko": "그럼 됐고..."
+    },
+    {
+     "id": 882,
+     "bytes": 34,
+     "en": " but i thought \nyou were begging ?",
+     "ko": "근데 구걸하는\n거 아니었어?"
+    }
+   ]
+  },
+  {
+   "id": 356,
+   "width": 74,
+   "subs": [
+    {
+     "id": 884,
+     "bytes": 23,
+     "en": "ha ! sussed\n    him .  ",
+     "ko": "하! 들켰지."
+    }
+   ]
+  },
+  {
+   "id": 357,
+   "width": 99,
+   "subs": [
+    {
+     "id": 885,
+     "bytes": 41,
+     "en": "hey ! uh, could \nyou help me \n out here ?",
+     "ko": "저기! 어,\n나 좀\n도와줄 수 있어?"
+    }
+   ]
+  },
+  {
+   "id": 358,
+   "width": 127,
+   "subs": [
+    {
+     "id": 886,
+     "bytes": 60,
+     "en": "there's a guy over \n  there, he said he \n     wants to . . .",
+     "ko": "저기 어떤\n남자가, 뭘\n하고 싶다는데..."
+    },
+    {
+     "id": 887,
+     "bytes": 30,
+     "en": "something to do\n with stigmas,",
+     "ko": "암술이랑\n관련된 건데,"
+    },
+    {
+     "id": 888,
+     "bytes": 31,
+     "en": "not quite sure,\npollinate you ?",
+     "ko": "잘 모르지만,\n너랑 짝짓기?"
+    },
+    {
+     "id": 889,
+     "bytes": 32,
+     "en": "  sounds a bit\nstrange but . . .",
+     "ko": "좀 이상한데\n일단..."
+    },
+    {
+     "id": 890,
+     "bytes": 9,
+     "en": "go away !",
+     "ko": "저리 가!"
+    },
+    {
+     "id": 891,
+     "bytes": 49,
+     "en": "ooh, that big tail \nof yours is far \n too tickly.",
+     "ko": "우, 네 그 큰 꼬리\n너무 간지럽잖아."
+    },
+    {
+     "id": 892,
+     "bytes": 27,
+     "en": "no, you don't \n understand.",
+     "ko": "아니,\n이해 못 하네."
+    },
+    {
+     "id": 893,
+     "bytes": 47,
+     "en": "get that big,\nlong, hairy tail \n away from me !",
+     "ko": "그 크고 길고\n털 많은 꼬리\n저리 치우라고!"
+    }
+   ]
+  },
+  {
+   "id": 359,
+   "width": 95,
+   "subs": [
+    {
+     "id": 894,
+     "bytes": 26,
+     "en": " ah ! suit \nyourself then.",
+     "ko": "아! 그럼\n맘대로 해."
+    },
+    {
+     "id": 895,
+     "bytes": 23,
+     "en": "   ooh ! \nbe like that.",
+     "ko": "오!\n그러시든가."
+    }
+   ]
+  },
+  {
+   "id": 360,
+   "width": 106,
+   "subs": [
+    {
+     "id": 896,
+     "bytes": 46,
+     "en": " get that big,\nlong, hairy tail\n away from me.",
+     "ko": "그 크고 길고\n털 많은 꼬리\n저리 치워."
+    }
+   ]
+  },
+  {
+   "id": 361,
+   "width": 55,
+   "subs": [
+    {
+     "id": 897,
+     "bytes": 9,
+     "en": "hi, guys.",
+     "ko": "안녕!"
+    }
+   ]
+  },
+  {
+   "id": 362,
+   "width": 109,
+   "subs": [
+    {
+     "id": 898,
+     "bytes": 12,
+     "en": "no, get off,",
+     "ko": "야, 내려가,"
+    },
+    {
+     "id": 899,
+     "bytes": 14,
+     "en": "don't do that,",
+     "ko": "그러지 마,"
+    },
+    {
+     "id": 900,
+     "bytes": 14,
+     "en": "whaddya doing,",
+     "ko": "뭐 하는\n거야,"
+    },
+    {
+     "id": 901,
+     "bytes": 29,
+     "en": "no, it tickles,\n  stop that !",
+     "ko": "간지러워,\n그만해!"
+    }
+   ]
+  },
+  {
+   "id": 363,
+   "width": 81,
+   "subs": [
+    {
+     "id": 902,
+     "bytes": 24,
+     "en": "    you're\ntickly bees ?",
+     "ko": "간지럼\n타는 벌이야?"
+    }
+   ]
+  },
+  {
+   "id": 364,
+   "width": 71,
+   "subs": [
+    {
+     "id": 903,
+     "bytes": 21,
+     "en": "  you're \npacifists ?",
+     "ko": "너희들\n평화주의자?"
+    }
+   ]
+  },
+  {
+   "id": 365,
+   "width": 116,
+   "subs": [
+    {
+     "id": 904,
+     "bytes": 33,
+     "en": "you only like \nto tickle people ?",
+     "ko": "간지럼\n태우는 것만\n좋아해?"
+    }
+   ]
+  },
+  {
+   "id": 366,
+   "width": 112,
+   "subs": [
+    {
+     "id": 905,
+     "bytes": 17,
+     "en": "ticklish flower ?",
+     "ko": "간지럼꽃\n이야?"
+    }
+   ]
+  },
+  {
+   "id": 367,
+   "width": 113,
+   "subs": [
+    {
+     "id": 906,
+     "bytes": 30,
+     "en": "like sunflowers, \n     maybe ?",
+     "ko": "해바라기\n같은 거\n말이야?"
+    }
+   ]
+  },
+  {
+   "id": 368,
+   "width": 104,
+   "subs": [
+    {
+     "id": 907,
+     "bytes": 34,
+     "en": "mmm . . . i think\ni've got a plan.",
+     "ko": "음... 좋은\n생각이 났어."
+    }
+   ]
+  },
+  {
+   "id": 369,
+   "width": 106,
+   "subs": [
+    {
+     "id": 908,
+     "bytes": 30,
+     "en": " ah yep, that \nseemed to work.",
+     "ko": "아 그래,\n효과가\n있었네."
+    },
+    {
+     "id": 909,
+     "bytes": 25,
+     "en": "looks like i\n  need more.",
+     "ko": "더\n필요할\n것 같아."
+    },
+    {
+     "id": 910,
+     "bytes": 32,
+     "en": "mmmm. . . where \ncould they be ?",
+     "ko": "음...\n어디\n있을까?"
+    }
+   ]
+  },
+  {
+   "id": 370,
+   "width": 107,
+   "subs": [
+    {
+     "id": 911,
+     "bytes": 32,
+     "en": " there you go. \nshe's all yours.",
+     "ko": "자, 여기.\n다 네 거야."
+    },
+    {
+     "id": 912,
+     "bytes": 21,
+     "en": "thank you \nvery much.",
+     "ko": "정말\n고마워."
+    },
+    {
+     "id": 913,
+     "bytes": 39,
+     "en": "i'm going in. \nwish me luck, \n   fella.",
+     "ko": "들어간다.\n행운을 빌어줘,\n친구."
+    }
+   ]
+  },
+  {
+   "id": 371,
+   "width": 107,
+   "subs": [
+    {
+     "id": 914,
+     "bytes": 26,
+     "en": "cheers, little \n    fella.",
+     "ko": "고맙군,\n꼬마 친구."
+    },
+    {
+     "id": 915,
+     "bytes": 23,
+     "en": "i feel like \na new man.",
+     "ko": "새사람\n된 기분이야."
+    },
+    {
+     "id": 916,
+     "bytes": 8,
+     "en": "so do i.",
+     "ko": "나도야."
+    },
+    {
+     "id": 917,
+     "bytes": 14,
+     "en": "conker, honey,",
+     "ko": "코커, 자기야,"
+    },
+    {
+     "id": 918,
+     "bytes": 28,
+     "en": " fancy going \nfor a bounce ?",
+     "ko": "한번 신나게\n튀어볼래?"
+    },
+    {
+     "id": 919,
+     "bytes": 10,
+     "en": "a bounce ?",
+     "ko": "튀자고?"
+    },
+    {
+     "id": 920,
+     "bytes": 3,
+     "en": "ok.",
+     "ko": "응"
+    },
+    {
+     "id": 921,
+     "bytes": 43,
+     "en": " now this is \nwhat i call a \nplatform game.",
+     "ko": "이게 바로\n내가 말하는\n플랫폼 게임이지"
+    }
+   ]
+  },
+  {
+   "id": 372,
+   "width": 126,
+   "subs": [
+    {
+     "id": 922,
+     "bytes": 34,
+     "en": "  so, you want \nsome green stuff ?",
+     "ko": "그래서,\n뭔가 좀 필요해?"
+    }
+   ]
+  },
+  {
+   "id": 373,
+   "width": 106,
+   "subs": [
+    {
+     "id": 923,
+     "bytes": 5,
+     "en": "yeh !",
+     "ko": "그래!"
+    },
+    {
+     "id": 924,
+     "bytes": 30,
+     "en": "   i think the \nround's on me.",
+     "ko": "이번 판은\n내가 낼게."
+    },
+    {
+     "id": 925,
+     "bytes": 32,
+     "en": "  i'm gonna get \ntanked tonight.",
+     "ko": "오늘\n제대로\n취해볼 거야."
+    }
+   ]
+  },
+  {
+   "id": 374,
+   "width": 114,
+   "subs": [
+    {
+     "id": 926,
+     "bytes": 15,
+     "en": "yeh ! i'm here.",
+     "ko": "나 여기 있어!"
+    },
+    {
+     "id": 927,
+     "bytes": 33,
+     "en": "hurry up. pick me \n up, shithead.",
+     "ko": "빨리 좀,\n들어올려, 멍청아."
+    }
+   ]
+  },
+  {
+   "id": 375,
+   "width": 95,
+   "subs": [
+    {
+     "id": 928,
+     "bytes": 11,
+     "en": "excellent !",
+     "ko": "좋았어!"
+    },
+    {
+     "id": 929,
+     "bytes": 39,
+     "en": "jet-packs and\nbutlers, here \n  we come.",
+     "ko": "제트팩이랑\n집사, 이제\n간다."
+    }
+   ]
+  },
+  {
+   "id": 376,
+   "width": 82,
+   "subs": [
+    {
+     "id": 930,
+     "bytes": 23,
+     "en": "so, another \nwise guy ?",
+     "ko": "또 잘난\n놈이 왔군?"
+    },
+    {
+     "id": 931,
+     "bytes": 12,
+     "en": "c'mon then !",
+     "ko": "덤벼봐!"
+    }
+   ]
+  },
+  {
+   "id": 377,
+   "width": 112,
+   "subs": [
+    {
+     "id": 932,
+     "bytes": 6,
+     "en": "cool !",
+     "ko": "좋아!"
+    },
+    {
+     "id": 933,
+     "bytes": 30,
+     "en": "i'm gonna have\nthat gold card ",
+     "ko": "저 골드카드\n곧 내\n거야"
+    },
+    {
+     "id": 934,
+     "bytes": 21,
+     "en": "before you \n know it.",
+     "ko": "곧 손에\n넣어."
+    }
+   ]
+  },
+  {
+   "id": 378,
+   "width": 103,
+   "subs": [
+    {
+     "id": 935,
+     "bytes": 11,
+     "en": "hey, buddy,",
+     "ko": "야, 친구,"
+    },
+    {
+     "id": 936,
+     "bytes": 26,
+     "en": "could ya spare\n me a dime?",
+     "ko": "한 푼만\n줄래?"
+    },
+    {
+     "id": 937,
+     "bytes": 12,
+     "en": "hey, buddy !",
+     "ko": "이봐, 친구!"
+    },
+    {
+     "id": 938,
+     "bytes": 17,
+     "en": "don't ignore. . .",
+     "ko": "무시하지 마..."
+    },
+    {
+     "id": 939,
+     "bytes": 23,
+     "en": "they always \nignore me.",
+     "ko": "다들 늘\n날 무시해."
+    },
+    {
+     "id": 940,
+     "bytes": 5,
+     "en": "hey !",
+     "ko": "이봐!"
+    }
+   ]
+  },
+  {
+   "id": 379,
+   "width": 106,
+   "subs": [
+    {
+     "id": 941,
+     "bytes": 29,
+     "en": "eh, oh, what do \n   you want?",
+     "ko": "어, 아, 뭘\n원하는 건데?"
+    },
+    {
+     "id": 942,
+     "bytes": 9,
+     "en": "you know,",
+     "ko": "있잖아,"
+    },
+    {
+     "id": 943,
+     "bytes": 19,
+     "en": "in my own \n country",
+     "ko": "우리\n나라에선"
+    },
+    {
+     "id": 944,
+     "bytes": 12,
+     "en": "i am a king!",
+     "ko": "난 왕이야!"
+    },
+    {
+     "id": 945,
+     "bytes": 11,
+     "en": "oh, really!",
+     "ko": "오, 정말!"
+    },
+    {
+     "id": 946,
+     "bytes": 4,
+     "en": "yeh!",
+     "ko": "응!"
+    },
+    {
+     "id": 947,
+     "bytes": 25,
+     "en": " that bitch\nthrew me out.",
+     "ko": "그 여자가\n날 쫓아냈어."
+    }
+   ]
+  },
+  {
+   "id": 380,
+   "width": 108,
+   "subs": [
+    {
+     "id": 948,
+     "bytes": 47,
+     "en": "apparently, the \n   hive keeps \ngetting stolen.",
+     "ko": "듣기론,\n벌집을 자꾸\n도둑맞는대."
+    },
+    {
+     "id": 949,
+     "bytes": 13,
+     "en": "I don't care.",
+     "ko": "관심 없어."
+    },
+    {
+     "id": 950,
+     "bytes": 47,
+     "en": "couldn't fit in\nthe ¢µ ¢³ ¢² ¢´¡ \nthing anyway.",
+     "ko": "저 ¢µ ¢³ ¢² ¢´¡\n안에는 어차피\n못 들어가."
+    }
+   ]
+  },
+  {
+   "id": 381,
+   "width": 108,
+   "subs": [
+    {
+     "id": 952,
+     "bytes": 23,
+     "en": "seen how fat\n   she is.",
+     "ko": "저 여자\n뚱뚱해."
+    },
+    {
+     "id": 953,
+     "bytes": 7,
+     "en": "bitch !",
+     "ko": "썅년!"
+    },
+    {
+     "id": 954,
+     "bytes": 43,
+     "en": "now i'm reduced\n to the status\n   of a bum.",
+     "ko": "이제 난 거지\n신세로 전락했군."
+    }
+   ]
+  },
+  {
+   "id": 382,
+   "width": 31,
+   "subs": [
+    {
+     "id": 955,
+     "bytes": 6,
+     "en": "hey!  ",
+     "ko": "이봐!"
+    }
+   ]
+  },
+  {
+   "id": 383,
+   "width": 51,
+   "subs": [
+    {
+     "id": 956,
+     "bytes": 8,
+     "en": "uh huh. ",
+     "ko": "그래."
+    }
+   ]
+  },
+  {
+   "id": 384,
+   "width": 120,
+   "subs": [
+    {
+     "id": 957,
+     "bytes": 35,
+     "en": "well, yeh, anyway,\n i gotta go now.",
+     "ko": "그래, 아무튼,\n이제 가봐야겠다."
+    }
+   ]
+  },
+  {
+   "id": 385,
+   "width": 128,
+   "subs": [
+    {
+     "id": 958,
+     "bytes": 30,
+     "en": "you're like the\n rest of them.",
+     "ko": "너도\n다른 애들과 똑같네."
+    },
+    {
+     "id": 959,
+     "bytes": 56,
+     "en": "i ain't gonna tell \n you about the big-\n  breasted babe.",
+     "ko": "가슴 큰 아가씨\n얘긴 안 해줄\n거라고."
+    },
+    {
+     "id": 960,
+     "bytes": 14,
+     "en": "the big what ?",
+     "ko": "가슴 크다니?"
+    }
+   ]
+  },
+  {
+   "id": 386,
+   "width": 133,
+   "subs": [
+    {
+     "id": 961,
+     "bytes": 47,
+     "en": "i thought that \nmight have got \nyour attention.",
+     "ko": "그 말이\n네 관심을\n끌 줄 알았어."
+    },
+    {
+     "id": 962,
+     "bytes": 14,
+     "en": "she's lovely !",
+     "ko": "예쁘잖아!"
+    },
+    {
+     "id": 963,
+     "bytes": 37,
+     "en": "that's why the wife \n  kicked me out.",
+     "ko": "그래서\n아내가 날 쫓아냈어."
+    },
+    {
+     "id": 964,
+     "bytes": 35,
+     "en": "all i wanna do is \n  pollinate her.",
+     "ko": "그녀랑 짝짓기\n하고 싶어."
+    },
+    {
+     "id": 965,
+     "bytes": 50,
+     "en": "she's got stigmas \nlike you wouldn't \n    believe.",
+     "ko": "그 암술이\n믿기지 않을 만큼\n크다니까."
+    }
+   ]
+  },
+  {
+   "id": 387,
+   "width": 95,
+   "subs": [
+    {
+     "id": 966,
+     "bytes": 17,
+     "en": "what do\nyou mean?",
+     "ko": "무슨\n소리야?"
+    },
+    {
+     "id": 967,
+     "bytes": 19,
+     "en": "i thought\nyou said ",
+     "ko": "네가\n말했잖아"
+    },
+    {
+     "id": 968,
+     "bytes": 16,
+     "en": "she had big. . .",
+     "ko": "가슴 크다고..."
+    },
+    {
+     "id": 969,
+     "bytes": 5,
+     "en": "yeh !",
+     "ko": "그래!"
+    },
+    {
+     "id": 970,
+     "bytes": 22,
+     "en": "over there\n behind us.",
+     "ko": "바로 저기\n우리 뒤에."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+  "_comment": "이 파일을 local.json 으로 복사해 각자 환경 경로를 넣는다. local.json 은 커밋하지 않는다.",
+  "rom_path": "C:/claude/roms/n64/Conker's Bad Fur Day (USA).z64",
+  "savestate_path": "D:/hospi/RetroArch/states/Mupen64Plus-Next/Conker_s Bad Fur Day (USA).state",
+  "reference_patches": {
+    "_comment": "선행 스페인어 패치. 오라클로만 사용하며 빌드 입력으로 채택하지 않는다.",
+    "esp_v11": "C:/claude/project/Conker Bad Fur Day [ESP] v1.1.xdelta",
+    "esp_v11beta": "C:/claude/project/Conker Bad Fur Day [ESP] v1.1beta.xdelta"
+  },
+  "xdelta_exe": "C:/claude/utils/xdelta.exe",
+  "output_dir": "work"
+}

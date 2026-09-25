@@ -1,0 +1,2172 @@
+{
+ "_": "ko 에 번역을 넣으세요. bytes=자막의 바이트 한도(한글 받침o 3B/받침x 2B, 그 외 1B), width=말풍선의 줄 폭 한도(한글 1자=13, 공백=4, \\n 으로 나뉜 각 줄이 이하일 것). id 는 건드리지 마세요.",
+ "part": 1,
+ "messages": [
+  {
+   "id": 0,
+   "width": 141,
+   "subs": [
+    {
+     "id": 0,
+     "bytes": 20,
+     "en": "Training - Scarecrow",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "width": 124,
+   "subs": [
+    {
+     "id": 1,
+     "bytes": 18,
+     "en": "Training - Jumping",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "width": 140,
+   "subs": [
+    {
+     "id": 2,
+     "bytes": 21,
+     "en": "Training - Frying Pan",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "width": 137,
+   "subs": [
+    {
+     "id": 3,
+     "bytes": 21,
+     "en": "Training - The Baddie",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "width": 175,
+   "subs": [
+    {
+     "id": 4,
+     "bytes": 25,
+     "en": "Training - Waterfall Cash",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "width": 173,
+   "subs": [
+    {
+     "id": 5,
+     "bytes": 26,
+     "en": "The Queen's lost her Home!",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "width": 223,
+   "subs": [
+    {
+     "id": 6,
+     "bytes": 34,
+     "en": "The Queen's lost her Home (again)!",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "width": 124,
+   "subs": [
+    {
+     "id": 7,
+     "bytes": 18,
+     "en": "Shoot The Beetles?",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "width": 101,
+   "subs": [
+    {
+     "id": 8,
+     "bytes": 14,
+     "en": "Open Poo Cabin",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "width": 162,
+   "subs": [
+    {
+     "id": 9,
+     "bytes": 23,
+     "en": "Poo Mountain Big Beetle",
+     "ko": ""
+    },
+    {
+     "id": 10,
+     "bytes": 18,
+     "en": "Stone Faced Island",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "width": 129,
+   "subs": [
+    {
+     "id": 11,
+     "bytes": 18,
+     "en": "Roll And Rat Start",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "width": 93,
+   "subs": [
+    {
+     "id": 12,
+     "bytes": 13,
+     "en": "Roll And Rat?",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "width": 124,
+   "subs": [
+    {
+     "id": 13,
+     "bytes": 17,
+     "en": "Windmill Exploded",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "width": 145,
+   "subs": [
+    {
+     "id": 14,
+     "bytes": 22,
+     "en": "Bee Cavern Deep Strike",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "width": 192,
+   "subs": [
+    {
+     "id": 15,
+     "bytes": 29,
+     "en": "Bee Cavern Deep Strike Return",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "width": 86,
+   "subs": [
+    {
+     "id": 16,
+     "bytes": 11,
+     "en": "Feed Marvin",
+     "ko": ""
+    },
+    {
+     "id": 17,
+     "bytes": 13,
+     "en": "Meet King Bee",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "width": 106,
+   "subs": [
+    {
+     "id": 18,
+     "bytes": 14,
+     "en": "Sunflower Babe",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "width": 187,
+   "subs": [
+    {
+     "id": 19,
+     "bytes": 25,
+     "en": "Sunflower Babe Bounceable",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "width": 88,
+   "subs": [
+    {
+     "id": 20,
+     "bytes": 13,
+     "en": "Leap Of Faith",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "width": 178,
+   "subs": [
+    {
+     "id": 21,
+     "bytes": 26,
+     "en": "Frankie Wants to Poke You!",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "width": 92,
+   "subs": [
+    {
+     "id": 22,
+     "bytes": 13,
+     "en": "Burn The Bats",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "width": 99,
+   "subs": [
+    {
+     "id": 23,
+     "bytes": 18,
+     "en": "Free Frankie ? ! !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "width": 105,
+   "subs": [
+    {
+     "id": 24,
+     "bytes": 14,
+     "en": "Giant Haystack",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "width": 119,
+   "subs": [
+    {
+     "id": 25,
+     "bytes": 17,
+     "en": "Barn Flipper Cash",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "width": 140,
+   "subs": [
+    {
+     "id": 26,
+     "bytes": 19,
+     "en": "Terminator Haystack",
+     "ko": ""
+    },
+    {
+     "id": 27,
+     "bytes": 17,
+     "en": "Barn Arena Escape",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "width": 142,
+   "subs": [
+    {
+     "id": 28,
+     "bytes": 21,
+     "en": "Meet the Toff Catfish",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "width": 90,
+   "subs": [
+    {
+     "id": 29,
+     "bytes": 13,
+     "en": "Open The Safe",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "width": 156,
+   "subs": [
+    {
+     "id": 30,
+     "bytes": 21,
+     "en": "Crazy Dogfish Escapes",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "width": 155,
+   "subs": [
+    {
+     "id": 31,
+     "bytes": 22,
+     "en": "Second Safe Lock Intro",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "width": 145,
+   "subs": [
+    {
+     "id": 32,
+     "bytes": 20,
+     "en": "Open The Blast Doors",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "width": 90,
+   "subs": [
+    {
+     "id": 33,
+     "bytes": 13,
+     "en": "Miners helmet",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "width": 108,
+   "subs": [
+    {
+     "id": 34,
+     "bytes": 16,
+     "en": "Inside Safe Cash",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "width": 194,
+   "subs": [
+    {
+     "id": 35,
+     "bytes": 26,
+     "en": "Through The Clang's Domain",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "width": 156,
+   "subs": [
+    {
+     "id": 36,
+     "bytes": 19,
+     "en": "Cog Needs His Women",
+     "ko": ""
+    },
+    {
+     "id": 37,
+     "bytes": 19,
+     "en": "Pull The Dogfish In",
+     "ko": ""
+    },
+    {
+     "id": 38,
+     "bytes": 22,
+     "en": "The Vampire Bats Tower",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "width": 130,
+   "subs": [
+    {
+     "id": 39,
+     "bytes": 19,
+     "en": "Rock Rollin' Cavern",
+     "ko": ""
+    },
+    {
+     "id": 40,
+     "bytes": 16,
+     "en": "Sacrifice a Baby",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "width": 120,
+   "subs": [
+    {
+     "id": 41,
+     "bytes": 16,
+     "en": "Bronto Snot Head",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "width": 74,
+   "subs": [
+    {
+     "id": 42,
+     "bytes": 10,
+     "en": "Worship Me",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "width": 130,
+   "subs": [
+    {
+     "id": 43,
+     "bytes": 18,
+     "en": "BLOW UP THE CAVERN",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "width": 97,
+   "subs": [
+    {
+     "id": 44,
+     "bytes": 13,
+     "en": "HATCH THE EGG",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "width": 163,
+   "subs": [
+    {
+     "id": 45,
+     "bytes": 23,
+     "en": "GET BABY DINO TO CAVERN",
+     "ko": ""
+    },
+    {
+     "id": 46,
+     "bytes": 13,
+     "en": "FIND UGGA HAT",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "width": 129,
+   "subs": [
+    {
+     "id": 47,
+     "bytes": 18,
+     "en": "THROW BOMB IN NEST",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "width": 71,
+   "subs": [
+    {
+     "id": 48,
+     "bytes": 10,
+     "en": "Rock Solid",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "width": 140,
+   "subs": [
+    {
+     "id": 49,
+     "bytes": 20,
+     "en": "Rock Solid Roll Rock",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "width": 117,
+   "subs": [
+    {
+     "id": 50,
+     "bytes": 15,
+     "en": "Rock Solid Cash",
+     "ko": ""
+    },
+    {
+     "id": 51,
+     "bytes": 16,
+     "en": "MEET WEASEL BOSS",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "width": 106,
+   "subs": [
+    {
+     "id": 52,
+     "bytes": 11,
+     "en": "Dining Dino",
+     "ko": ""
+    },
+    {
+     "id": 53,
+     "bytes": 14,
+     "en": "Bugga the Knut",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "width": 132,
+   "subs": [
+    {
+     "id": 54,
+     "bytes": 18,
+     "en": "Meet The Ugga Babe",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "width": 138,
+   "subs": [
+    {
+     "id": 55,
+     "bytes": 15,
+     "en": "Enter Poo Cabin",
+     "ko": ""
+    },
+    {
+     "id": 56,
+     "bytes": 15,
+     "en": "Leave Poo Cabin",
+     "ko": ""
+    },
+    {
+     "id": 57,
+     "bytes": 19,
+     "en": "Poo Sweetcorn Teeth",
+     "ko": ""
+    },
+    {
+     "id": 58,
+     "bytes": 16,
+     "en": "Poovarotti Sings",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "width": 118,
+   "subs": [
+    {
+     "id": 59,
+     "bytes": 16,
+     "en": "Poovarotti Flush",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "width": 152,
+   "subs": [
+    {
+     "id": 60,
+     "bytes": 15,
+     "en": "WEASEL POO SCAM",
+     "ko": ""
+    },
+    {
+     "id": 61,
+     "bytes": 20,
+     "en": "Ugga Lava Race Start",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "width": 110,
+   "subs": [
+    {
+     "id": 62,
+     "bytes": 14,
+     "en": "Ugga Lava Race",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "width": 88,
+   "subs": [
+    {
+     "id": 63,
+     "bytes": 13,
+     "en": "Bull Shitters",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "width": 138,
+   "subs": [
+    {
+     "id": 64,
+     "bytes": 15,
+     "en": "Fire Imp Frenzy",
+     "ko": ""
+    },
+    {
+     "id": 65,
+     "bytes": 20,
+     "en": "Boiler Big Nuts Boss",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "width": 124,
+   "subs": [
+    {
+     "id": 66,
+     "bytes": 16,
+     "en": "Bowling Bollocks",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "width": 177,
+   "subs": [
+    {
+     "id": 67,
+     "bytes": 23,
+     "en": "Beach Assault Bloodbath",
+     "ko": ""
+    },
+    {
+     "id": 68,
+     "bytes": 15,
+     "en": "Beach Sail Away",
+     "ko": ""
+    },
+    {
+     "id": 69,
+     "bytes": 11,
+     "en": "Lift Tunnel",
+     "ko": ""
+    },
+    {
+     "id": 70,
+     "bytes": 12,
+     "en": "Flame Tunnel",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "width": 116,
+   "subs": [
+    {
+     "id": 71,
+     "bytes": 16,
+     "en": "Machine Gun Nest",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "width": 82,
+   "subs": [
+    {
+     "id": 72,
+     "bytes": 12,
+     "en": "Annihilation",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "width": 157,
+   "subs": [
+    {
+     "id": 73,
+     "bytes": 23,
+     "en": "Execute Private Rodent?",
+     "ko": ""
+    },
+    {
+     "id": 74,
+     "bytes": 20,
+     "en": "Saved Private Rodent",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "width": 105,
+   "subs": [
+    {
+     "id": 75,
+     "bytes": 14,
+     "en": "Parachute Lock",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "width": 114,
+   "subs": [
+    {
+     "id": 76,
+     "bytes": 16,
+     "en": "Canyon End Tediz",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "width": 156,
+   "subs": [
+    {
+     "id": 77,
+     "bytes": 21,
+     "en": "Tank Blow Tunnel Door",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "width": 100,
+   "subs": [
+    {
+     "id": 78,
+     "bytes": 14,
+     "en": "A Tank Too Far",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "width": 112,
+   "subs": [
+    {
+     "id": 79,
+     "bytes": 16,
+     "en": "Tank Acid Tunnel",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "width": 75,
+   "subs": [
+    {
+     "id": 80,
+     "bytes": 12,
+     "en": "Electric Eel",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "width": 133,
+   "subs": [
+    {
+     "id": 81,
+     "bytes": 18,
+     "en": "Blast the wreckage",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "width": 83,
+   "subs": [
+    {
+     "id": 82,
+     "bytes": 12,
+     "en": "Up Periscope",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "width": 64,
+   "subs": [
+    {
+     "id": 83,
+     "bytes": 8,
+     "en": "War Boss",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "width": 145,
+   "subs": [
+    {
+     "id": 84,
+     "bytes": 18,
+     "en": "War Boss Countdown",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "width": 106,
+   "subs": [
+    {
+     "id": 85,
+     "bytes": 14,
+     "en": "Medical Mayhem",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "width": 85,
+   "subs": [
+    {
+     "id": 86,
+     "bytes": 12,
+     "en": "Horror Intro",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "width": 135,
+   "subs": [
+    {
+     "id": 87,
+     "bytes": 18,
+     "en": "Zombie Grave Shoot",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 70,
+   "width": 92,
+   "subs": [
+    {
+     "id": 88,
+     "bytes": 12,
+     "en": "Count Batula",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 71,
+   "width": 137,
+   "subs": [
+    {
+     "id": 89,
+     "bytes": 11,
+     "en": "Zombie Fest",
+     "ko": ""
+    },
+    {
+     "id": 90,
+     "bytes": 19,
+     "en": "Haunted Barrel Roll",
+     "ko": ""
+    },
+    {
+     "id": 91,
+     "bytes": 13,
+     "en": "Bank Entrance",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 72,
+   "width": 94,
+   "subs": [
+    {
+     "id": 92,
+     "bytes": 15,
+     "en": "The Vertex (TM)",
+     "ko": ""
+    },
+    {
+     "id": 93,
+     "bytes": 10,
+     "en": "Bank Vault",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 73,
+   "width": 120,
+   "subs": [
+    {
+     "id": 94,
+     "bytes": 15,
+     "en": "Blade Boardroom",
+     "ko": ""
+    },
+    {
+     "id": 95,
+     "bytes": 9,
+     "en": "End Arena",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 74,
+   "width": 155,
+   "subs": [
+    {
+     "id": 96,
+     "bytes": 25,
+     "en": "Fight The Alien (no suit)",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 75,
+   "width": 98,
+   "subs": [
+    {
+     "id": 97,
+     "bytes": 15,
+     "en": "Fight The Alien",
+     "ko": ""
+    },
+    {
+     "id": 98,
+     "bytes": 8,
+     "en": "MP Heist",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 76,
+   "width": 101,
+   "subs": [
+    {
+     "id": 99,
+     "bytes": 14,
+     "en": "MP Tank Battle",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 77,
+   "width": 61,
+   "subs": [
+    {
+     "id": 100,
+     "bytes": 8,
+     "en": "MP Beach",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 78,
+   "width": 49,
+   "subs": [
+    {
+     "id": 101,
+     "bytes": 6,
+     "en": "MP War",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 79,
+   "width": 92,
+   "subs": [
+    {
+     "id": 102,
+     "bytes": 12,
+     "en": "MP Beach War",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 80,
+   "width": 80,
+   "subs": [
+    {
+     "id": 103,
+     "bytes": 10,
+     "en": "MP Volcano",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 81,
+   "width": 74,
+   "subs": [
+    {
+     "id": 104,
+     "bytes": 10,
+     "en": "MP Tunnels",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 82,
+   "width": 69,
+   "subs": [
+    {
+     "id": 105,
+     "bytes": 9,
+     "en": "MP Raptor",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 83,
+   "width": 86,
+   "subs": [
+    {
+     "id": 106,
+     "bytes": 12,
+     "en": "Introduction",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 84,
+   "width": 121,
+   "subs": [
+    {
+     "id": 107,
+     "bytes": 17,
+     "en": "The Table Problem",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 85,
+   "width": 94,
+   "subs": [
+    {
+     "id": 108,
+     "bytes": 14,
+     "en": "The Experiment",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 86,
+   "width": 94,
+   "subs": [
+    {
+     "id": 109,
+     "bytes": 14,
+     "en": "A Red Squirrel",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 87,
+   "width": 128,
+   "subs": [
+    {
+     "id": 110,
+     "bytes": 19,
+     "en": "Is That Bridge Safe",
+     "ko": ""
+    },
+    {
+     "id": 111,
+     "bytes": 16,
+     "en": "Rocky Gets Berri",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 88,
+   "width": 228,
+   "subs": [
+    {
+     "id": 112,
+     "bytes": 32,
+     "en": "End of Game Cutscene and Credits",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 89,
+   "width": 79,
+   "subs": [
+    {
+     "id": 113,
+     "bytes": 10,
+     "en": "LogoScreen",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 90,
+   "width": 131,
+   "subs": [
+    {
+     "id": 114,
+     "bytes": 11,
+     "en": "First Death",
+     "ko": ""
+    },
+    {
+     "id": 115,
+     "bytes": 18,
+     "en": "Ha Ha Ha Your Dead",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 91,
+   "width": 275,
+   "subs": [
+    {
+     "id": 116,
+     "bytes": 35,
+     "en": "TTTn]gYdxtd]ePgYdxtd]]^^e^TMPggIw< ",
+     "ko": ""
+    },
+    {
+     "id": 117,
+     "bytes": 26,
+     "en": "dda]]YSddddaMPYS^MII]fg^8?",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 92,
+   "width": 154,
+   "subs": [
+    {
+     "id": 118,
+     "bytes": 36,
+     "en": "ah ! right, don't see\n any poo here.",
+     "ko": ""
+    },
+    {
+     "id": 119,
+     "bytes": 33,
+     "en": "oh, hey ! excuse \n     me, hello.",
+     "ko": ""
+    },
+    {
+     "id": 120,
+     "bytes": 11,
+     "en": "yeah, you !",
+     "ko": ""
+    },
+    {
+     "id": 121,
+     "bytes": 26,
+     "en": "      ugh !\nfriendly type.",
+     "ko": ""
+    },
+    {
+     "id": 122,
+     "bytes": 28,
+     "en": "i'm looking for \n  some poo.",
+     "ko": ""
+    },
+    {
+     "id": 123,
+     "bytes": 43,
+     "en": " i know it sounds\npretty strange but . . . ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 93,
+   "width": 71,
+   "subs": [
+    {
+     "id": 124,
+     "bytes": 11,
+     "en": "red ! red !",
+     "ko": ""
+    },
+    {
+     "id": 125,
+     "bytes": 22,
+     "en": "i don't like\n    red !",
+     "ko": ""
+    },
+    {
+     "id": 126,
+     "bytes": 14,
+     "en": "i hate\n  red !",
+     "ko": ""
+    },
+    {
+     "id": 127,
+     "bytes": 9,
+     "en": "go away !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 94,
+   "width": 162,
+   "subs": [
+    {
+     "id": 128,
+     "bytes": 37,
+     "en": "whoa ! i take it\nhe doesn't like red.",
+     "ko": ""
+    },
+    {
+     "id": 129,
+     "bytes": 49,
+     "en": "    what ? i don't see \nanything red around . . .",
+     "ko": ""
+    },
+    {
+     "id": 130,
+     "bytes": 4,
+     "en": "oh !",
+     "ko": ""
+    },
+    {
+     "id": 131,
+     "bytes": 20,
+     "en": "here we go \n again !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 95,
+   "width": 123,
+   "subs": [
+    {
+     "id": 132,
+     "bytes": 34,
+     "en": " now logic \nwould denote \n   that,",
+     "ko": ""
+    },
+    {
+     "id": 133,
+     "bytes": 30,
+     "en": "something that \n drinks that !",
+     "ko": ""
+    },
+    {
+     "id": 134,
+     "bytes": 51,
+     "en": "     is going to\nget the screaming\n        squits !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 96,
+   "width": 115,
+   "subs": [
+    {
+     "id": 135,
+     "bytes": 50,
+     "en": " hmmm, ah ! that\nlooks distinctly \n like a target,",
+     "ko": ""
+    },
+    {
+     "id": 136,
+     "bytes": 28,
+     "en": "and there we  \n have a bull.",
+     "ko": ""
+    },
+    {
+     "id": 137,
+     "bytes": 25,
+     "en": "yes ! i think \n i get it.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 97,
+   "width": 132,
+   "subs": [
+    {
+     "id": 138,
+     "bytes": 29,
+     "en": "oh ! that time\nagain, is it ?",
+     "ko": ""
+    },
+    {
+     "id": 139,
+     "bytes": 60,
+     "en": "          oh ! i see \nbugger lugs is out\n        here again.",
+     "ko": ""
+    },
+    {
+     "id": 140,
+     "bytes": 9,
+     "en": "oh well !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 98,
+   "width": 142,
+   "subs": [
+    {
+     "id": 141,
+     "bytes": 35,
+     "en": "  ah ! there's a\nnice little patch.",
+     "ko": ""
+    },
+    {
+     "id": 142,
+     "bytes": 46,
+     "en": "     i think i'll have \na little bit of grass.",
+     "ko": ""
+    },
+    {
+     "id": 143,
+     "bytes": 4,
+     "en": "moo.",
+     "ko": ""
+    },
+    {
+     "id": 144,
+     "bytes": 12,
+     "en": "ahh ! a cow.",
+     "ko": ""
+    },
+    {
+     "id": 145,
+     "bytes": 32,
+     "en": "now that could \n      be useful.",
+     "ko": ""
+    },
+    {
+     "id": 146,
+     "bytes": 54,
+     "en": "right, looks like \n it needs a little \n       bit more",
+     "ko": ""
+    },
+    {
+     "id": 147,
+     "bytes": 18,
+     "en": "hands-on \ncontrol.",
+     "ko": ""
+    },
+    {
+     "id": 148,
+     "bytes": 27,
+     "en": "he's a bit of\na wild one ! ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 99,
+   "width": 136,
+   "subs": [
+    {
+     "id": 149,
+     "bytes": 38,
+     "en": "  need to get her \nover there somehow.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 100,
+   "width": 131,
+   "subs": [
+    {
+     "id": 150,
+     "bytes": 19,
+     "en": "oooh ! moo ! oooh !",
+     "ko": ""
+    },
+    {
+     "id": 151,
+     "bytes": 20,
+     "en": "oooh ! oooh ! oooh !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 101,
+   "width": 146,
+   "subs": [
+    {
+     "id": 152,
+     "bytes": 47,
+     "en": "  oooh ! it's like the\nscreaming shits, it is !",
+     "ko": ""
+    },
+    {
+     "id": 153,
+     "bytes": 17,
+     "en": "i'm out of here !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 102,
+   "width": 127,
+   "subs": [
+    {
+     "id": 154,
+     "bytes": 40,
+     "en": "  oh i say ! this is\nfar from dignified.",
+     "ko": ""
+    },
+    {
+     "id": 155,
+     "bytes": 51,
+     "en": "    oh ! i hope \nmavis and olive \n  don't see this,",
+     "ko": ""
+    },
+    {
+     "id": 156,
+     "bytes": 39,
+     "en": "or i'll never\nhear the end\n      of it.",
+     "ko": ""
+    },
+    {
+     "id": 157,
+     "bytes": 34,
+     "en": "ooh ! ooh ! ooh !\n   that's a bit.",
+     "ko": ""
+    },
+    {
+     "id": 158,
+     "bytes": 33,
+     "en": "ooh ! eh ! it's\n  a bit of a. . .",
+     "ko": ""
+    },
+    {
+     "id": 159,
+     "bytes": 18,
+     "en": "ooh ! that's aah !",
+     "ko": ""
+    },
+    {
+     "id": 160,
+     "bytes": 40,
+     "en": "ooh ! i'll just stay\n  here for a while,",
+     "ko": ""
+    },
+    {
+     "id": 161,
+     "bytes": 31,
+     "en": "  just in case.\nyou never know.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 103,
+   "width": 148,
+   "subs": [
+    {
+     "id": 162,
+     "bytes": 41,
+     "en": "    oh ! stop your \nnonsense, young man !",
+     "ko": ""
+    },
+    {
+     "id": 163,
+     "bytes": 12,
+     "en": "goodness me.",
+     "ko": ""
+    },
+    {
+     "id": 164,
+     "bytes": 35,
+     "en": "  i've quite lost \nmy appetite now.",
+     "ko": ""
+    },
+    {
+     "id": 165,
+     "bytes": 17,
+     "en": "i'm gonna go. . .",
+     "ko": ""
+    },
+    {
+     "id": 166,
+     "bytes": 56,
+     "en": "i'm gonna go for a \n   little meander\n        over 'ere.",
+     "ko": ""
+    },
+    {
+     "id": 167,
+     "bytes": 39,
+     "en": " hmmm, actually, \ni feel a bit thirsty.",
+     "ko": ""
+    },
+    {
+     "id": 168,
+     "bytes": 58,
+     "en": "a nice little beverage \nshould wash this \ntasty grass down",
+     "ko": ""
+    },
+    {
+     "id": 169,
+     "bytes": 12,
+     "en": "lovely like.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 104,
+   "width": 78,
+   "subs": [
+    {
+     "id": 170,
+     "bytes": 23,
+     "en": "this looks \nquite nice.",
+     "ko": ""
+    },
+    {
+     "id": 171,
+     "bytes": 33,
+     "en": "looks to be\n cranberry\n flavored.",
+     "ko": ""
+    },
+    {
+     "id": 172,
+     "bytes": 8,
+     "en": "lovely !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 105,
+   "width": 90,
+   "subs": [
+    {
+     "id": 173,
+     "bytes": 25,
+     "en": "hmmm, tastes\n  a bit odd.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 106,
+   "width": 107,
+   "subs": [
+    {
+     "id": 174,
+     "bytes": 29,
+     "en": "oh well, i'll\nhave some more.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 107,
+   "width": 93,
+   "subs": [
+    {
+     "id": 175,
+     "bytes": 27,
+     "en": "  why am i\nsuch a fat . . .",
+     "ko": ""
+    },
+    {
+     "id": 176,
+     "bytes": 10,
+     "en": "bast . . .",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 108,
+   "width": 92,
+   "subs": [
+    {
+     "id": 177,
+     "bytes": 40,
+     "en": "hmmm ! seems\n to be filled\nup with poo !",
+     "ko": ""
+    },
+    {
+     "id": 178,
+     "bytes": 27,
+     "en": "  aah ! that\nshould do it .",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 109,
+   "width": 131,
+   "subs": [
+    {
+     "id": 179,
+     "bytes": 18,
+     "en": "oooh ! moo ! oooh.",
+     "ko": ""
+    },
+    {
+     "id": 180,
+     "bytes": 20,
+     "en": "oooh ! oooh ! oooh !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 110,
+   "width": 146,
+   "subs": [
+    {
+     "id": 181,
+     "bytes": 47,
+     "en": "  oooh ! it's like the\nscreaming shits, it is !",
+     "ko": ""
+    },
+    {
+     "id": 182,
+     "bytes": 17,
+     "en": "i'm out of here !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 111,
+   "width": 129,
+   "subs": [
+    {
+     "id": 183,
+     "bytes": 42,
+     "en": "  oh, i say ! this is\nfar from dignified !",
+     "ko": ""
+    },
+    {
+     "id": 184,
+     "bytes": 51,
+     "en": "    oh ! i hope \nmavis and olive \n  don't see this,",
+     "ko": ""
+    },
+    {
+     "id": 185,
+     "bytes": 39,
+     "en": "or i'll never\nhear the end\n      of it.",
+     "ko": ""
+    },
+    {
+     "id": 186,
+     "bytes": 34,
+     "en": "ooh ! ooh ! ooh !\n   that's a bit.",
+     "ko": ""
+    },
+    {
+     "id": 187,
+     "bytes": 34,
+     "en": "ooh ! eh ! it's\n  a bit of a . . .",
+     "ko": ""
+    },
+    {
+     "id": 188,
+     "bytes": 18,
+     "en": "ooh ! that's aah !",
+     "ko": ""
+    },
+    {
+     "id": 189,
+     "bytes": 40,
+     "en": "ooh ! i'll just stay\n  here for a while,",
+     "ko": ""
+    },
+    {
+     "id": 190,
+     "bytes": 30,
+     "en": " just in case.\nyou never know.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 112,
+   "width": 118,
+   "subs": [
+    {
+     "id": 191,
+     "bytes": 50,
+     "en": "     looks like \nshe's just about \n   ready to go.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 113,
+   "width": 71,
+   "subs": [
+    {
+     "id": 192,
+     "bytes": 22,
+     "en": " hey, you,\nover there.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 114,
+   "width": 127,
+   "subs": [
+    {
+     "id": 193,
+     "bytes": 21,
+     "en": "this is pretty neat !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 115,
+   "width": 135,
+   "subs": [
+    {
+     "id": 194,
+     "bytes": 67,
+     "en": "     apparently, \nthere's something\nreal neat inside \n   this barn.",
+     "ko": ""
+    },
+    {
+     "id": 195,
+     "bytes": 29,
+     "en": "i can't quite \nsee it myself,",
+     "ko": ""
+    },
+    {
+     "id": 196,
+     "bytes": 47,
+     "en": "unless, of course,\nsome guys jumping \n   around",
+     "ko": ""
+    },
+    {
+     "id": 197,
+     "bytes": 36,
+     "en": "stinking of horse \n poo's real neat.",
+     "ko": ""
+    },
+    {
+     "id": 198,
+     "bytes": 30,
+     "en": "which, of course, \n  it isn't.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 116,
+   "width": 105,
+   "subs": [
+    {
+     "id": 199,
+     "bytes": 12,
+     "en": "hey, franky,",
+     "ko": ""
+    },
+    {
+     "id": 200,
+     "bytes": 45,
+     "en": "i think there's\na little fella \n  over there,",
+     "ko": ""
+    },
+    {
+     "id": 201,
+     "bytes": 40,
+     "en": "just coming in \n through the \n     door.",
+     "ko": ""
+    },
+    {
+     "id": 202,
+     "bytes": 46,
+     "en": "i think it's your \nturn. is it his \n    turn ?",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 117,
+   "width": 104,
+   "subs": [
+    {
+     "id": 203,
+     "bytes": 29,
+     "en": " yeh, i think \nit's his turn.",
+     "ko": ""
+    },
+    {
+     "id": 204,
+     "bytes": 30,
+     "en": "hey, franky, go \nkick his ass,",
+     "ko": ""
+    },
+    {
+     "id": 205,
+     "bytes": 25,
+     "en": " go on, go \nkick his ass.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 118,
+   "width": 102,
+   "subs": [
+    {
+     "id": 206,
+     "bytes": 16,
+     "en": "i ain't kicking.",
+     "ko": ""
+    },
+    {
+     "id": 207,
+     "bytes": 43,
+     "en": "it's always my \n turn to kick \n  their ass.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 119,
+   "width": 145,
+   "subs": [
+    {
+     "id": 208,
+     "bytes": 52,
+     "en": "franky, just go over \n there and kick his \nass, for ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 120,
+   "width": 37,
+   "subs": [
+    {
+     "id": 209,
+     "bytes": 6,
+     "en": " sake.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 121,
+   "width": 148,
+   "subs": [
+    {
+     "id": 210,
+     "bytes": 38,
+     "en": "yeh, go over there \n and kick his ass.",
+     "ko": ""
+    },
+    {
+     "id": 211,
+     "bytes": 61,
+     "en": "someone's gotta kick \nhis ass. i'm a brush.\ni don't kick ass.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 122,
+   "width": 104,
+   "subs": [
+    {
+     "id": 212,
+     "bytes": 34,
+     "en": "i'm a paint pot. \n  anyway, i'm a\n",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 123,
+   "width": 138,
+   "subs": [
+    {
+     "id": 213,
+     "bytes": 10,
+     "en": "paint pot.",
+     "ko": ""
+    },
+    {
+     "id": 214,
+     "bytes": 21,
+     "en": " go and kick his ass.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 124,
+   "width": 122,
+   "subs": [
+    {
+     "id": 215,
+     "bytes": 25,
+     "en": "  ok, i'll \nkick his ass.",
+     "ko": ""
+    },
+    {
+     "id": 216,
+     "bytes": 54,
+     "en": "  i'm not going \nover there, he can \n  come over here.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 125,
+   "width": 116,
+   "subs": [
+    {
+     "id": 217,
+     "bytes": 18,
+     "en": "ok, here he comes.",
+     "ko": ""
+    },
+    {
+     "id": 218,
+     "bytes": 30,
+     "en": "   keep still, \n   keep still.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 126,
+   "width": 101,
+   "subs": [
+    {
+     "id": 219,
+     "bytes": 40,
+     "en": "i've seen some\nkicking ass in\n  my time,",
+     "ko": ""
+    },
+    {
+     "id": 220,
+     "bytes": 16,
+     "en": "and that is the\n",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 127,
+   "width": 87,
+   "subs": [
+    {
+     "id": 221,
+     "bytes": 8,
+     "en": "kick ass",
+     "ko": ""
+    },
+    {
+     "id": 222,
+     "bytes": 15,
+     "en": "i've ever seen.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 128,
+   "width": 95,
+   "subs": [
+    {
+     "id": 223,
+     "bytes": 28,
+     "en": "yeh, that was \n pretty crap.",
+     "ko": ""
+    },
+    {
+     "id": 224,
+     "bytes": 38,
+     "en": "as kicking \nass goes, it \nwas abysmal,",
+     "ko": ""
+    },
+    {
+     "id": 225,
+     "bytes": 14,
+     "en": "and you is a \n",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 129,
+   "width": 107,
+   "subs": [
+    {
+     "id": 226,
+     "bytes": 26,
+     "en": " bastard, \nstupid bastard.",
+     "ko": ""
+    },
+    {
+     "id": 227,
+     "bytes": 11,
+     "en": "  isn't he.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 130,
+   "width": 124,
+   "subs": [
+    {
+     "id": 228,
+     "bytes": 42,
+     "en": " so what ya \ngonna do now,\nkill yourself ?",
+     "ko": ""
+    },
+    {
+     "id": 229,
+     "bytes": 32,
+     "en": " that's what i \nwould recommend.",
+     "ko": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "_": "ESP 패치가 번역한 화면 표시 문자열 (한때 디버그로 오판해 건너뛴 것)",
+ "part": 15,
+ "messages": [
+  {
+   "id": 906,
+   "width": 37,
+   "subs": [
+    {
+     "id": 3027,
+     "bytes": 7,
+     "en": "Time : ",
+     "ko": "시간 "
+    }
+   ]
+  },
+  {
+   "id": 907,
+   "width": 166,
+   "subs": [
+    {
+     "id": 3028,
+     "bytes": 25,
+     "en": "You finished the task in ",
+     "ko": "과제 완료 시간 "
+    },
+    {
+     "id": 3029,
+     "bytes": 10,
+     "en": " Seconds \n",
+     "ko": " 초 \n"
+    },
+    {
+     "id": 3030,
+     "bytes": 33,
+     "en": "Failed Way Too Slow!!!!!!!!!!!!!\n",
+     "ko": "실패! 너무 느려 터졌잖아!\n"
+    }
+   ]
+  },
+  {
+   "id": 920,
+   "width": 201,
+   "subs": [
+    {
+     "id": 3062,
+     "bytes": 15,
+     "en": "Grab the tail!\n",
+     "ko": "꼬리를 잡아!\n"
+    },
+    {
+     "id": 3063,
+     "bytes": 30,
+     "en": "Final thrown out of the door!\n",
+     "ko": "마지막으로 문밖으로!\n"
+    },
+    {
+     "id": 3064,
+     "bytes": 24,
+     "en": "Thrown out of the door!\n",
+     "ko": "문밖으로 던졌다!\n"
+    },
+    {
+     "id": 3065,
+     "bytes": 14,
+     "en": "Hit the wall!\n",
+     "ko": "벽 충돌!\n"
+    },
+    {
+     "id": 3066,
+     "bytes": 18,
+     "en": "Jump over Conker!\n",
+     "ko": "콩커 넘기!\n"
+    }
+   ]
+  }
+ ]
+}

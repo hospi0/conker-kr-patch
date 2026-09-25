@@ -1,0 +1,2028 @@
+{
+ "_": "ko 에 번역을 넣으세요. bytes=자막의 바이트 한도(한글 받침o 3B/받침x 2B, 그 외 1B), width=말풍선의 줄 폭 한도(한글 1자=13, 공백=4, \\n 으로 나뉜 각 줄이 이하일 것). id 는 건드리지 마세요.",
+ "part": 4,
+ "messages": [
+  {
+   "id": 294,
+   "width": 169,
+   "subs": [
+    {
+     "id": 728,
+     "bytes": 49,
+     "en": " why is it everybody's \nso offensive round here ?",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 295,
+   "width": 111,
+   "subs": [
+    {
+     "id": 729,
+     "bytes": 43,
+     "en": "either bring me \nback me missing \ncogs, or ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 296,
+   "width": 33,
+   "subs": [
+    {
+     "id": 730,
+     "bytes": 6,
+     "en": " off !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 297,
+   "width": 98,
+   "subs": [
+    {
+     "id": 731,
+     "bytes": 26,
+     "en": " you don't \nhave to shout.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 298,
+   "width": 78,
+   "subs": [
+    {
+     "id": 732,
+     "bytes": 10,
+     "en": "i'm deaf !",
+     "ko": ""
+    },
+    {
+     "id": 733,
+     "bytes": 12,
+     "en": "speak up or\n",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 299,
+   "width": 134,
+   "subs": [
+    {
+     "id": 734,
+     "bytes": 6,
+     "en": " off !",
+     "ko": ""
+    },
+    {
+     "id": 735,
+     "bytes": 15,
+     "en": "hang on a sec !",
+     "ko": ""
+    },
+    {
+     "id": 736,
+     "bytes": 12,
+     "en": "well, hello.",
+     "ko": ""
+    },
+    {
+     "id": 737,
+     "bytes": 29,
+     "en": "aren't you the\n handsome one.",
+     "ko": ""
+    },
+    {
+     "id": 738,
+     "bytes": 60,
+     "en": " tell me, would you \n be prepared to do \nme a small favor ? ",
+     "ko": ""
+    },
+    {
+     "id": 739,
+     "bytes": 33,
+     "en": "for a little help, \n   of course.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 300,
+   "width": 130,
+   "subs": [
+    {
+     "id": 740,
+     "bytes": 33,
+     "en": "hi, and yes, i would,\n     maybe.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 301,
+   "width": 146,
+   "subs": [
+    {
+     "id": 741,
+     "bytes": 8,
+     "en": "you see,",
+     "ko": ""
+    },
+    {
+     "id": 742,
+     "bytes": 37,
+     "en": "my other self has\nlost a few of his, ",
+     "ko": ""
+    },
+    {
+     "id": 743,
+     "bytes": 22,
+     "en": "shall we say, friends,",
+     "ko": ""
+    },
+    {
+     "id": 744,
+     "bytes": 31,
+     "en": "and if i don't\n get them back, ",
+     "ko": ""
+    },
+    {
+     "id": 745,
+     "bytes": 28,
+     "en": "my life will be\n  a misery. ",
+     "ko": ""
+    },
+    {
+     "id": 746,
+     "bytes": 14,
+     "en": "it already is.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 302,
+   "width": 36,
+   "subs": [
+    {
+     "id": 747,
+     "bytes": 5,
+     "en": "and ?",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 303,
+   "width": 155,
+   "subs": [
+    {
+     "id": 748,
+     "bytes": 42,
+     "en": "just get them back.\nthere's a good fellow.",
+     "ko": ""
+    },
+    {
+     "id": 749,
+     "bytes": 22,
+     "en": "oh ! ta ta !\n  ta ta !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 304,
+   "width": 90,
+   "subs": [
+    {
+     "id": 750,
+     "bytes": 10,
+     "en": "you twat !",
+     "ko": ""
+    },
+    {
+     "id": 751,
+     "bytes": 27,
+     "en": "don't ever do\n that again. ",
+     "ko": ""
+    },
+    {
+     "id": 752,
+     "bytes": 4,
+     "en": "now ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 305,
+   "width": 124,
+   "subs": [
+    {
+     "id": 753,
+     "bytes": 19,
+     "en": "ey up, bloody hell.",
+     "ko": ""
+    },
+    {
+     "id": 754,
+     "bytes": 16,
+     "en": "put it on quick.",
+     "ko": ""
+    },
+    {
+     "id": 755,
+     "bytes": 33,
+     "en": "put it on, i like \n it like that.",
+     "ko": ""
+    },
+    {
+     "id": 756,
+     "bytes": 11,
+     "en": "oooooohhh !",
+     "ko": ""
+    },
+    {
+     "id": 757,
+     "bytes": 11,
+     "en": "aaaaaahhh !",
+     "ko": ""
+    },
+    {
+     "id": 758,
+     "bytes": 4,
+     "en": "fan ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 306,
+   "width": 52,
+   "subs": [
+    {
+     "id": 759,
+     "bytes": 9,
+     "en": " tastic !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 307,
+   "width": 110,
+   "subs": [
+    {
+     "id": 760,
+     "bytes": 12,
+     "en": "oh, hang on,",
+     "ko": ""
+    },
+    {
+     "id": 761,
+     "bytes": 45,
+     "en": " i think i got \nit on the wrong \n  way round.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 308,
+   "width": 147,
+   "subs": [
+    {
+     "id": 762,
+     "bytes": 40,
+     "en": "like bugger you have !\n  what ya doing ?",
+     "ko": ""
+    },
+    {
+     "id": 763,
+     "bytes": 10,
+     "en": "what . . .",
+     "ko": ""
+    },
+    {
+     "id": 764,
+     "bytes": 3,
+     "en": "oh ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 309,
+   "width": 94,
+   "subs": [
+    {
+     "id": 765,
+     "bytes": 21,
+     "en": " that \n burnt barry ?",
+     "ko": ""
+    },
+    {
+     "id": 766,
+     "bytes": 10,
+     "en": "   where ?",
+     "ko": ""
+    },
+    {
+     "id": 767,
+     "bytes": 12,
+     "en": "i can't see.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 310,
+   "width": 43,
+   "subs": [
+    {
+     "id": 768,
+     "bytes": 14,
+     "en": "     oh !\nfor ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 311,
+   "width": 142,
+   "subs": [
+    {
+     "id": 769,
+     "bytes": 42,
+     "en": "i do declare, ladies, \nwe are free at last",
+     "ko": ""
+    },
+    {
+     "id": 770,
+     "bytes": 40,
+     "en": "to exact our revenge\n  on this evil cog.",
+     "ko": ""
+    },
+    {
+     "id": 771,
+     "bytes": 10,
+     "en": "grab him !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 312,
+   "width": 136,
+   "subs": [
+    {
+     "id": 772,
+     "bytes": 7,
+     "en": "oh no !",
+     "ko": ""
+    },
+    {
+     "id": 773,
+     "bytes": 17,
+     "en": "not mr. big cog !",
+     "ko": ""
+    },
+    {
+     "id": 774,
+     "bytes": 19,
+     "en": "that's me buggered.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 313,
+   "width": 94,
+   "subs": [
+    {
+     "id": 775,
+     "bytes": 16,
+     "en": "it certainly is.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 314,
+   "width": 99,
+   "subs": [
+    {
+     "id": 776,
+     "bytes": 16,
+     "en": "i'm out of here.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 315,
+   "width": 135,
+   "subs": [
+    {
+     "id": 777,
+     "bytes": 42,
+     "en": " i say, i don't know \nwhat his problem is.",
+     "ko": ""
+    },
+    {
+     "id": 778,
+     "bytes": 31,
+     "en": "i find it rather \n   delicious.",
+     "ko": ""
+    },
+    {
+     "id": 779,
+     "bytes": 26,
+     "en": " thank you, \nmr. squirrel.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 316,
+   "width": 110,
+   "subs": [
+    {
+     "id": 780,
+     "bytes": 17,
+     "en": "oh ! my pleasure.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 317,
+   "width": 146,
+   "subs": [
+    {
+     "id": 781,
+     "bytes": 35,
+     "en": " yes, and i think \nyou'll find your",
+     "ko": ""
+    },
+    {
+     "id": 782,
+     "bytes": 27,
+     "en": "little problem \n   outside ",
+     "ko": ""
+    },
+    {
+     "id": 783,
+     "bytes": 37,
+     "en": "has been thoroughly \n  taken care of.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 318,
+   "width": 63,
+   "subs": [
+    {
+     "id": 784,
+     "bytes": 10,
+     "en": "oh, cool !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 319,
+   "width": 106,
+   "subs": [
+    {
+     "id": 785,
+     "bytes": 27,
+     "en": "now, good day \nto you, sir.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 320,
+   "width": 90,
+   "subs": [
+    {
+     "id": 786,
+     "bytes": 23,
+     "en": "toffee-nosed \n   snob !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 321,
+   "width": 103,
+   "subs": [
+    {
+     "id": 787,
+     "bytes": 29,
+     "en": "why, thank you,\nmr. squirrel.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 322,
+   "width": 106,
+   "subs": [
+    {
+     "id": 788,
+     "bytes": 16,
+     "en": "come on, ladies,",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 323,
+   "width": 121,
+   "subs": [
+    {
+     "id": 789,
+     "bytes": 33,
+     "en": "it's the caribbean \n      for us.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 324,
+   "width": 82,
+   "subs": [
+    {
+     "id": 790,
+     "bytes": 27,
+     "en": "hey, i'm here !\n hurry up !",
+     "ko": ""
+    },
+    {
+     "id": 791,
+     "bytes": 23,
+     "en": "pick me up, \nshithead !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 325,
+   "width": 117,
+   "subs": [
+    {
+     "id": 792,
+     "bytes": 6,
+     "en": "cool !",
+     "ko": ""
+    },
+    {
+     "id": 793,
+     "bytes": 33,
+     "en": "laughing all the\nway to the bank.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 326,
+   "width": 70,
+   "subs": [
+    {
+     "id": 794,
+     "bytes": 10,
+     "en": "   where ?",
+     "ko": ""
+    },
+    {
+     "id": 795,
+     "bytes": 12,
+     "en": "i can't see.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 327,
+   "width": 39,
+   "subs": [
+    {
+     "id": 796,
+     "bytes": 13,
+     "en": "     oh!\nfor ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 328,
+   "width": 84,
+   "subs": [
+    {
+     "id": 797,
+     "bytes": 13,
+     "en": "yeah, go on !",
+     "ko": ""
+    },
+    {
+     "id": 798,
+     "bytes": 22,
+     "en": "get t'other \n  one on.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 329,
+   "width": 70,
+   "subs": [
+    {
+     "id": 799,
+     "bytes": 33,
+     "en": "  oh no, i\nthink i had\ntoo much !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 330,
+   "width": 97,
+   "subs": [
+    {
+     "id": 800,
+     "bytes": 27,
+     "en": "i say, i say,\nlittle fella.",
+     "ko": ""
+    },
+    {
+     "id": 801,
+     "bytes": 54,
+     "en": "you better get\nthis fat-ass \n bitch off a \n   my back,",
+     "ko": ""
+    },
+    {
+     "id": 802,
+     "bytes": 7,
+     "en": "pronto.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 331,
+   "width": 115,
+   "subs": [
+    {
+     "id": 803,
+     "bytes": 75,
+     "en": "     geee !\nso many people \nround here want \n  me to solve \ntheir problems.",
+     "ko": ""
+    },
+    {
+     "id": 804,
+     "bytes": 36,
+     "en": "what are you\ngonna do for\n me then ?",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 332,
+   "width": 130,
+   "subs": [
+    {
+     "id": 805,
+     "bytes": 33,
+     "en": "i'll tell ya what\n  i'm gonna do,",
+     "ko": ""
+    },
+    {
+     "id": 806,
+     "bytes": 45,
+     "en": "     i say,\ni'll tell ya what\n  i'm gonna do.",
+     "ko": ""
+    },
+    {
+     "id": 807,
+     "bytes": 51,
+     "en": "you get rid of that\n  freaking mouse \n     critter,",
+     "ko": ""
+    },
+    {
+     "id": 808,
+     "bytes": 28,
+     "en": "and maybe i'll\nhelp you out.",
+     "ko": ""
+    },
+    {
+     "id": 809,
+     "bytes": 11,
+     "en": "just maybe.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 333,
+   "width": 105,
+   "subs": [
+    {
+     "id": 810,
+     "bytes": 28,
+     "en": "   oh, just \none more thing,",
+     "ko": ""
+    },
+    {
+     "id": 811,
+     "bytes": 30,
+     "en": "i say, just one \n  more thing.",
+     "ko": ""
+    },
+    {
+     "id": 812,
+     "bytes": 40,
+     "en": "you might run \ninto my friend,\n    burt.",
+     "ko": ""
+    },
+    {
+     "id": 813,
+     "bytes": 28,
+     "en": "just mention \nmy name, jack,",
+     "ko": ""
+    },
+    {
+     "id": 814,
+     "bytes": 38,
+     "en": "and everything \nwill be just\n   dandy.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 334,
+   "width": 65,
+   "subs": [
+    {
+     "id": 815,
+     "bytes": 24,
+     "en": "  hi,\nyou must \nbe burt.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 335,
+   "width": 54,
+   "subs": [
+    {
+     "id": 816,
+     "bytes": 9,
+     "en": "i'm burt.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 336,
+   "width": 88,
+   "subs": [
+    {
+     "id": 817,
+     "bytes": 13,
+     "en": "jack sent me.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 337,
+   "width": 175,
+   "subs": [
+    {
+     "id": 818,
+     "bytes": 35,
+     "en": "  i'll open the \ngate for you here,",
+     "ko": ""
+    },
+    {
+     "id": 819,
+     "bytes": 68,
+     "en": "and you can get on with\nwhat is it ever that you're\n   trying to do.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 338,
+   "width": 130,
+   "subs": [
+    {
+     "id": 820,
+     "bytes": 19,
+     "en": "that's all you do ?",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 339,
+   "width": 46,
+   "subs": [
+    {
+     "id": 821,
+     "bytes": 7,
+     "en": "great !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 340,
+   "width": 130,
+   "subs": [
+    {
+     "id": 822,
+     "bytes": 54,
+     "en": "         aahh ! \ni couldn't a lasted\n a moment longer.",
+     "ko": ""
+    },
+    {
+     "id": 823,
+     "bytes": 34,
+     "en": "thank you very\nmuch, mr. squirrel.",
+     "ko": ""
+    },
+    {
+     "id": 824,
+     "bytes": 60,
+     "en": "      now,\nthere's something\nreal neat inside \n   that barn.",
+     "ko": ""
+    },
+    {
+     "id": 825,
+     "bytes": 40,
+     "en": "you just gotta \nget in there, \n   sonny.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 341,
+   "width": 115,
+   "subs": [
+    {
+     "id": 826,
+     "bytes": 15,
+     "en": "that was nice !",
+     "ko": ""
+    },
+    {
+     "id": 827,
+     "bytes": 29,
+     "en": "    i'd like\nanother, though,",
+     "ko": ""
+    },
+    {
+     "id": 828,
+     "bytes": 13,
+     "en": "if that's ok.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 342,
+   "width": 120,
+   "subs": [
+    {
+     "id": 829,
+     "bytes": 12,
+     "en": "marvellous !",
+     "ko": ""
+    },
+    {
+     "id": 830,
+     "bytes": 35,
+     "en": " one more should \njust about do it.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 343,
+   "width": 106,
+   "subs": [
+    {
+     "id": 831,
+     "bytes": 11,
+     "en": "hey, buddy,",
+     "ko": ""
+    },
+    {
+     "id": 832,
+     "bytes": 27,
+     "en": "could ya spare\n me a dime ?",
+     "ko": ""
+    },
+    {
+     "id": 833,
+     "bytes": 12,
+     "en": "hey, buddy !",
+     "ko": ""
+    },
+    {
+     "id": 834,
+     "bytes": 18,
+     "en": "don't ignore . . .",
+     "ko": ""
+    },
+    {
+     "id": 835,
+     "bytes": 23,
+     "en": "they always \nignore me.",
+     "ko": ""
+    },
+    {
+     "id": 836,
+     "bytes": 5,
+     "en": "hey !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 344,
+   "width": 108,
+   "subs": [
+    {
+     "id": 837,
+     "bytes": 30,
+     "en": "eh, oh, what do \n   you want ?",
+     "ko": ""
+    },
+    {
+     "id": 838,
+     "bytes": 9,
+     "en": "you know,",
+     "ko": ""
+    },
+    {
+     "id": 839,
+     "bytes": 19,
+     "en": "in my own \n country",
+     "ko": ""
+    },
+    {
+     "id": 840,
+     "bytes": 13,
+     "en": "i am a king !",
+     "ko": ""
+    },
+    {
+     "id": 841,
+     "bytes": 12,
+     "en": "oh, really !",
+     "ko": ""
+    },
+    {
+     "id": 842,
+     "bytes": 5,
+     "en": "yeh !",
+     "ko": ""
+    },
+    {
+     "id": 843,
+     "bytes": 25,
+     "en": " that bitch\nthrew me out.",
+     "ko": ""
+    },
+    {
+     "id": 844,
+     "bytes": 47,
+     "en": "apparently, the \n   hive keeps \ngetting stolen.",
+     "ko": ""
+    },
+    {
+     "id": 845,
+     "bytes": 13,
+     "en": "I don't care.",
+     "ko": ""
+    },
+    {
+     "id": 846,
+     "bytes": 20,
+     "en": "couldn't fit in\nthe ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 345,
+   "width": 106,
+   "subs": [
+    {
+     "id": 847,
+     "bytes": 15,
+     "en": " \nthing anyway.",
+     "ko": ""
+    },
+    {
+     "id": 848,
+     "bytes": 23,
+     "en": "seen how fat\n   she is.",
+     "ko": ""
+    },
+    {
+     "id": 849,
+     "bytes": 7,
+     "en": "bitch !",
+     "ko": ""
+    },
+    {
+     "id": 850,
+     "bytes": 43,
+     "en": "now i'm reduced\n to the status\n   of a bum.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 346,
+   "width": 51,
+   "subs": [
+    {
+     "id": 851,
+     "bytes": 7,
+     "en": "hey !  ",
+     "ko": ""
+    },
+    {
+     "id": 852,
+     "bytes": 8,
+     "en": "uh huh. ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 347,
+   "width": 120,
+   "subs": [
+    {
+     "id": 853,
+     "bytes": 35,
+     "en": "well, yeh, anyway,\n i gotta go now.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 348,
+   "width": 124,
+   "subs": [
+    {
+     "id": 854,
+     "bytes": 30,
+     "en": "you're like the\n rest of them.",
+     "ko": ""
+    },
+    {
+     "id": 855,
+     "bytes": 53,
+     "en": "i ain't gonna tell \n you about the\nbig-breasted babe.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 349,
+   "width": 96,
+   "subs": [
+    {
+     "id": 856,
+     "bytes": 14,
+     "en": "the big what ?",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 350,
+   "width": 133,
+   "subs": [
+    {
+     "id": 857,
+     "bytes": 47,
+     "en": "i thought that \nmight have got \nyour attention.",
+     "ko": ""
+    },
+    {
+     "id": 858,
+     "bytes": 14,
+     "en": "she's lovely !",
+     "ko": ""
+    },
+    {
+     "id": 859,
+     "bytes": 37,
+     "en": "that's why the wife \n  kicked me out.",
+     "ko": ""
+    },
+    {
+     "id": 860,
+     "bytes": 35,
+     "en": "all i wanna do is \n  pollinate her.",
+     "ko": ""
+    },
+    {
+     "id": 861,
+     "bytes": 50,
+     "en": "she's got stigmas \nlike you wouldn't \n    believe.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 351,
+   "width": 132,
+   "subs": [
+    {
+     "id": 862,
+     "bytes": 18,
+     "en": "what do\nyou mean ?",
+     "ko": ""
+    },
+    {
+     "id": 863,
+     "bytes": 37,
+     "en": " i thought you\nsaid she had big . . .",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 352,
+   "width": 83,
+   "subs": [
+    {
+     "id": 864,
+     "bytes": 6,
+     "en": "Yeah !",
+     "ko": ""
+    },
+    {
+     "id": 865,
+     "bytes": 26,
+     "en": "over there\nbehind us . . .",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 353,
+   "width": 122,
+   "subs": [
+    {
+     "id": 866,
+     "bytes": 19,
+     "en": "hang on a\n  second,",
+     "ko": ""
+    },
+    {
+     "id": 867,
+     "bytes": 9,
+     "en": "breasts ?",
+     "ko": ""
+    },
+    {
+     "id": 868,
+     "bytes": 22,
+     "en": "  she's a \nsunflower !",
+     "ko": ""
+    },
+    {
+     "id": 869,
+     "bytes": 6,
+     "en": "yeah !",
+     "ko": ""
+    },
+    {
+     "id": 870,
+     "bytes": 37,
+     "en": "what did you\n  expect her\n    to be ?",
+     "ko": ""
+    },
+    {
+     "id": 871,
+     "bytes": 37,
+     "en": "she's a sunflower\n with big breasts !",
+     "ko": ""
+    },
+    {
+     "id": 872,
+     "bytes": 11,
+     "en": "i'm a bee !",
+     "ko": ""
+    },
+    {
+     "id": 873,
+     "bytes": 15,
+     "en": "stupid bastard.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 354,
+   "width": 141,
+   "subs": [
+    {
+     "id": 874,
+     "bytes": 42,
+     "en": "ok, there's no\n need to get\noffensive now.",
+     "ko": ""
+    },
+    {
+     "id": 875,
+     "bytes": 6,
+     "en": "sorry.",
+     "ko": ""
+    },
+    {
+     "id": 876,
+     "bytes": 30,
+     "en": "you gotta help\nme out, buddy !",
+     "ko": ""
+    },
+    {
+     "id": 877,
+     "bytes": 38,
+     "en": "    i don't know\nwhat i'm gonna do !  ",
+     "ko": ""
+    },
+    {
+     "id": 878,
+     "bytes": 5,
+     "en": "well,",
+     "ko": ""
+    },
+    {
+     "id": 879,
+     "bytes": 25,
+     "en": "what's in it\n   for me ? ",
+     "ko": ""
+    },
+    {
+     "id": 880,
+     "bytes": 6,
+     "en": "cash !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 355,
+   "width": 130,
+   "subs": [
+    {
+     "id": 881,
+     "bytes": 16,
+     "en": "that'll do . . .",
+     "ko": ""
+    },
+    {
+     "id": 882,
+     "bytes": 34,
+     "en": " but i thought \nyou were begging ?",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 356,
+   "width": 74,
+   "subs": [
+    {
+     "id": 883,
+     "bytes": 22,
+     "en": "damn, he's\nsussed me .",
+     "ko": ""
+    },
+    {
+     "id": 884,
+     "bytes": 23,
+     "en": "ha ! sussed\n    him .  ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 357,
+   "width": 99,
+   "subs": [
+    {
+     "id": 885,
+     "bytes": 41,
+     "en": "hey ! uh, could \nyou help me \n out here ?",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 358,
+   "width": 127,
+   "subs": [
+    {
+     "id": 886,
+     "bytes": 60,
+     "en": "there's a guy over \n  there, he said he \n     wants to . . .",
+     "ko": ""
+    },
+    {
+     "id": 887,
+     "bytes": 30,
+     "en": "something to do\n with stigmas,",
+     "ko": ""
+    },
+    {
+     "id": 888,
+     "bytes": 31,
+     "en": "not quite sure,\npollinate you ?",
+     "ko": ""
+    },
+    {
+     "id": 889,
+     "bytes": 32,
+     "en": "  sounds a bit\nstrange but . . .",
+     "ko": ""
+    },
+    {
+     "id": 890,
+     "bytes": 9,
+     "en": "go away !",
+     "ko": ""
+    },
+    {
+     "id": 891,
+     "bytes": 49,
+     "en": "ooh, that big tail \nof yours is far \n too tickly.",
+     "ko": ""
+    },
+    {
+     "id": 892,
+     "bytes": 27,
+     "en": "no, you don't \n understand.",
+     "ko": ""
+    },
+    {
+     "id": 893,
+     "bytes": 47,
+     "en": "get that big,\nlong, hairy tail \n away from me !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 359,
+   "width": 95,
+   "subs": [
+    {
+     "id": 894,
+     "bytes": 26,
+     "en": " ah ! suit \nyourself then.",
+     "ko": ""
+    },
+    {
+     "id": 895,
+     "bytes": 23,
+     "en": "   ooh ! \nbe like that.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 360,
+   "width": 106,
+   "subs": [
+    {
+     "id": 896,
+     "bytes": 46,
+     "en": " get that big,\nlong, hairy tail\n away from me.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 361,
+   "width": 55,
+   "subs": [
+    {
+     "id": 897,
+     "bytes": 9,
+     "en": "hi, guys.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 362,
+   "width": 109,
+   "subs": [
+    {
+     "id": 898,
+     "bytes": 12,
+     "en": "no, get off,",
+     "ko": ""
+    },
+    {
+     "id": 899,
+     "bytes": 14,
+     "en": "don't do that,",
+     "ko": ""
+    },
+    {
+     "id": 900,
+     "bytes": 14,
+     "en": "whaddya doing,",
+     "ko": ""
+    },
+    {
+     "id": 901,
+     "bytes": 29,
+     "en": "no, it tickles,\n  stop that !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 363,
+   "width": 81,
+   "subs": [
+    {
+     "id": 902,
+     "bytes": 24,
+     "en": "    you're\ntickly bees ?",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 364,
+   "width": 71,
+   "subs": [
+    {
+     "id": 903,
+     "bytes": 21,
+     "en": "  you're \npacifists ?",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 365,
+   "width": 116,
+   "subs": [
+    {
+     "id": 904,
+     "bytes": 33,
+     "en": "you only like \nto tickle people ?",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 366,
+   "width": 112,
+   "subs": [
+    {
+     "id": 905,
+     "bytes": 17,
+     "en": "ticklish flower ?",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 367,
+   "width": 113,
+   "subs": [
+    {
+     "id": 906,
+     "bytes": 30,
+     "en": "like sunflowers, \n     maybe ?",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 368,
+   "width": 104,
+   "subs": [
+    {
+     "id": 907,
+     "bytes": 34,
+     "en": "mmm . . . i think\ni've got a plan.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 369,
+   "width": 106,
+   "subs": [
+    {
+     "id": 908,
+     "bytes": 30,
+     "en": " ah yep, that \nseemed to work.",
+     "ko": ""
+    },
+    {
+     "id": 909,
+     "bytes": 25,
+     "en": "looks like i\n  need more.",
+     "ko": ""
+    },
+    {
+     "id": 910,
+     "bytes": 32,
+     "en": "mmmm. . . where \ncould they be ?",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 370,
+   "width": 107,
+   "subs": [
+    {
+     "id": 911,
+     "bytes": 32,
+     "en": " there you go. \nshe's all yours.",
+     "ko": ""
+    },
+    {
+     "id": 912,
+     "bytes": 21,
+     "en": "thank you \nvery much.",
+     "ko": ""
+    },
+    {
+     "id": 913,
+     "bytes": 39,
+     "en": "i'm going in. \nwish me luck, \n   fella.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 371,
+   "width": 107,
+   "subs": [
+    {
+     "id": 914,
+     "bytes": 26,
+     "en": "cheers, little \n    fella.",
+     "ko": ""
+    },
+    {
+     "id": 915,
+     "bytes": 23,
+     "en": "i feel like \na new man.",
+     "ko": ""
+    },
+    {
+     "id": 916,
+     "bytes": 8,
+     "en": "so do i.",
+     "ko": ""
+    },
+    {
+     "id": 917,
+     "bytes": 14,
+     "en": "conker, honey,",
+     "ko": ""
+    },
+    {
+     "id": 918,
+     "bytes": 28,
+     "en": " fancy going \nfor a bounce ?",
+     "ko": ""
+    },
+    {
+     "id": 919,
+     "bytes": 10,
+     "en": "a bounce ?",
+     "ko": ""
+    },
+    {
+     "id": 920,
+     "bytes": 3,
+     "en": "ok.",
+     "ko": ""
+    },
+    {
+     "id": 921,
+     "bytes": 43,
+     "en": " now this is \nwhat i call a \nplatform game.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 372,
+   "width": 126,
+   "subs": [
+    {
+     "id": 922,
+     "bytes": 34,
+     "en": "  so, you want \nsome green stuff ?",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 373,
+   "width": 106,
+   "subs": [
+    {
+     "id": 923,
+     "bytes": 5,
+     "en": "yeh !",
+     "ko": ""
+    },
+    {
+     "id": 924,
+     "bytes": 30,
+     "en": "   i think the \nround's on me.",
+     "ko": ""
+    },
+    {
+     "id": 925,
+     "bytes": 32,
+     "en": "  i'm gonna get \ntanked tonight.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 374,
+   "width": 114,
+   "subs": [
+    {
+     "id": 926,
+     "bytes": 15,
+     "en": "yeh ! i'm here.",
+     "ko": ""
+    },
+    {
+     "id": 927,
+     "bytes": 33,
+     "en": "hurry up. pick me \n up, shithead.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 375,
+   "width": 95,
+   "subs": [
+    {
+     "id": 928,
+     "bytes": 11,
+     "en": "excellent !",
+     "ko": ""
+    },
+    {
+     "id": 929,
+     "bytes": 39,
+     "en": "jet-packs and\nbutlers, here \n  we come.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 376,
+   "width": 82,
+   "subs": [
+    {
+     "id": 930,
+     "bytes": 23,
+     "en": "so, another \nwise guy ?",
+     "ko": ""
+    },
+    {
+     "id": 931,
+     "bytes": 12,
+     "en": "c'mon then !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 377,
+   "width": 112,
+   "subs": [
+    {
+     "id": 932,
+     "bytes": 6,
+     "en": "cool !",
+     "ko": ""
+    },
+    {
+     "id": 933,
+     "bytes": 30,
+     "en": "i'm gonna have\nthat gold card ",
+     "ko": ""
+    },
+    {
+     "id": 934,
+     "bytes": 21,
+     "en": "before you \n know it.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 378,
+   "width": 103,
+   "subs": [
+    {
+     "id": 935,
+     "bytes": 11,
+     "en": "hey, buddy,",
+     "ko": ""
+    },
+    {
+     "id": 936,
+     "bytes": 26,
+     "en": "could ya spare\n me a dime?",
+     "ko": ""
+    },
+    {
+     "id": 937,
+     "bytes": 12,
+     "en": "hey, buddy !",
+     "ko": ""
+    },
+    {
+     "id": 938,
+     "bytes": 17,
+     "en": "don't ignore. . .",
+     "ko": ""
+    },
+    {
+     "id": 939,
+     "bytes": 23,
+     "en": "they always \nignore me.",
+     "ko": ""
+    },
+    {
+     "id": 940,
+     "bytes": 5,
+     "en": "hey !",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 379,
+   "width": 106,
+   "subs": [
+    {
+     "id": 941,
+     "bytes": 29,
+     "en": "eh, oh, what do \n   you want?",
+     "ko": ""
+    },
+    {
+     "id": 942,
+     "bytes": 9,
+     "en": "you know,",
+     "ko": ""
+    },
+    {
+     "id": 943,
+     "bytes": 19,
+     "en": "in my own \n country",
+     "ko": ""
+    },
+    {
+     "id": 944,
+     "bytes": 12,
+     "en": "i am a king!",
+     "ko": ""
+    },
+    {
+     "id": 945,
+     "bytes": 11,
+     "en": "oh, really!",
+     "ko": ""
+    },
+    {
+     "id": 946,
+     "bytes": 4,
+     "en": "yeh!",
+     "ko": ""
+    },
+    {
+     "id": 947,
+     "bytes": 25,
+     "en": " that bitch\nthrew me out.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 380,
+   "width": 108,
+   "subs": [
+    {
+     "id": 948,
+     "bytes": 47,
+     "en": "apparently, the \n   hive keeps \ngetting stolen.",
+     "ko": ""
+    },
+    {
+     "id": 949,
+     "bytes": 13,
+     "en": "I don't care.",
+     "ko": ""
+    },
+    {
+     "id": 950,
+     "bytes": 20,
+     "en": "couldn't fit in\nthe ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 381,
+   "width": 106,
+   "subs": [
+    {
+     "id": 951,
+     "bytes": 15,
+     "en": " \nthing anyway.",
+     "ko": ""
+    },
+    {
+     "id": 952,
+     "bytes": 23,
+     "en": "seen how fat\n   she is.",
+     "ko": ""
+    },
+    {
+     "id": 953,
+     "bytes": 7,
+     "en": "bitch !",
+     "ko": ""
+    },
+    {
+     "id": 954,
+     "bytes": 43,
+     "en": "now i'm reduced\n to the status\n   of a bum.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 382,
+   "width": 31,
+   "subs": [
+    {
+     "id": 955,
+     "bytes": 6,
+     "en": "hey!  ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 383,
+   "width": 51,
+   "subs": [
+    {
+     "id": 956,
+     "bytes": 8,
+     "en": "uh huh. ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 384,
+   "width": 120,
+   "subs": [
+    {
+     "id": 957,
+     "bytes": 35,
+     "en": "well, yeh, anyway,\n i gotta go now.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 385,
+   "width": 128,
+   "subs": [
+    {
+     "id": 958,
+     "bytes": 30,
+     "en": "you're like the\n rest of them.",
+     "ko": ""
+    },
+    {
+     "id": 959,
+     "bytes": 56,
+     "en": "i ain't gonna tell \n you about the big-\n  breasted babe.",
+     "ko": ""
+    },
+    {
+     "id": 960,
+     "bytes": 14,
+     "en": "the big what ?",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 386,
+   "width": 133,
+   "subs": [
+    {
+     "id": 961,
+     "bytes": 47,
+     "en": "i thought that \nmight have got \nyour attention.",
+     "ko": ""
+    },
+    {
+     "id": 962,
+     "bytes": 14,
+     "en": "she's lovely !",
+     "ko": ""
+    },
+    {
+     "id": 963,
+     "bytes": 37,
+     "en": "that's why the wife \n  kicked me out.",
+     "ko": ""
+    },
+    {
+     "id": 964,
+     "bytes": 35,
+     "en": "all i wanna do is \n  pollinate her.",
+     "ko": ""
+    },
+    {
+     "id": 965,
+     "bytes": 50,
+     "en": "she's got stigmas \nlike you wouldn't \n    believe.",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 387,
+   "width": 95,
+   "subs": [
+    {
+     "id": 966,
+     "bytes": 17,
+     "en": "what do\nyou mean?",
+     "ko": ""
+    },
+    {
+     "id": 967,
+     "bytes": 19,
+     "en": "i thought\nyou said ",
+     "ko": ""
+    },
+    {
+     "id": 968,
+     "bytes": 16,
+     "en": "she had big. . .",
+     "ko": ""
+    },
+    {
+     "id": 969,
+     "bytes": 5,
+     "en": "yeh !",
+     "ko": ""
+    },
+    {
+     "id": 970,
+     "bytes": 22,
+     "en": "over there\n behind us.",
+     "ko": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1296 @@
+{
+ "_": "ko 에 번역을 넣으세요. bytes=자막의 바이트 한도(한글 받침o 3B/받침x 2B, 그 외 1B), width=말풍선의 줄 폭 한도(한글 1자=13, 공백=4, \\n 으로 나뉜 각 줄이 이하일 것). id 는 건드리지 마세요.",
+ "part": 13,
+ "messages": [
+  {
+   "id": 925,
+   "width": 67,
+   "subs": [
+    {
+     "id": 3038,
+     "bytes": 2,
+     "en": " S",
+     "ko": ""
+    },
+    {
+     "id": 3039,
+     "bytes": 2,
+     "en": " E",
+     "ko": ""
+    },
+    {
+     "id": 3040,
+     "bytes": 2,
+     "en": " T",
+     "ko": ""
+    },
+    {
+     "id": 3041,
+     "bytes": 2,
+     "en": " O",
+     "ko": ""
+    },
+    {
+     "id": 3042,
+     "bytes": 2,
+     "en": " H",
+     "ko": ""
+    },
+    {
+     "id": 3043,
+     "bytes": 2,
+     "en": " N",
+     "ko": ""
+    },
+    {
+     "id": 3044,
+     "bytes": 2,
+     "en": " U",
+     "ko": ""
+    },
+    {
+     "id": 3045,
+     "bytes": 2,
+     "en": " P",
+     "ko": ""
+    },
+    {
+     "id": 3046,
+     "bytes": 11,
+     "en": "EERRRORRR!!",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 926,
+   "width": 254,
+   "subs": [
+    {
+     "id": 3047,
+     "bytes": 40,
+     "en": "++++++ Hit correct letter!  num correct ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 927,
+   "width": 169,
+   "subs": [
+    {
+     "id": 3048,
+     "bytes": 26,
+     "en": "Had to kill errant pebble\n",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 928,
+   "width": 489,
+   "subs": [
+    {
+     "id": 3049,
+     "bytes": 108,
+     "en": "-------------------------------------------------------------------------------------- Signal DROP Slab hit\n",
+     "ko": ""
+    },
+    {
+     "id": 3050,
+     "bytes": 75,
+     "en": "------------------------------------------------------------ In Raise Slab\n",
+     "ko": ""
+    },
+    {
+     "id": 3051,
+     "bytes": 109,
+     "en": "-------------------------------------------------------------------------------------- Signal RAISE Slab hit\n",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 929,
+   "width": 317,
+   "subs": [
+    {
+     "id": 3052,
+     "bytes": 25,
+     "en": "Ugga fell off track!!!!!\n",
+     "ko": ""
+    },
+    {
+     "id": 3053,
+     "bytes": 45,
+     "en": "Crash detected, changing back to leadmode==0\n",
+     "ko": ""
+    },
+    {
+     "id": 3054,
+     "bytes": 34,
+     "en": "WARNING!! aispeed==0 Setting to 1\n",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 930,
+   "width": 215,
+   "subs": [
+    {
+     "id": 3055,
+     "bytes": 17,
+     "en": "subs this sector ",
+     "ko": ""
+    },
+    {
+     "id": 3056,
+     "bytes": 30,
+     "en": " SubsThisSectorAtOnce[sector] ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 931,
+   "width": 130,
+   "subs": [
+    {
+     "id": 3057,
+     "bytes": 12,
+     "en": "SUB IS DEAD\n",
+     "ko": ""
+    },
+    {
+     "id": 3058,
+     "bytes": 20,
+     "en": "Sub Dived So re-gen\n",
+     "ko": ""
+    },
+    {
+     "id": 3059,
+     "bytes": 11,
+     "en": "create sub ",
+     "ko": ""
+    },
+    {
+     "id": 3060,
+     "bytes": 11,
+     "en": " lower ang ",
+     "ko": ""
+    },
+    {
+     "id": 3061,
+     "bytes": 11,
+     "en": " upper ang ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 932,
+   "width": 201,
+   "subs": [
+    {
+     "id": 3062,
+     "bytes": 15,
+     "en": "Grab the tail!\n",
+     "ko": ""
+    },
+    {
+     "id": 3063,
+     "bytes": 30,
+     "en": "Final thrown out of the door!\n",
+     "ko": ""
+    },
+    {
+     "id": 3064,
+     "bytes": 24,
+     "en": "Thrown out of the door!\n",
+     "ko": ""
+    },
+    {
+     "id": 3065,
+     "bytes": 14,
+     "en": "Hit the wall!\n",
+     "ko": ""
+    },
+    {
+     "id": 3066,
+     "bytes": 18,
+     "en": "Jump over Conker!\n",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 933,
+   "width": 208,
+   "subs": [
+    {
+     "id": 3067,
+     "bytes": 28,
+     "en": "Giving up cash chase (club)\n",
+     "ko": ""
+    },
+    {
+     "id": 3068,
+     "bytes": 31,
+     "en": "Giving up cash chase (shooter)\n",
+     "ko": ""
+    },
+    {
+     "id": 3069,
+     "bytes": 17,
+     "en": "INVALID AI-STATE ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 934,
+   "width": 233,
+   "subs": [
+    {
+     "id": 3070,
+     "bytes": 31,
+     "en": "---------------- Missed weapon\n",
+     "ko": ""
+    },
+    {
+     "id": 3071,
+     "bytes": 34,
+     "en": "Attack network - corrected state (",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 935,
+   "width": 129,
+   "subs": [
+    {
+     "id": 3072,
+     "bytes": 15,
+     "en": "THROWN GRENADE\n",
+     "ko": ""
+    },
+    {
+     "id": 3073,
+     "bytes": 18,
+     "en": "dms attack count: ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 936,
+   "width": 42,
+   "subs": [
+    {
+     "id": 3074,
+     "bytes": 6,
+     "en": "dms: P",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 937,
+   "width": 102,
+   "subs": [
+    {
+     "id": 3075,
+     "bytes": 7,
+     "en": "\n\nTeam ",
+     "ko": ""
+    },
+    {
+     "id": 3076,
+     "bytes": 15,
+     "en": " New strategy: ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 938,
+   "width": 79,
+   "subs": [
+    {
+     "id": 3077,
+     "bytes": 5,
+     "en": "Team ",
+     "ko": ""
+    },
+    {
+     "id": 3078,
+     "bytes": 2,
+     "en": " P",
+     "ko": ""
+    },
+    {
+     "id": 3079,
+     "bytes": 13,
+     "en": " : Collector\n",
+     "ko": ""
+    },
+    {
+     "id": 3080,
+     "bytes": 5,
+     "en": "Team ",
+     "ko": ""
+    },
+    {
+     "id": 3081,
+     "bytes": 2,
+     "en": " P",
+     "ko": ""
+    },
+    {
+     "id": 3082,
+     "bytes": 12,
+     "en": " : Attacker\n",
+     "ko": ""
+    },
+    {
+     "id": 3083,
+     "bytes": 5,
+     "en": "Team ",
+     "ko": ""
+    },
+    {
+     "id": 3084,
+     "bytes": 2,
+     "en": " P",
+     "ko": ""
+    },
+    {
+     "id": 3085,
+     "bytes": 10,
+     "en": " : Sniper\n",
+     "ko": ""
+    },
+    {
+     "id": 3086,
+     "bytes": 5,
+     "en": "Team ",
+     "ko": ""
+    },
+    {
+     "id": 3087,
+     "bytes": 2,
+     "en": " P",
+     "ko": ""
+    },
+    {
+     "id": 3088,
+     "bytes": 9,
+     "en": " : Guard\n",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 939,
+   "width": 290,
+   "subs": [
+    {
+     "id": 3089,
+     "bytes": 15,
+     "en": "Stunned Player ",
+     "ko": ""
+    },
+    {
+     "id": 3090,
+     "bytes": 22,
+     "en": " - Dropped the Cash!!\n",
+     "ko": ""
+    },
+    {
+     "id": 3091,
+     "bytes": 8,
+     "en": "Reroute\n",
+     "ko": ""
+    },
+    {
+     "id": 3092,
+     "bytes": 45,
+     "en": "\n Recreating cash as it has fallen off level\n",
+     "ko": ""
+    },
+    {
+     "id": 3093,
+     "bytes": 31,
+     "en": "Cash Picked up by player!!!! - ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 940,
+   "width": 108,
+   "subs": [
+    {
+     "id": 3094,
+     "bytes": 17,
+     "en": "INVALID AI-STATE ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 941,
+   "width": 167,
+   "subs": [
+    {
+     "id": 3095,
+     "bytes": 31,
+     "en": "---------------- Missed weapon\n",
+     "ko": ""
+    },
+    {
+     "id": 3096,
+     "bytes": 7,
+     "en": "\n\nTeam ",
+     "ko": ""
+    },
+    {
+     "id": 3097,
+     "bytes": 15,
+     "en": " New strategy: ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 942,
+   "width": 79,
+   "subs": [
+    {
+     "id": 3098,
+     "bytes": 5,
+     "en": "Team ",
+     "ko": ""
+    },
+    {
+     "id": 3099,
+     "bytes": 2,
+     "en": " P",
+     "ko": ""
+    },
+    {
+     "id": 3100,
+     "bytes": 13,
+     "en": " : Collector\n",
+     "ko": ""
+    },
+    {
+     "id": 3101,
+     "bytes": 5,
+     "en": "Team ",
+     "ko": ""
+    },
+    {
+     "id": 3102,
+     "bytes": 2,
+     "en": " P",
+     "ko": ""
+    },
+    {
+     "id": 3103,
+     "bytes": 13,
+     "en": " : Attacker1\n",
+     "ko": ""
+    },
+    {
+     "id": 3104,
+     "bytes": 5,
+     "en": "Team ",
+     "ko": ""
+    },
+    {
+     "id": 3105,
+     "bytes": 2,
+     "en": " P",
+     "ko": ""
+    },
+    {
+     "id": 3106,
+     "bytes": 13,
+     "en": " : Attacker2\n",
+     "ko": ""
+    },
+    {
+     "id": 3107,
+     "bytes": 5,
+     "en": "Team ",
+     "ko": ""
+    },
+    {
+     "id": 3108,
+     "bytes": 2,
+     "en": " P",
+     "ko": ""
+    },
+    {
+     "id": 3109,
+     "bytes": 10,
+     "en": " : Gunner\n",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 943,
+   "width": 228,
+   "subs": [
+    {
+     "id": 3110,
+     "bytes": 23,
+     "en": "BOMB GOING OFF NOW....\n",
+     "ko": ""
+    },
+    {
+     "id": 3111,
+     "bytes": 12,
+     "en": "Dead Player ",
+     "ko": ""
+    },
+    {
+     "id": 3112,
+     "bytes": 22,
+     "en": " - Dropped the Bomb!!\n",
+     "ko": ""
+    },
+    {
+     "id": 3113,
+     "bytes": 38,
+     "en": "Bomb got to bunker --- EXPLODE!!!!! : ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 944,
+   "width": 187,
+   "subs": [
+    {
+     "id": 3114,
+     "bytes": 31,
+     "en": "Bomb Picked up by player!!!! - ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 945,
+   "width": 108,
+   "subs": [
+    {
+     "id": 3115,
+     "bytes": 17,
+     "en": "INVALID AI-STATE ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 946,
+   "width": 130,
+   "subs": [
+    {
+     "id": 3116,
+     "bytes": 17,
+     "en": "P%d: got gas mask",
+     "ko": ""
+    },
+    {
+     "id": 3117,
+     "bytes": 15,
+     "en": "THROWN GRENADE\n",
+     "ko": ""
+    },
+    {
+     "id": 3118,
+     "bytes": 18,
+     "en": "dms attack count: ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 947,
+   "width": 42,
+   "subs": [
+    {
+     "id": 3119,
+     "bytes": 6,
+     "en": "dms: P",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 948,
+   "width": 99,
+   "subs": [
+    {
+     "id": 3120,
+     "bytes": 16,
+     "en": "Sniper override\n",
+     "ko": ""
+    },
+    {
+     "id": 3121,
+     "bytes": 5,
+     "en": "Team ",
+     "ko": ""
+    },
+    {
+     "id": 3122,
+     "bytes": 2,
+     "en": " P",
+     "ko": ""
+    },
+    {
+     "id": 3123,
+     "bytes": 13,
+     "en": " : Collector\n",
+     "ko": ""
+    },
+    {
+     "id": 3124,
+     "bytes": 5,
+     "en": "Team ",
+     "ko": ""
+    },
+    {
+     "id": 3125,
+     "bytes": 2,
+     "en": " P",
+     "ko": ""
+    },
+    {
+     "id": 3126,
+     "bytes": 12,
+     "en": " : Attacker\n",
+     "ko": ""
+    },
+    {
+     "id": 3127,
+     "bytes": 5,
+     "en": "Team ",
+     "ko": ""
+    },
+    {
+     "id": 3128,
+     "bytes": 2,
+     "en": " P",
+     "ko": ""
+    },
+    {
+     "id": 3129,
+     "bytes": 10,
+     "en": " : Sniper\n",
+     "ko": ""
+    },
+    {
+     "id": 3130,
+     "bytes": 5,
+     "en": "Team ",
+     "ko": ""
+    },
+    {
+     "id": 3131,
+     "bytes": 2,
+     "en": " P",
+     "ko": ""
+    },
+    {
+     "id": 3132,
+     "bytes": 9,
+     "en": " : Guard\n",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 949,
+   "width": 200,
+   "subs": [
+    {
+     "id": 3133,
+     "bytes": 20,
+     "en": "GAS KILLING NOW....\n",
+     "ko": ""
+    },
+    {
+     "id": 3134,
+     "bytes": 1,
+     "en": "P",
+     "ko": ""
+    },
+    {
+     "id": 3135,
+     "bytes": 31,
+     "en": " Killed too many team mates!!! ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 950,
+   "width": 180,
+   "subs": [
+    {
+     "id": 3136,
+     "bytes": 32,
+     "en": "\n\n\n\n\n\n\n TASK IS DOING SOMETHING\n",
+     "ko": ""
+    },
+    {
+     "id": 3137,
+     "bytes": 35,
+     "en": "\n\n\n\n\n\n\n TASK IS FINISHED SOMETHING\n",
+     "ko": ""
+    },
+    {
+     "id": 3138,
+     "bytes": 17,
+     "en": "INVALID AI-STATE ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 951,
+   "width": 263,
+   "subs": [
+    {
+     "id": 3139,
+     "bytes": 42,
+     "en": "Got flag - Jump off ledge its quicker!!!!\n",
+     "ko": ""
+    },
+    {
+     "id": 3140,
+     "bytes": 14,
+     "en": "Restart getwp ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 952,
+   "width": 226,
+   "subs": [
+    {
+     "id": 3141,
+     "bytes": 33,
+     "en": "Attack network - corrected state\n",
+     "ko": ""
+    },
+    {
+     "id": 3142,
+     "bytes": 15,
+     "en": "THROWN GRENADE\n",
+     "ko": ""
+    },
+    {
+     "id": 3143,
+     "bytes": 18,
+     "en": "dms attack count: ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 953,
+   "width": 42,
+   "subs": [
+    {
+     "id": 3144,
+     "bytes": 6,
+     "en": "dms: P",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 954,
+   "width": 102,
+   "subs": [
+    {
+     "id": 3145,
+     "bytes": 16,
+     "en": "Sniper override\n",
+     "ko": ""
+    },
+    {
+     "id": 3146,
+     "bytes": 6,
+     "en": "\nTeam ",
+     "ko": ""
+    },
+    {
+     "id": 3147,
+     "bytes": 15,
+     "en": " New strategy: ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 955,
+   "width": 79,
+   "subs": [
+    {
+     "id": 3148,
+     "bytes": 5,
+     "en": "Team ",
+     "ko": ""
+    },
+    {
+     "id": 3149,
+     "bytes": 2,
+     "en": " P",
+     "ko": ""
+    },
+    {
+     "id": 3150,
+     "bytes": 13,
+     "en": " : Collector\n",
+     "ko": ""
+    },
+    {
+     "id": 3151,
+     "bytes": 5,
+     "en": "Team ",
+     "ko": ""
+    },
+    {
+     "id": 3152,
+     "bytes": 2,
+     "en": " P",
+     "ko": ""
+    },
+    {
+     "id": 3153,
+     "bytes": 12,
+     "en": " : Attacker\n",
+     "ko": ""
+    },
+    {
+     "id": 3154,
+     "bytes": 5,
+     "en": "Team ",
+     "ko": ""
+    },
+    {
+     "id": 3155,
+     "bytes": 2,
+     "en": " P",
+     "ko": ""
+    },
+    {
+     "id": 3156,
+     "bytes": 10,
+     "en": " : Sniper\n",
+     "ko": ""
+    },
+    {
+     "id": 3157,
+     "bytes": 5,
+     "en": "Team ",
+     "ko": ""
+    },
+    {
+     "id": 3158,
+     "bytes": 2,
+     "en": " P",
+     "ko": ""
+    },
+    {
+     "id": 3159,
+     "bytes": 9,
+     "en": " : Guard\n",
+     "ko": ""
+    },
+    {
+     "id": 3160,
+     "bytes": 5,
+     "en": "Team ",
+     "ko": ""
+    },
+    {
+     "id": 3161,
+     "bytes": 2,
+     "en": " P",
+     "ko": ""
+    },
+    {
+     "id": 3162,
+     "bytes": 10,
+     "en": " : Gunner\n",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 956,
+   "width": 109,
+   "subs": [
+    {
+     "id": 3163,
+     "bytes": 15,
+     "en": "Destroy Flag 1\n",
+     "ko": ""
+    },
+    {
+     "id": 3164,
+     "bytes": 16,
+     "en": "Destroy Flags 2\n",
+     "ko": ""
+    },
+    {
+     "id": 3165,
+     "bytes": 15,
+     "en": "Destroy Flag 3\n",
+     "ko": ""
+    },
+    {
+     "id": 3166,
+     "bytes": 14,
+     "en": "Kill Flag set\n",
+     "ko": ""
+    },
+    {
+     "id": 3167,
+     "bytes": 8,
+     "en": "Dropped ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 957,
+   "width": 290,
+   "subs": [
+    {
+     "id": 3168,
+     "bytes": 19,
+     "en": "Got to return zone\n",
+     "ko": ""
+    },
+    {
+     "id": 3169,
+     "bytes": 45,
+     "en": "\n Recreating cash as it has fallen off level\n",
+     "ko": ""
+    },
+    {
+     "id": 3170,
+     "bytes": 15,
+     "en": "Picked up flag ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 958,
+   "width": 200,
+   "subs": [
+    {
+     "id": 3171,
+     "bytes": 1,
+     "en": "P",
+     "ko": ""
+    },
+    {
+     "id": 3172,
+     "bytes": 31,
+     "en": " Killed too many team mates!!! ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 959,
+   "width": 108,
+   "subs": [
+    {
+     "id": 3173,
+     "bytes": 17,
+     "en": "INVALID AI-STATE ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 960,
+   "width": 102,
+   "subs": [
+    {
+     "id": 3174,
+     "bytes": 14,
+     "en": "Restart getwp ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 961,
+   "width": 233,
+   "subs": [
+    {
+     "id": 3175,
+     "bytes": 34,
+     "en": "Attack network - corrected state (",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 962,
+   "width": 129,
+   "subs": [
+    {
+     "id": 3176,
+     "bytes": 15,
+     "en": "THROWN GRENADE\n",
+     "ko": ""
+    },
+    {
+     "id": 3177,
+     "bytes": 18,
+     "en": "dms attack count: ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 963,
+   "width": 42,
+   "subs": [
+    {
+     "id": 3178,
+     "bytes": 6,
+     "en": "dms: P",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 964,
+   "width": 108,
+   "subs": [
+    {
+     "id": 3179,
+     "bytes": 17,
+     "en": "INVALID AI-STATE ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 965,
+   "width": 102,
+   "subs": [
+    {
+     "id": 3180,
+     "bytes": 14,
+     "en": "Restart getwp ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 966,
+   "width": 233,
+   "subs": [
+    {
+     "id": 3181,
+     "bytes": 34,
+     "en": "Attack network - corrected state (",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 967,
+   "width": 129,
+   "subs": [
+    {
+     "id": 3182,
+     "bytes": 15,
+     "en": "THROWN GRENADE\n",
+     "ko": ""
+    },
+    {
+     "id": 3183,
+     "bytes": 18,
+     "en": "dms attack count: ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 968,
+   "width": 42,
+   "subs": [
+    {
+     "id": 3184,
+     "bytes": 6,
+     "en": "dms: P",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 969,
+   "width": 102,
+   "subs": [
+    {
+     "id": 3185,
+     "bytes": 6,
+     "en": "\nTeam ",
+     "ko": ""
+    },
+    {
+     "id": 3186,
+     "bytes": 15,
+     "en": " New strategy: ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 970,
+   "width": 79,
+   "subs": [
+    {
+     "id": 3187,
+     "bytes": 5,
+     "en": "Team ",
+     "ko": ""
+    },
+    {
+     "id": 3188,
+     "bytes": 2,
+     "en": " P",
+     "ko": ""
+    },
+    {
+     "id": 3189,
+     "bytes": 13,
+     "en": " : Collector\n",
+     "ko": ""
+    },
+    {
+     "id": 3190,
+     "bytes": 5,
+     "en": "Team ",
+     "ko": ""
+    },
+    {
+     "id": 3191,
+     "bytes": 2,
+     "en": " P",
+     "ko": ""
+    },
+    {
+     "id": 3192,
+     "bytes": 12,
+     "en": " : Attacker\n",
+     "ko": ""
+    },
+    {
+     "id": 3193,
+     "bytes": 5,
+     "en": "Team ",
+     "ko": ""
+    },
+    {
+     "id": 3194,
+     "bytes": 2,
+     "en": " P",
+     "ko": ""
+    },
+    {
+     "id": 3195,
+     "bytes": 10,
+     "en": " : Sniper\n",
+     "ko": ""
+    },
+    {
+     "id": 3196,
+     "bytes": 5,
+     "en": "Team ",
+     "ko": ""
+    },
+    {
+     "id": 3197,
+     "bytes": 2,
+     "en": " P",
+     "ko": ""
+    },
+    {
+     "id": 3198,
+     "bytes": 9,
+     "en": " : Guard\n",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 971,
+   "width": 124,
+   "subs": [
+    {
+     "id": 3199,
+     "bytes": 18,
+     "en": "Drop ugga in nest\n",
+     "ko": ""
+    },
+    {
+     "id": 3200,
+     "bytes": 10,
+     "en": "Reset egg\n",
+     "ko": ""
+    },
+    {
+     "id": 3201,
+     "bytes": 14,
+     "en": "Picked up egg ",
+     "ko": ""
+    }
+   ]
+  },
+  {
+   "id": 972,
+   "width": 298,
+   "subs": [
+    {
+     "id": 3202,
+     "bytes": 30,
+     "en": "\n\n\n\n\n\n\n\n\n\n SKIPPED DEATH\n\n\n\n\n\n",
+     "ko": ""
+    },
+    {
+     "id": 3203,
+     "bytes": 31,
+     "en": "\n\n\n\n\n\n\n\n\n\n LIFE COLLECTED\n\n\n\n\n\n",
+     "ko": ""
+    },
+    {
+     "id": 3204,
+     "bytes": 44,
+     "en": "Sent to HELL but task was done - Tell Shawn\n",
+     "ko": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,516 @@
+{
+ "_": "신규 발견분 (검열 기호·버튼 아이콘 포함 문자열). ko 의 高바이트 문자는 그대로 둘 것.",
+ "part": 14,
+ "messages": [
+  {
+   "id": 129,
+   "width": 30,
+   "subs": [
+    {
+     "id": 3205,
+     "bytes": 15,
+     "en": "¦£²£µ£³£´¡ you!",
+     "ko": "¦£²£µ£³£´¡ 너!"
+    }
+   ]
+  },
+  {
+   "id": 140,
+   "width": 109,
+   "subs": [
+    {
+     "id": 3206,
+     "bytes": 43,
+     "en": "¾what the heck's \n   he moaning\n    about ?",
+     "ko": "¾저 자식 뭘\n   저렇게\n    투덜대?"
+    }
+   ]
+  },
+  {
+   "id": 146,
+   "width": 86,
+   "subs": [
+    {
+     "id": 3207,
+     "bytes": 49,
+     "en": "  hey, barry,\nlook at this \n    ¦¢µ¢²¢´¢³¢²¢µ ! !",
+     "ko": "  야, 배리,\n이것 좀 봐\n    ¦¢µ¢²¢´¢³¢²¢µ ! !"
+    }
+   ]
+  },
+  {
+   "id": 147,
+   "width": 89,
+   "subs": [
+    {
+     "id": 3208,
+     "bytes": 33,
+     "en": "but i'm blind,\n  you ¦¤²¤³¤µ¤´¡ !",
+     "ko": "난 장님이야,\n  이 ¦¤²¤³¤µ¤´¡!"
+    },
+    {
+     "id": 3209,
+     "bytes": 34,
+     "en": " oh, use your \n¦¢µ¢´¢²¢³¢²¡ radar.",
+     "ko": " 아, 네\n¦¢µ¢´¢²¢³¢²¡ 레이더 써."
+    }
+   ]
+  },
+  {
+   "id": 149,
+   "width": 150,
+   "subs": [
+    {
+     "id": 3210,
+     "bytes": 44,
+     "en": "what you do that for,\n       dumb ¦£µ£²£´£³.",
+     "ko": "왜 그런 짓을,\n       멍청한 ¦£µ£²£´£³."
+    },
+    {
+     "id": 3211,
+     "bytes": 25,
+     "en": "yeah ! ya dumb ¦¤²¤µ¤³¤´.",
+     "ko": "그래! 멍청이 ¦¤²¤µ¤³¤´."
+    }
+   ]
+  },
+  {
+   "id": 189,
+   "width": 130,
+   "subs": [
+    {
+     "id": 3212,
+     "bytes": 34,
+     "en": "hey, where the\n¢µ¢²¢µ¢³ ¡you been,",
+     "ko": "야, 어디\n¢µ¢²¢µ¢³ ¡있었냐,"
+    }
+   ]
+  },
+  {
+   "id": 196,
+   "width": 99,
+   "subs": [
+    {
+     "id": 3213,
+     "bytes": 41,
+     "en": "¾hope she's rich\n'cos she ain't\n    cute.",
+     "ko": "¾돈이나 많길\n귀엽진\n    않으니."
+    }
+   ]
+  },
+  {
+   "id": 211,
+   "width": 130,
+   "subs": [
+    {
+     "id": 3214,
+     "bytes": 34,
+     "en": "hey, where the\n¢µ¢²¢µ¢³ ¡you been,",
+     "ko": "야, 어디\n¢µ¢²¢µ¢³ ¡있었냐,"
+    }
+   ]
+  },
+  {
+   "id": 213,
+   "width": 100,
+   "subs": [
+    {
+     "id": 3215,
+     "bytes": 32,
+     "en": "¾Just add one\nstick of tnt . . .",
+     "ko": "¾티엔티 한\n개만 넣고. . ."
+    }
+   ]
+  },
+  {
+   "id": 214,
+   "width": 110,
+   "subs": [
+    {
+     "id": 3216,
+     "bytes": 18,
+     "en": "¾That's blown it !",
+     "ko": "¾날아갔군!"
+    }
+   ]
+  },
+  {
+   "id": 215,
+   "width": 120,
+   "subs": [
+    {
+     "id": 3217,
+     "bytes": 15,
+     "en": "¾What a stink !",
+     "ko": "¾냄새 지독해!"
+    }
+   ]
+  },
+  {
+   "id": 279,
+   "width": 109,
+   "subs": [
+    {
+     "id": 3218,
+     "bytes": 14,
+     "en": "¤µ ´ µ ³¡ off!",
+     "ko": "¤µ ´ µ ³¡꺼져"
+    },
+    {
+     "id": 3219,
+     "bytes": 15,
+     "en": "¢´ ² µ ³¡ off !",
+     "ko": "¢´ ² µ ³¡ 꺼져!"
+    }
+   ]
+  },
+  {
+   "id": 284,
+   "width": 57,
+   "subs": [
+    {
+     "id": 3220,
+     "bytes": 10,
+     "en": "¾nutters !",
+     "ko": "¾미친놈!"
+    }
+   ]
+  },
+  {
+   "id": 292,
+   "width": 33,
+   "subs": [
+    {
+     "id": 3221,
+     "bytes": 16,
+     "en": "¦¢µ¢²¢´¢³¡ off !",
+     "ko": "¦¢µ¢²¢´¢³¡ 꺼져"
+    }
+   ]
+  },
+  {
+   "id": 305,
+   "width": 94,
+   "subs": [
+    {
+     "id": 3222,
+     "bytes": 5,
+     "en": "hey !",
+     "ko": "야!"
+    },
+    {
+     "id": 3223,
+     "bytes": 45,
+     "en": "isn't that the \n ¦¤µ²´³¡ that \n burnt barry ?",
+     "ko": "배리 태운\n ¦¤µ²´³¡ 그놈\n 아냐?"
+    }
+   ]
+  },
+  {
+   "id": 307,
+   "width": 100,
+   "subs": [
+    {
+     "id": 3224,
+     "bytes": 30,
+     "en": " i gotta get \noff this thing !",
+     "ko": " 이거에서\n내려야겠어!"
+    }
+   ]
+  },
+  {
+   "id": 308,
+   "width": 152,
+   "subs": [
+    {
+     "id": 3225,
+     "bytes": 16,
+     "en": "twatting shite !",
+     "ko": "빌어먹을!"
+    },
+    {
+     "id": 3226,
+     "bytes": 44,
+     "en": "that's tossed it right \n    up the¢ ´ ² µ ³.",
+     "ko": "완전히 망했네\n    ¢ ´ ² µ ³."
+    }
+   ]
+  },
+  {
+   "id": 311,
+   "width": 94,
+   "subs": [
+    {
+     "id": 3227,
+     "bytes": 17,
+     "en": "¾it certainly is.",
+     "ko": "¾확실히 그래."
+    }
+   ]
+  },
+  {
+   "id": 324,
+   "width": 79,
+   "subs": [
+    {
+     "id": 3228,
+     "bytes": 5,
+     "en": "hey !",
+     "ko": "야!"
+    },
+    {
+     "id": 3229,
+     "bytes": 27,
+     "en": "who's that \nfurry ¦¤µ²´³¡ ?",
+     "ko": "저 ¦¤µ²´³¡\n누구야?"
+    }
+   ]
+  },
+  {
+   "id": 327,
+   "width": 76,
+   "subs": [
+    {
+     "id": 3230,
+     "bytes": 26,
+     "en": "thanks, ¦¢µ¢²¢´¢³\n  head !",
+     "ko": "고맙다 ¦¢µ¢²¢´¢³\n  머리!"
+    },
+    {
+     "id": 3231,
+     "bytes": 38,
+     "en": "now go on,\n¦¢µ¢²¢´¢³ ¡off \n  with ya !",
+     "ko": "자 그럼,\n¦¢µ¢²¢´¢³ ¡꺼져\n  라!"
+    }
+   ]
+  },
+  {
+   "id": 354,
+   "width": 74,
+   "subs": [
+    {
+     "id": 3232,
+     "bytes": 23,
+     "en": "¾damn, he's\nsussed me .",
+     "ko": "¾이런,\n들켰네."
+    }
+   ]
+  },
+  {
+   "id": 405,
+   "width": 133,
+   "subs": [
+    {
+     "id": 3233,
+     "bytes": 17,
+     "en": "¢µ²´³¡ that shit.",
+     "ko": "¢µ²´³¡ 그 똥."
+    },
+    {
+     "id": 3234,
+     "bytes": 21,
+     "en": "¢µ¢²¢´¢³ ¡that shit .",
+     "ko": "¢µ¢²¢´¢³ ¡그 똥."
+    }
+   ]
+  },
+  {
+   "id": 431,
+   "width": 82,
+   "subs": [
+    {
+     "id": 3235,
+     "bytes": 13,
+     "en": "¾what a pair.",
+     "ko": "¾참 한쌍."
+    }
+   ]
+  },
+  {
+   "id": 433,
+   "width": 78,
+   "subs": [
+    {
+     "id": 3236,
+     "bytes": 24,
+     "en": "¾who moved \n  the line ?",
+     "ko": "¾누가 선을\n  옮겼어?"
+    }
+   ]
+  },
+  {
+   "id": 446,
+   "width": 85,
+   "subs": [
+    {
+     "id": 3237,
+     "bytes": 16,
+     "en": "¾what the . . . ",
+     "ko": "¾뭐야 이거. . ."
+    }
+   ]
+  },
+  {
+   "id": 481,
+   "width": 100,
+   "subs": [
+    {
+     "id": 3238,
+     "bytes": 21,
+     "en": " ¦ ¢´µ²´µ³\narsehole !",
+     "ko": " ¦ ¢´µ²´µ³\n멍청이!"
+    }
+   ]
+  },
+  {
+   "id": 482,
+   "width": 125,
+   "subs": [
+    {
+     "id": 3239,
+     "bytes": 75,
+     "en": " all i do all day\n  is try and sort \nhis stupid ¦¢µ²³´µ³¡\n   problems out !",
+     "ko": " 하루종일 하는 게\n  그 멍청한 ¦¢µ²³´µ³\n뒤치다꺼리야"
+    },
+    {
+     "id": 3240,
+     "bytes": 44,
+     "en": " asshole, i ¦¢µ´³²´¡\n  hate that ¦¤´³²µ³²¡ !",
+     "ko": " 멍청이, ¦¢µ´³²´¡\n  싫어 ¦¤´³²µ³²¡!"
+    }
+   ]
+  },
+  {
+   "id": 532,
+   "width": 133,
+   "subs": [
+    {
+     "id": 3241,
+     "bytes": 37,
+     "en": "hey ! where the\n¦¢µ¢²¢´¢³¡ you been ?",
+     "ko": "야! 어디\n¦¢µ¢²¢´¢³¡ 있었냐?"
+    }
+   ]
+  },
+  {
+   "id": 582,
+   "width": 66,
+   "subs": [
+    {
+     "id": 3242,
+     "bytes": 11,
+     "en": "¦nooo ! ! !",
+     "ko": "¦안돼! ! !"
+    }
+   ]
+  },
+  {
+   "id": 583,
+   "width": 129,
+   "subs": [
+    {
+     "id": 3243,
+     "bytes": 59,
+     "en": "     do you know\nwhat your ¢µ ¢´ ² ¢³ ¢µ\n    daughter did ?",
+     "ko": "     네 ¢µ ¢´ ² ¢³ ¢µ\n딸이 뭘 했는지\n    알아"
+    }
+   ]
+  },
+  {
+   "id": 625,
+   "width": 89,
+   "subs": [
+    {
+     "id": 3244,
+     "bytes": 7,
+     "en": "press ©",
+     "ko": "눌러 ©"
+    }
+   ]
+  },
+  {
+   "id": 636,
+   "width": 71,
+   "subs": [
+    {
+     "id": 3245,
+     "bytes": 8,
+     "en": "¾See ya.",
+     "ko": "¾또 봐."
+    }
+   ]
+  },
+  {
+   "id": 639,
+   "width": 107,
+   "subs": [
+    {
+     "id": 3246,
+     "bytes": 50,
+     "en": "    seems to be \n another one of\nthose © buttons !",
+     "ko": "    또 다른\n © 버튼\n중 하나인가!"
+    }
+   ]
+  },
+  {
+   "id": 650,
+   "width": 114,
+   "subs": [
+    {
+     "id": 3247,
+     "bytes": 26,
+     "en": "¦¤´ ³ µ ²¡ knows\nwhat for.",
+     "ko": "¦¤´ ³ µ ²¡ 왜인지\n몰라."
+    }
+   ]
+  },
+  {
+   "id": 651,
+   "width": 131,
+   "subs": [
+    {
+     "id": 3248,
+     "bytes": 33,
+     "en": "there's these ¦¢µ ² ´ ³\n    cows.",
+     "ko": "이 ¦¢µ ² ´ ³\n   소들이 있는데."
+    },
+    {
+     "id": 3249,
+     "bytes": 14,
+     "en": "oh, charming !",
+     "ko": "오, 멋지네!"
+    }
+   ]
+  },
+  {
+   "id": 685,
+   "width": 92,
+   "subs": [
+    {
+     "id": 3250,
+     "bytes": 27,
+     "en": "¾don't forget \n  the cash !",
+     "ko": "¾돈 잊지\n  마라!"
+    }
+   ]
+  },
+  {
+   "id": 887,
+   "width": 143,
+   "subs": [
+    {
+     "id": 3251,
+     "bytes": 24,
+     "en": "© pressing \n    moments,",
+     "ko": "© 긴박한\n    순간,"
+    },
+    {
+     "id": 3252,
+     "bytes": 11,
+     "en": "don't you ?",
+     "ko": "그렇지?"
+    }
+   ]
+  }
+ ]
+}
